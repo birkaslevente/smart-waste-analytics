@@ -1,0 +1,3290 @@
+CountryID,Country,Source,Year,Waste_Collected_1000t
+8,Albania,E,2001,
+20,Andorra,U,2001,37.4
+24,Angola,U,2001,
+660,Anguilla,U,2001,5.634637355804443
+28,Antigua and Barbuda,U,2001,
+32,Argentina,O,2001,
+51,Armenia,U,2001,233.6
+36,Australia,O,2001,
+40,Austria,E,2001,4634.0
+31,Azerbaijan,U,2001,1268.0
+44,Bahamas,U,2001,
+48,Bahrain,U,2001,515.4281
+50,Bangladesh,U,2001,
+52,Barbados,U,2001,
+112,Belarus,U,2001,
+56,Belgium,E,2001,4802.0
+204,Benin,U,2001,
+60,Bermuda,U,2001,
+64,Bhutan,U,2001,
+68,Bolivia (Plurinational State of),U,2001,685.7397
+70,Bosnia and Herzegovina,E,2001,
+72,Botswana,U,2001,
+76,Brazil,U,2001,
+92,British Virgin Islands,U,2001,29.86000061035156
+96,Brunei Darussalam,U,2001,
+100,Bulgaria,E,2001,4773.0
+854,Burkina Faso,U,2001,
+108,Burundi,U,2001,13.1
+132,Cabo Verde,U,2001,
+116,Cambodia,U,2001,
+120,Cameroon,U,2001,
+152,Chile,O,2001,4514.7
+156,China,U,2001,134700.0
+344,"China, Hong Kong Special Administrative Region",U,2001,5332.0
+446,"China, Macao Special Administrative Region",U,2001,231.31
+170,Colombia,O,2001,
+188,Costa Rica,O,2001,
+191,Croatia,E,2001,
+192,Cuba,U,2001,
+531,Curaçao,U,2001,
+196,Cyprus,E,2001,456.0
+203,Czechia,E,2001,2798.0
+180,Democratic Republic of the Congo,U,2001,
+208,Denmark,E,2001,3519.0
+212,Dominica,U,2001,13.5
+218,Ecuador,U,2001,
+818,Egypt,U,2001,
+222,El Salvador,U,2001,
+233,Estonia,E,2001,509.0
+242,Fiji,U,2001,
+246,Finland,E,2001,2412.0
+250,France,E,2001,32198.0
+254,French Guiana,U,2001,
+258,French Polynesia,U,2001,
+268,Georgia,U,2001,
+276,Germany,E,2001,52075.0
+288,Ghana,U,2001,1729.7861328125
+300,Greece,E,2001,4559.0
+312,Guadeloupe,U,2001,
+340,Honduras,U,2001,
+348,Hungary,E,2001,4603.0
+352,Iceland,E,2001,133.0
+356,India,U,2001,
+360,Indonesia,U,2001,
+364,Iran (Islamic Republic of),U,2001,
+368,Iraq,U,2001,
+372,Ireland,E,2001,2704.0
+376,Israel,O,2001,3590.481
+380,Italy,E,2001,29409.0
+388,Jamaica,U,2001,953.0
+392,Japan,O,2001,54681.0
+398,Kazakhstan,U,2001,
+404,Kenya,U,2001,
+410,Korea,O,2001,17702.1
+414,Kuwait,U,2001,5272.0
+417,Kyrgyzstan,U,2001,1377.0
+428,Latvia,E,2001,713.0
+422,Lebanon,U,2001,1438.0
+438,Liechtenstein,U,2001,35.3112
+440,Lithuania,E,2001,1313.0
+442,Luxembourg,E,2001,285.0
+450,Madagascar,U,2001,
+458,Malaysia,U,2001,6726.5049
+462,Maldives,U,2001,
+470,Malta,E,2001,212.0
+584,Marshall Islands,U,2001,
+474,Martinique,U,2001,245.6
+480,Mauritius,U,2001,298.73
+484,Mexico,O,2001,31488.6
+492,Monaco,U,2001,39.56
+499,Montenegro,E,2001,
+500,Montserrat,U,2001,
+504,Morocco,U,2001,
+104,Myanmar,U,2001,
+524,Nepal,U,2001,
+528,Netherlands,E,2001,9550.0
+554,New Zealand,O,2001,
+562,Niger,U,2001,8250.0
+807,North Macedonia,E,2001,
+578,Norway,E,2001,1629.0
+591,Panama,U,2001,372.7044677734375
+604,Peru,U,2001,
+616,Poland,E,2001,11109.0
+620,Portugal,E,2001,4709.0
+634,Qatar,U,2001,
+498,Republic of Moldova,U,2001,1130.8
+638,Réunion,U,2001,
+642,Romania,E,2001,7539.0
+643,Russia,O,2001,51115.2
+659,Saint Kitts and Nevis,U,2001,
+662,Saint Lucia,U,2001,
+670,Saint Vincent and the Grenadines,U,2001,
+882,Samoa,U,2001,
+682,Saudi Arabia,O,2001,
+686,Senegal,U,2001,
+688,Serbia,E,2001,
+690,Seychelles,U,2001,
+702,Singapore,U,2001,5035.3999
+703,Slovakia,E,2001,1286.0
+705,Slovenia,E,2001,953.0
+724,Spain,E,2001,26616.0
+144,Sri Lanka,U,2001,
+275,State of Palestine,U,2001,1102.0
+736,Sudan (Former),U,2001,
+740,Suriname,U,2001,
+752,Sweden,E,2001,3907.0
+756,Switzerland,E,2001,4794.0
+764,Thailand,U,2001,
+768,Togo,U,2001,
+780,Trinidad and Tobago,U,2001,379.0
+788,Tunisia,U,2001,1180.0
+792,Türkiye,E,2001,31031.0
+800,Uganda,U,2001,
+804,Ukraine,U,2001,
+784,United Arab Emirates,U,2001,
+826,United Kingdom of Great Britain and Northern Ireland,O,2001,34945.0
+834,United Republic of Tanzania,U,2001,
+840,United States,O,2001,218450.0
+862,Venezuela (Bolivarian Republic of),U,2001,
+704,Viet Nam,U,2001,
+887,Yemen,U,2001,822.0
+894,Zambia,U,2001,
+716,Zimbabwe,U,2001,
+8,Albania,E,2002,
+20,Andorra,U,2002,48.1
+24,Angola,U,2002,
+660,Anguilla,U,2002,5.104964733123779
+28,Antigua and Barbuda,U,2002,
+32,Argentina,O,2002,
+51,Armenia,U,2002,284.4
+36,Australia,O,2002,
+40,Austria,E,2002,4914.0
+31,Azerbaijan,U,2002,1854.0
+44,Bahamas,U,2002,
+48,Bahrain,U,2002,536.8204
+50,Bangladesh,U,2002,
+52,Barbados,U,2002,
+112,Belarus,U,2002,
+56,Belgium,E,2002,4981.0
+204,Benin,U,2002,
+60,Bermuda,U,2002,
+64,Bhutan,U,2002,
+68,Bolivia (Plurinational State of),U,2002,661.5117
+70,Bosnia and Herzegovina,E,2002,
+72,Botswana,U,2002,
+76,Brazil,U,2002,
+92,British Virgin Islands,U,2002,24.93600082397461
+96,Brunei Darussalam,U,2002,
+100,Bulgaria,E,2002,4715.0
+854,Burkina Faso,U,2002,
+108,Burundi,U,2002,22.9
+132,Cabo Verde,U,2002,
+116,Cambodia,U,2002,
+120,Cameroon,U,2002,
+152,Chile,O,2002,4647.1
+156,China,U,2002,136500.0
+344,"China, Hong Kong Special Administrative Region",U,2002,5398.0
+446,"China, Macao Special Administrative Region",U,2002,241.83
+170,Colombia,O,2002,
+188,Costa Rica,O,2002,
+191,Croatia,E,2002,
+192,Cuba,U,2002,3905.0
+531,Curaçao,U,2002,
+196,Cyprus,E,2002,465.0
+203,Czechia,E,2002,2845.0
+180,Democratic Republic of the Congo,U,2002,
+208,Denmark,E,2002,3568.0
+212,Dominica,U,2002,13.5
+218,Ecuador,U,2002,
+818,Egypt,U,2002,
+222,El Salvador,U,2002,
+233,Estonia,E,2002,553.0
+242,Fiji,U,2002,
+246,Finland,E,2002,2384.0
+250,France,E,2002,32684.0
+254,French Guiana,U,2002,
+258,French Polynesia,U,2002,
+268,Georgia,U,2002,
+276,Germany,E,2002,52772.0
+288,Ghana,U,2002,1805.613159179688
+300,Greece,E,2002,4640.0
+312,Guadeloupe,U,2002,
+340,Honduras,U,2002,
+348,Hungary,E,2002,4646.0
+352,Iceland,E,2002,137.0
+356,India,U,2002,
+360,Indonesia,U,2002,4859.6099
+364,Iran (Islamic Republic of),U,2002,
+368,Iraq,U,2002,
+372,Ireland,E,2002,2720.0
+376,Israel,O,2002,3855.364
+380,Italy,E,2002,29864.0
+388,Jamaica,U,2002,955.0
+392,Japan,O,2002,54199.0
+398,Kazakhstan,U,2002,
+404,Kenya,U,2002,
+410,Korea,O,2002,18214.2
+414,Kuwait,U,2002,6076.0
+417,Kyrgyzstan,U,2002,1272.0
+428,Latvia,E,2002,793.0
+422,Lebanon,U,2002,
+438,Liechtenstein,U,2002,36.0828
+440,Lithuania,E,2002,1395.0
+442,Luxembourg,E,2002,291.0
+450,Madagascar,U,2002,
+458,Malaysia,U,2002,7094.8999
+462,Maldives,U,2002,136.1439971923828
+470,Malta,E,2002,214.0
+584,Marshall Islands,U,2002,
+474,Martinique,U,2002,
+480,Mauritius,U,2002,332.42
+484,Mexico,O,2002,32173.6
+492,Monaco,U,2002,40.22
+499,Montenegro,E,2002,
+500,Montserrat,U,2002,
+504,Morocco,U,2002,
+104,Myanmar,U,2002,
+524,Nepal,U,2002,
+528,Netherlands,E,2002,9684.0
+554,New Zealand,O,2002,3022.0
+562,Niger,U,2002,8625.0
+807,North Macedonia,E,2002,
+578,Norway,E,2002,1780.0
+591,Panama,U,2002,369.7645263671875
+604,Peru,U,2002,
+616,Poland,E,2002,10509.0
+620,Portugal,E,2002,4595.0
+634,Qatar,U,2002,
+498,Republic of Moldova,U,2002,1172.7
+638,Réunion,U,2002,
+642,Romania,E,2002,8365.0
+643,Russia,O,2002,54010.5
+659,Saint Kitts and Nevis,U,2002,
+662,Saint Lucia,U,2002,
+670,Saint Vincent and the Grenadines,U,2002,37.79999923706055
+882,Samoa,U,2002,
+682,Saudi Arabia,O,2002,
+686,Senegal,U,2002,
+688,Serbia,E,2002,
+690,Seychelles,U,2002,
+702,Singapore,U,2002,4809.0
+703,Slovakia,E,2002,1449.0
+705,Slovenia,E,2002,812.0
+724,Spain,E,2002,26404.0
+144,Sri Lanka,U,2002,
+275,State of Palestine,U,2002,1133.0
+736,Sudan (Former),U,2002,276.0
+740,Suriname,U,2002,
+752,Sweden,E,2002,4149.0
+756,Switzerland,E,2002,4936.0
+764,Thailand,U,2002,
+768,Togo,U,2002,
+780,Trinidad and Tobago,U,2002,425.0
+788,Tunisia,U,2002,1195.0
+792,Türkiye,E,2002,30999.0
+800,Uganda,U,2002,2091.3608
+804,Ukraine,U,2002,
+784,United Arab Emirates,U,2002,
+826,United Kingdom of Great Britain and Northern Ireland,O,2002,35532.0
+834,United Republic of Tanzania,U,2002,
+840,United States,O,2002,222560.0
+862,Venezuela (Bolivarian Republic of),U,2002,
+704,Viet Nam,U,2002,
+887,Yemen,U,2002,1310.0
+894,Zambia,U,2002,
+716,Zimbabwe,U,2002,
+8,Albania,E,2003,
+20,Andorra,U,2003,48.68
+24,Angola,U,2003,
+660,Anguilla,U,2003,4.639725208282471
+28,Antigua and Barbuda,U,2003,
+32,Argentina,O,2003,
+51,Armenia,U,2003,368.6
+36,Australia,O,2003,
+40,Austria,E,2003,4932.0
+31,Azerbaijan,U,2003,1889.0
+44,Bahamas,U,2003,
+48,Bahrain,U,2003,659.847
+50,Bangladesh,U,2003,
+52,Barbados,U,2003,
+112,Belarus,U,2003,
+56,Belgium,E,2003,4824.0
+204,Benin,U,2003,
+60,Bermuda,U,2003,
+64,Bhutan,U,2003,
+68,Bolivia (Plurinational State of),U,2003,809.1672
+70,Bosnia and Herzegovina,E,2003,
+72,Botswana,U,2003,
+76,Brazil,U,2003,
+92,British Virgin Islands,U,2003,23.6299991607666
+96,Brunei Darussalam,U,2003,
+100,Bulgaria,E,2003,4690.0
+854,Burkina Faso,U,2003,
+108,Burundi,U,2003,18.2
+132,Cabo Verde,U,2003,66.386
+116,Cambodia,U,2003,
+120,Cameroon,U,2003,
+152,Chile,O,2003,4802.3
+156,China,U,2003,148570.0
+344,"China, Hong Kong Special Administrative Region",U,2003,5824.0
+446,"China, Macao Special Administrative Region",U,2003,247.16
+170,Colombia,O,2003,5289.0
+188,Costa Rica,O,2003,
+191,Croatia,E,2003,
+192,Cuba,U,2003,4088.1001
+531,Curaçao,U,2003,
+196,Cyprus,E,2003,481.0
+203,Czechia,E,2003,2857.0
+180,Democratic Republic of the Congo,U,2003,
+208,Denmark,E,2003,3618.0
+212,Dominica,U,2003,13.5
+218,Ecuador,U,2003,
+818,Egypt,U,2003,
+222,El Salvador,U,2003,
+233,Estonia,E,2003,567.0
+242,Fiji,U,2003,
+246,Finland,E,2003,2428.0
+250,France,E,2003,31400.0
+254,French Guiana,U,2003,
+258,French Polynesia,U,2003,
+268,Georgia,U,2003,
+276,Germany,E,2003,49622.0
+288,Ghana,U,2003,1854.36474609375
+300,Greece,E,2003,4710.0
+312,Guadeloupe,U,2003,
+340,Honduras,U,2003,
+348,Hungary,E,2003,4700.0
+352,Iceland,E,2003,140.0
+356,India,U,2003,
+360,Indonesia,U,2003,5470.7881
+364,Iran (Islamic Republic of),U,2003,
+368,Iraq,U,2003,
+372,Ireland,E,2003,2918.0
+376,Israel,O,2003,3846.939
+380,Italy,E,2003,30035.0
+388,Jamaica,U,2003,962.0
+392,Japan,O,2003,54271.0
+398,Kazakhstan,U,2003,
+404,Kenya,U,2003,
+410,Korea,O,2003,18518.9
+414,Kuwait,U,2003,5070.0
+417,Kyrgyzstan,U,2003,1242.0
+428,Latvia,E,2003,695.0
+422,Lebanon,U,2003,
+438,Liechtenstein,U,2003,36.798
+440,Lithuania,E,2003,1328.0
+442,Luxembourg,E,2003,306.0
+450,Madagascar,U,2003,
+458,Malaysia,U,2003,7483.4707
+462,Maldives,U,2003,96.02100372314453
+470,Malta,E,2003,231.0
+584,Marshall Islands,U,2003,
+474,Martinique,U,2003,
+480,Mauritius,U,2003,359.46
+484,Mexico,O,2003,32915.7
+492,Monaco,U,2003,40.04
+499,Montenegro,E,2003,
+500,Montserrat,U,2003,
+504,Morocco,U,2003,
+104,Myanmar,U,2003,
+524,Nepal,U,2003,
+528,Netherlands,E,2003,9504.0
+554,New Zealand,O,2003,3075.0
+562,Niger,U,2003,9000.0
+807,North Macedonia,E,2003,
+578,Norway,E,2003,1836.0
+591,Panama,U,2003,382.4931030273438
+604,Peru,U,2003,
+616,Poland,E,2003,9925.0
+620,Portugal,E,2003,4693.0
+634,Qatar,U,2003,
+498,Republic of Moldova,U,2003,1164.3
+638,Réunion,U,2003,
+642,Romania,E,2003,7611.0
+643,Russia,O,2003,55068.43
+659,Saint Kitts and Nevis,U,2003,
+662,Saint Lucia,U,2003,
+670,Saint Vincent and the Grenadines,U,2003,
+882,Samoa,U,2003,
+682,Saudi Arabia,O,2003,
+686,Senegal,U,2003,
+688,Serbia,E,2003,
+690,Seychelles,U,2003,
+702,Singapore,U,2003,4728.3999
+703,Slovakia,E,2003,1511.0
+705,Slovenia,E,2003,834.0
+724,Spain,E,2003,27270.0
+144,Sri Lanka,U,2003,
+275,State of Palestine,U,2003,1165.0
+736,Sudan (Former),U,2003,415.0
+740,Suriname,U,2003,
+752,Sweden,E,2003,4159.0
+756,Switzerland,E,2003,4916.0
+764,Thailand,U,2003,
+768,Togo,U,2003,
+780,Trinidad and Tobago,U,2003,
+788,Tunisia,U,2003,1205.0
+792,Türkiye,E,2003,31081.0
+800,Uganda,U,2003,2164.4954
+804,Ukraine,U,2003,
+784,United Arab Emirates,U,2003,
+826,United Kingdom of Great Britain and Northern Ireland,O,2003,35279.0
+834,United Republic of Tanzania,U,2003,
+840,United States,O,2003,223548.0
+862,Venezuela (Bolivarian Republic of),U,2003,
+704,Viet Nam,U,2003,
+887,Yemen,U,2003,1105.0
+894,Zambia,U,2003,
+716,Zimbabwe,U,2003,
+8,Albania,E,2004,
+20,Andorra,U,2004,49.06
+24,Angola,U,2004,
+660,Anguilla,U,2004,5.273289203643799
+28,Antigua and Barbuda,U,2004,
+32,Argentina,O,2004,
+51,Armenia,U,2004,377.0
+36,Australia,O,2004,
+40,Austria,E,2004,4687.0
+31,Azerbaijan,U,2004,1784.0
+44,Bahamas,U,2004,168.8619995117188
+48,Bahrain,U,2004,717.7533
+50,Bangladesh,U,2004,
+52,Barbados,U,2004,
+112,Belarus,U,2004,2395.2
+56,Belgium,E,2004,5059.0
+204,Benin,U,2004,
+60,Bermuda,U,2004,
+64,Bhutan,U,2004,
+68,Bolivia (Plurinational State of),U,2004,805.0906
+70,Bosnia and Herzegovina,E,2004,
+72,Botswana,U,2004,
+76,Brazil,U,2004,38611.1796875
+92,British Virgin Islands,U,2004,33.03300094604492
+96,Brunei Darussalam,U,2004,
+100,Bulgaria,E,2004,4619.0
+854,Burkina Faso,U,2004,548.5
+108,Burundi,U,2004,18.2
+132,Cabo Verde,U,2004,71.753
+116,Cambodia,U,2004,
+120,Cameroon,U,2004,
+152,Chile,O,2004,4964.1
+156,China,U,2004,155090.0
+344,"China, Hong Kong Special Administrative Region",U,2004,5704.0
+446,"China, Macao Special Administrative Region",U,2004,254.17
+170,Colombia,O,2004,6128.0
+188,Costa Rica,O,2004,
+191,Croatia,E,2004,1311.0
+192,Cuba,U,2004,4128.7002
+531,Curaçao,U,2004,
+196,Cyprus,E,2004,498.0
+203,Czechia,E,2004,2841.0
+180,Democratic Republic of the Congo,U,2004,
+208,Denmark,E,2004,3757.0
+212,Dominica,U,2004,13.5
+218,Ecuador,U,2004,
+818,Egypt,U,2004,
+222,El Salvador,U,2004,
+233,Estonia,E,2004,606.0
+242,Fiji,U,2004,
+246,Finland,E,2004,2453.0
+250,France,E,2004,32444.0
+254,French Guiana,U,2004,
+258,French Polynesia,U,2004,
+268,Georgia,U,2004,
+276,Germany,E,2004,48434.0
+288,Ghana,U,2004,1935.149169921875
+300,Greece,E,2004,4782.0
+312,Guadeloupe,U,2004,
+340,Honduras,U,2004,
+348,Hungary,E,2004,4592.0
+352,Iceland,E,2004,147.0
+356,India,U,2004,
+360,Indonesia,U,2004,6044.4497
+364,Iran (Islamic Republic of),U,2004,
+368,Iraq,U,2004,
+372,Ireland,E,2004,3001.0
+376,Israel,O,2004,3978.0
+380,Italy,E,2004,31150.0
+388,Jamaica,U,2004,965.0
+392,Japan,O,2004,53376.0
+398,Kazakhstan,U,2004,
+404,Kenya,U,2004,
+410,Korea,O,2004,18252.0
+414,Kuwait,U,2004,5417.0
+417,Kyrgyzstan,U,2004,1602.0
+428,Latvia,E,2004,720.0
+422,Lebanon,U,2004,1580.0
+438,Liechtenstein,U,2004,36.2128
+440,Lithuania,E,2004,1260.0
+442,Luxembourg,E,2004,311.0
+450,Madagascar,U,2004,341.2999877929688
+458,Malaysia,U,2004,7893.3232
+462,Maldives,U,2004,109.4769973754883
+470,Malta,E,2004,254.0
+584,Marshall Islands,U,2004,
+474,Martinique,U,2004,
+480,Mauritius,U,2004,371.89
+484,Mexico,O,2004,34604.0
+492,Monaco,U,2004,39.94
+499,Montenegro,E,2004,
+500,Montserrat,U,2004,
+504,Morocco,U,2004,
+104,Myanmar,U,2004,
+524,Nepal,U,2004,
+528,Netherlands,E,2004,9746.0
+554,New Zealand,O,2004,3186.0
+562,Niger,U,2004,9375.0
+807,North Macedonia,E,2004,
+578,Norway,E,2004,1903.0
+591,Panama,U,2004,393.4064636230469
+604,Peru,U,2004,
+616,Poland,E,2004,9759.0
+620,Portugal,E,2004,4665.0
+634,Qatar,U,2004,
+498,Republic of Moldova,U,2004,1224.3
+638,Réunion,U,2004,
+642,Romania,E,2004,7483.0
+643,Russia,O,2004,57822.48
+659,Saint Kitts and Nevis,U,2004,
+662,Saint Lucia,U,2004,70.0
+670,Saint Vincent and the Grenadines,U,2004,
+882,Samoa,U,2004,
+682,Saudi Arabia,O,2004,
+686,Senegal,U,2004,
+688,Serbia,E,2004,
+690,Seychelles,U,2004,
+702,Singapore,U,2004,4789.2998
+703,Slovakia,E,2004,1400.0
+705,Slovenia,E,2004,969.0
+724,Spain,E,2004,25746.0
+144,Sri Lanka,U,2004,1036.038
+275,State of Palestine,U,2004,1198.0
+736,Sudan (Former),U,2004,505.0
+740,Suriname,U,2004,
+752,Sweden,E,2004,4143.0
+756,Switzerland,E,2004,4900.0
+764,Thailand,U,2004,
+768,Togo,U,2004,
+780,Trinidad and Tobago,U,2004,
+788,Tunisia,U,2004,1316.25
+792,Türkiye,E,2004,29736.0
+800,Uganda,U,2004,2237.63
+804,Ukraine,U,2004,
+784,United Arab Emirates,U,2004,
+826,United Kingdom of Great Britain and Northern Ireland,O,2004,36121.0
+834,United Republic of Tanzania,U,2004,197.1
+840,United States,O,2004,230534.0
+862,Venezuela (Bolivarian Republic of),U,2004,
+704,Viet Nam,U,2004,
+887,Yemen,U,2004,1167.0
+894,Zambia,U,2004,
+716,Zimbabwe,U,2004,
+8,Albania,E,2005,
+20,Andorra,U,2005,49.54
+24,Angola,U,2005,
+660,Anguilla,U,2005,8.012088775634766
+28,Antigua and Barbuda,U,2005,84.1
+32,Argentina,O,2005,13558.0
+51,Armenia,U,2005,374.6
+36,Australia,O,2005,
+40,Austria,E,2005,4732.0
+31,Azerbaijan,U,2005,1753.0
+44,Bahamas,U,2005,239.9459991455078
+48,Bahrain,U,2005,1034.921
+50,Bangladesh,U,2005,2676.29
+52,Barbados,U,2005,
+112,Belarus,U,2005,2530.3999
+56,Belgium,E,2005,5052.0
+204,Benin,U,2005,
+60,Bermuda,U,2005,
+64,Bhutan,U,2005,
+68,Bolivia (Plurinational State of),U,2005,785.6531
+70,Bosnia and Herzegovina,E,2005,
+72,Botswana,U,2005,
+76,Brazil,U,2005,35339.1328125
+92,British Virgin Islands,U,2005,36.69699859619141
+96,Brunei Darussalam,U,2005,
+100,Bulgaria,E,2005,4502.0
+854,Burkina Faso,U,2005,585.0
+108,Burundi,U,2005,13.2
+132,Cabo Verde,U,2005,77.498
+116,Cambodia,U,2005,
+120,Cameroon,U,2005,
+152,Chile,O,2005,5113.7
+156,China,U,2005,155770.0
+344,"China, Hong Kong Special Administrative Region",U,2005,6017.0
+446,"China, Macao Special Administrative Region",U,2005,276.97
+170,Colombia,O,2005,7583.09
+188,Costa Rica,O,2005,
+191,Croatia,E,2005,1449.0
+192,Cuba,U,2005,4450.6001
+531,Curaçao,U,2005,
+196,Cyprus,E,2005,508.0
+203,Czechia,E,2005,2954.0
+180,Democratic Republic of the Congo,U,2005,
+208,Denmark,E,2005,3990.0
+212,Dominica,U,2005,13.5
+218,Ecuador,U,2005,
+818,Egypt,U,2005,
+222,El Salvador,U,2005,
+233,Estonia,E,2005,587.0
+242,Fiji,U,2005,
+246,Finland,E,2005,2506.0
+250,France,E,2005,33347.0
+254,French Guiana,U,2005,101.236
+258,French Polynesia,U,2005,
+268,Georgia,U,2005,
+276,Germany,E,2005,46555.0
+288,Ghana,U,2005,2271.312255859375
+300,Greece,E,2005,4853.0
+312,Guadeloupe,U,2005,181.091
+340,Honduras,U,2005,
+348,Hungary,E,2005,4646.0
+352,Iceland,E,2005,153.0
+356,India,U,2005,
+360,Indonesia,U,2005,5874.6812
+364,Iran (Islamic Republic of),U,2005,
+368,Iraq,U,2005,5446.0
+372,Ireland,E,2005,3041.0
+376,Israel,O,2005,4086.0
+380,Italy,E,2005,31668.0
+388,Jamaica,U,2005,970.0
+392,Japan,O,2005,52720.0
+398,Kazakhstan,U,2005,2091.8999
+404,Kenya,U,2005,
+410,Korea,O,2005,17665.0
+414,Kuwait,U,2005,5948.0
+417,Kyrgyzstan,U,2005,1383.699951171875
+428,Latvia,E,2005,716.0
+422,Lebanon,U,2005,
+438,Liechtenstein,U,2005,40.0621
+440,Lithuania,E,2005,1287.0
+442,Luxembourg,E,2005,313.0
+450,Madagascar,U,2005,
+458,Malaysia,U,2005,8325.6221
+462,Maldives,U,2005,113.9039993286133
+470,Malta,E,2005,253.0
+584,Marshall Islands,U,2005,
+474,Martinique,U,2005,
+480,Mauritius,U,2005,376.26
+484,Mexico,O,2005,35404.9
+492,Monaco,U,2005,39.86
+499,Montenegro,E,2005,
+500,Montserrat,U,2005,
+504,Morocco,U,2005,
+104,Myanmar,U,2005,
+524,Nepal,U,2005,
+528,Netherlands,E,2005,9769.0
+554,New Zealand,O,2005,
+562,Niger,U,2005,9750.0
+807,North Macedonia,E,2005,
+578,Norway,E,2005,1968.0
+591,Panama,U,2005,383.0095520019531
+604,Peru,U,2005,
+616,Poland,E,2005,12169.0
+620,Portugal,E,2005,4745.0
+634,Qatar,U,2005,
+498,Republic of Moldova,U,2005,1292.4
+638,Réunion,U,2005,558.847
+642,Romania,E,2005,8173.0
+643,Russia,O,2005,57695.05
+659,Saint Kitts and Nevis,U,2005,
+662,Saint Lucia,U,2005,71.0
+670,Saint Vincent and the Grenadines,U,2005,
+882,Samoa,U,2005,
+682,Saudi Arabia,O,2005,
+686,Senegal,U,2005,465.0
+688,Serbia,E,2005,
+690,Seychelles,U,2005,
+702,Singapore,U,2005,5018.2002
+703,Slovakia,E,2005,1468.0
+705,Slovenia,E,2005,989.0
+724,Spain,E,2005,25683.0
+144,Sri Lanka,U,2005,
+275,State of Palestine,U,2005,1234.0
+736,Sudan (Former),U,2005,573.0
+740,Suriname,U,2005,
+752,Sweden,E,2005,4321.0
+756,Switzerland,E,2005,4940.0
+764,Thailand,U,2005,
+768,Togo,U,2005,
+780,Trinidad and Tobago,U,2005,
+788,Tunisia,U,2005,
+792,Türkiye,E,2005,31352.0
+800,Uganda,U,2005,2310.7647
+804,Ukraine,U,2005,
+784,United Arab Emirates,U,2005,
+826,United Kingdom of Great Britain and Northern Ireland,O,2005,35121.0
+834,United Republic of Tanzania,U,2005,198.8
+840,United States,O,2005,230180.0
+862,Venezuela (Bolivarian Republic of),U,2005,
+704,Viet Nam,U,2005,
+887,Yemen,U,2005,1273.0
+894,Zambia,U,2005,388.7999877929688
+716,Zimbabwe,U,2005,
+8,Albania,E,2006,
+20,Andorra,U,2006,50.75
+24,Angola,U,2006,5839.5
+660,Anguilla,U,2006,10.45285129547119
+28,Antigua and Barbuda,U,2006,90.9
+32,Argentina,O,2006,
+51,Armenia,U,2006,381.0
+36,Australia,O,2006,
+40,Austria,E,2006,4933.0
+31,Azerbaijan,U,2006,1573.0
+44,Bahamas,U,2006,227.1679992675781
+48,Bahrain,U,2006,1156.4642
+50,Bangladesh,U,2006,
+52,Barbados,U,2006,
+112,Belarus,U,2006,2733.8
+56,Belgium,E,2006,5115.0
+204,Benin,U,2006,
+60,Bermuda,U,2006,
+64,Bhutan,U,2006,
+68,Bolivia (Plurinational State of),U,2006,850.731
+70,Bosnia and Herzegovina,E,2006,
+72,Botswana,U,2006,
+76,Brazil,U,2006,19007.83203125
+92,British Virgin Islands,U,2006,
+96,Brunei Darussalam,U,2006,
+100,Bulgaria,E,2006,4387.0
+854,Burkina Faso,U,2006,624.0
+108,Burundi,U,2006,13.8
+132,Cabo Verde,U,2006,83.649
+116,Cambodia,U,2006,
+120,Cameroon,U,2006,3688.73291015625
+152,Chile,O,2006,5310.9
+156,China,U,2006,148410.0
+344,"China, Hong Kong Special Administrative Region",U,2006,6228.0
+446,"China, Macao Special Administrative Region",U,2006,284.37
+170,Colombia,O,2006,7583.09
+188,Costa Rica,O,2006,
+191,Croatia,E,2006,1654.0
+192,Cuba,U,2006,4230.2002
+531,Curaçao,U,2006,
+196,Cyprus,E,2006,522.0
+203,Czechia,E,2006,3039.0
+180,Democratic Republic of the Congo,U,2006,
+208,Denmark,E,2006,4021.0
+212,Dominica,U,2006,15.7
+218,Ecuador,U,2006,
+818,Egypt,U,2006,
+222,El Salvador,U,2006,
+233,Estonia,E,2006,536.0
+242,Fiji,U,2006,146.696
+246,Finland,E,2006,2600.0
+250,France,E,2006,33962.0
+254,French Guiana,U,2006,91.2
+258,French Polynesia,U,2006,
+268,Georgia,U,2006,
+276,Germany,E,2006,46426.0
+288,Ghana,U,2006,2369.085205078125
+300,Greece,E,2006,4927.0
+312,Guadeloupe,U,2006,227.313
+340,Honduras,U,2006,
+348,Hungary,E,2006,4711.0
+352,Iceland,E,2006,171.0
+356,India,U,2006,
+360,Indonesia,U,2006,5256.5205
+364,Iran (Islamic Republic of),U,2006,
+368,Iraq,U,2006,
+372,Ireland,E,2006,3385.0
+376,Israel,O,2006,4227.0
+380,Italy,E,2006,32516.0
+388,Jamaica,U,2006,1464.0
+392,Japan,O,2006,52024.0
+398,Kazakhstan,U,2006,2401.2
+404,Kenya,U,2006,
+410,Korea,O,2006,17828.0
+414,Kuwait,U,2006,10202.0
+417,Kyrgyzstan,U,2006,1544.5
+428,Latvia,E,2006,760.0
+422,Lebanon,U,2006,
+438,Liechtenstein,U,2006,38.9103
+440,Lithuania,E,2006,1326.0
+442,Luxembourg,E,2006,323.0
+450,Madagascar,U,2006,
+458,Malaysia,U,2006,8781.5967
+462,Maldives,U,2006,224.3419952392578
+470,Malta,E,2006,270.0
+584,Marshall Islands,U,2006,
+474,Martinique,U,2006,
+480,Mauritius,U,2006,407.039
+484,Mexico,O,2006,36135.0
+492,Monaco,U,2006,39.54
+499,Montenegro,E,2006,
+500,Montserrat,U,2006,
+504,Morocco,U,2006,
+104,Myanmar,U,2006,
+524,Nepal,U,2006,
+528,Netherlands,E,2006,9761.0
+554,New Zealand,O,2006,3156.0
+562,Niger,U,2006,
+807,North Macedonia,E,2006,
+578,Norway,E,2006,2140.0
+591,Panama,U,2006,396.6608276367188
+604,Peru,U,2006,
+616,Poland,E,2006,12235.0
+620,Portugal,E,2006,4898.0
+634,Qatar,U,2006,
+498,Republic of Moldova,U,2006,1381.4
+638,Réunion,U,2006,493.313
+642,Romania,E,2006,8392.0
+643,Russia,O,2006,60847.25
+659,Saint Kitts and Nevis,U,2006,
+662,Saint Lucia,U,2006,72.0
+670,Saint Vincent and the Grenadines,U,2006,
+882,Samoa,U,2006,
+682,Saudi Arabia,O,2006,
+686,Senegal,U,2006,
+688,Serbia,E,2006,1730.0
+690,Seychelles,U,2006,
+702,Singapore,U,2006,5220.5
+703,Slovakia,E,2006,1524.0
+705,Slovenia,E,2006,1036.0
+724,Spain,E,2006,26209.0
+144,Sri Lanka,U,2006,
+275,State of Palestine,U,2006,1271.0
+736,Sudan (Former),U,2006,732.0
+740,Suriname,U,2006,
+752,Sweden,E,2006,4461.0
+756,Switzerland,E,2006,5330.0
+764,Thailand,U,2006,
+768,Togo,U,2006,
+780,Trinidad and Tobago,U,2006,
+788,Tunisia,U,2006,
+792,Türkiye,E,2006,30082.0
+800,Uganda,U,2006,2383.8993
+804,Ukraine,U,2006,
+784,United Arab Emirates,U,2006,
+826,United Kingdom of Great Britain and Northern Ireland,O,2006,35479.0
+834,United Republic of Tanzania,U,2006,202.45
+840,United States,O,2006,233237.0
+862,Venezuela (Bolivarian Republic of),U,2006,22909.0
+704,Viet Nam,U,2006,
+887,Yemen,U,2006,1382.0
+894,Zambia,U,2006,
+716,Zimbabwe,U,2006,
+8,Albania,E,2007,
+20,Andorra,U,2007,45.77
+24,Angola,U,2007,
+660,Anguilla,U,2007,12.36040496826172
+28,Antigua and Barbuda,U,2007,111.8
+32,Argentina,O,2007,
+51,Armenia,U,2007,391.9
+36,Australia,O,2007,12729.24432265
+40,Austria,E,2007,4951.0
+31,Azerbaijan,U,2007,1631.0
+44,Bahamas,U,2007,
+48,Bahrain,U,2007,1111.031
+50,Bangladesh,U,2007,
+52,Barbados,U,2007,
+112,Belarus,U,2007,2663.8
+56,Belgium,E,2007,5243.0
+204,Benin,U,2007,
+60,Bermuda,U,2007,
+64,Bhutan,U,2007,
+68,Bolivia (Plurinational State of),U,2007,887.8137
+70,Bosnia and Herzegovina,E,2007,
+72,Botswana,U,2007,
+76,Brazil,U,2007,23680.533203125
+92,British Virgin Islands,U,2007,
+96,Brunei Darussalam,U,2007,
+100,Bulgaria,E,2007,4172.0
+854,Burkina Faso,U,2007,665.7
+108,Burundi,U,2007,10.8
+132,Cabo Verde,U,2007,90.233
+116,Cambodia,U,2007,
+120,Cameroon,U,2007,3707.740966796875
+152,Chile,O,2007,5492.9
+156,China,U,2007,152150.0
+344,"China, Hong Kong Special Administrative Region",U,2007,6163.0
+446,"China, Macao Special Administrative Region",U,2007,287.48
+170,Colombia,O,2007,9153.99
+188,Costa Rica,O,2007,
+191,Croatia,E,2007,1719.0
+192,Cuba,U,2007,4360.1001
+531,Curaçao,U,2007,
+196,Cyprus,E,2007,540.0
+203,Czechia,E,2007,3025.0
+180,Democratic Republic of the Congo,U,2007,
+208,Denmark,E,2007,4313.0
+212,Dominica,U,2007,15.7
+218,Ecuador,U,2007,
+818,Egypt,U,2007,
+222,El Salvador,U,2007,
+233,Estonia,E,2007,602.0
+242,Fiji,U,2007,150.636
+246,Finland,E,2007,2675.0
+250,France,E,2007,34577.0
+254,French Guiana,U,2007,81.163
+258,French Polynesia,U,2007,
+268,Georgia,U,2007,855.0
+276,Germany,E,2007,47887.0
+288,Ghana,U,2007,2582.776611328125
+300,Greece,E,2007,5002.0
+312,Guadeloupe,U,2007,273.534
+340,Honduras,U,2007,
+348,Hungary,E,2007,4594.0
+352,Iceland,E,2007,174.0
+356,India,U,2007,
+360,Indonesia,U,2007,7576.772
+364,Iran (Islamic Republic of),U,2007,
+368,Iraq,U,2007,
+372,Ireland,E,2007,3398.0
+376,Israel,O,2007,4304.0
+380,Italy,E,2007,32536.0
+388,Jamaica,U,2007,
+392,Japan,O,2007,50816.0
+398,Kazakhstan,U,2007,3351.8
+404,Kenya,U,2007,
+410,Korea,O,2007,18376.0
+414,Kuwait,U,2007,8947.0
+417,Kyrgyzstan,U,2007,1658.599975585938
+428,Latvia,E,2007,861.0
+422,Lebanon,U,2007,
+438,Liechtenstein,U,2007,39.907
+440,Lithuania,E,2007,1354.0
+442,Luxembourg,E,2007,333.0
+450,Madagascar,U,2007,419.385009765625
+458,Malaysia,U,2007,9262.5439
+462,Maldives,U,2007,228.4080047607422
+470,Malta,E,2007,275.0
+584,Marshall Islands,U,2007,26.0
+474,Martinique,U,2007,211.564
+480,Mauritius,U,2007,395.875
+484,Mexico,O,2007,36865.0
+492,Monaco,U,2007,41.1
+499,Montenegro,E,2007,
+500,Montserrat,U,2007,
+504,Morocco,U,2007,
+104,Myanmar,U,2007,
+524,Nepal,U,2007,
+528,Netherlands,E,2007,9922.0
+554,New Zealand,O,2007,
+562,Niger,U,2007,
+807,North Macedonia,E,2007,
+578,Norway,E,2007,2312.0
+591,Panama,U,2007,514.7371826171875
+604,Peru,U,2007,
+616,Poland,E,2007,12264.0
+620,Portugal,E,2007,4967.0
+634,Qatar,U,2007,
+498,Republic of Moldova,U,2007,1819.5
+638,Réunion,U,2007,427.778
+642,Romania,E,2007,8161.0
+643,Russia,O,2007,62868.18
+659,Saint Kitts and Nevis,U,2007,
+662,Saint Lucia,U,2007,78.0
+670,Saint Vincent and the Grenadines,U,2007,
+882,Samoa,U,2007,
+682,Saudi Arabia,O,2007,
+686,Senegal,U,2007,
+688,Serbia,E,2007,2067.0
+690,Seychelles,U,2007,
+702,Singapore,U,2007,5601.6001
+703,Slovakia,E,2007,1579.0
+705,Slovenia,E,2007,1060.0
+724,Spain,E,2007,26154.0
+144,Sri Lanka,U,2007,
+275,State of Palestine,U,2007,1309.0
+736,Sudan (Former),U,2007,866.0
+740,Suriname,U,2007,183.482
+752,Sweden,E,2007,4460.0
+756,Switzerland,E,2007,5465.0
+764,Thailand,U,2007,
+768,Togo,U,2007,
+780,Trinidad and Tobago,U,2007,
+788,Tunisia,U,2007,
+792,Türkiye,E,2007,30366.0
+800,Uganda,U,2007,2457.0339
+804,Ukraine,U,2007,11694.9004
+784,United Arab Emirates,U,2007,
+826,United Kingdom of Great Britain and Northern Ireland,O,2007,34780.0
+834,United Republic of Tanzania,U,2007,206.12
+840,United States,O,2007,232693.0
+862,Venezuela (Bolivarian Republic of),U,2007,25206.0
+704,Viet Nam,U,2007,
+887,Yemen,U,2007,1447.0
+894,Zambia,U,2007,
+716,Zimbabwe,U,2007,
+8,Albania,E,2008,
+20,Andorra,U,2008,47.58
+24,Angola,U,2008,
+660,Anguilla,U,2008,14.65470027923584
+28,Antigua and Barbuda,U,2008,121.7
+32,Argentina,O,2008,
+51,Armenia,U,2008,385.9
+36,Australia,O,2008,13096.5
+40,Austria,E,2008,4997.0
+31,Azerbaijan,U,2008,1478.0
+44,Bahamas,U,2008,
+48,Bahrain,U,2008,1645.505
+50,Bangladesh,U,2008,
+52,Barbados,U,2008,
+112,Belarus,U,2008,3003.2
+56,Belgium,E,2008,5141.0
+204,Benin,U,2008,
+60,Bermuda,U,2008,
+64,Bhutan,U,2008,
+68,Bolivia (Plurinational State of),U,2008,913.9627
+70,Bosnia and Herzegovina,E,2008,1367.0
+72,Botswana,U,2008,
+76,Brazil,U,2008,28682.166015625
+92,British Virgin Islands,U,2008,
+96,Brunei Darussalam,U,2008,
+100,Bulgaria,E,2008,4486.0
+854,Burkina Faso,U,2008,710.4
+108,Burundi,U,2008,15.6
+132,Cabo Verde,U,2008,97.275
+116,Cambodia,U,2008,
+120,Cameroon,U,2008,6489.0791015625
+152,Chile,O,2008,5608.0
+156,China,U,2008,154380.0
+344,"China, Hong Kong Special Administrative Region",U,2008,6444.0
+446,"China, Macao Special Administrative Region",U,2008,299.02
+170,Colombia,O,2008,9154.03
+188,Costa Rica,O,2008,
+191,Croatia,E,2008,1788.0
+192,Cuba,U,2008,5161.1001
+531,Curaçao,U,2008,
+196,Cyprus,E,2008,573.0
+203,Czechia,E,2008,3176.0
+180,Democratic Republic of the Congo,U,2008,
+208,Denmark,E,2008,4560.0
+212,Dominica,U,2008,15.7
+218,Ecuador,U,2008,
+818,Egypt,U,2008,29306.099609375
+222,El Salvador,U,2008,
+233,Estonia,E,2008,524.0
+242,Fiji,U,2008,159.982
+246,Finland,E,2008,2768.0
+250,France,E,2008,34501.0
+254,French Guiana,U,2008,87.304
+258,French Polynesia,U,2008,
+268,Georgia,U,2008,875.0
+276,Germany,E,2008,48367.0
+288,Ghana,U,2008,2806.2802734375
+300,Greece,E,2008,5077.0
+312,Guadeloupe,U,2008,239.241
+340,Honduras,U,2008,
+348,Hungary,E,2008,4553.0
+352,Iceland,E,2008,208.0
+356,India,U,2008,
+360,Indonesia,U,2008,
+364,Iran (Islamic Republic of),U,2008,
+368,Iraq,U,2008,
+372,Ireland,E,2008,3224.0
+376,Israel,O,2008,4434.0
+380,Italy,E,2008,32461.0
+388,Jamaica,U,2008,
+392,Japan,O,2008,48106.0
+398,Kazakhstan,U,2008,3411.8999
+404,Kenya,U,2008,
+410,Korea,O,2008,19006.0
+414,Kuwait,U,2008,9070.038
+417,Kyrgyzstan,U,2008,2521.39990234375
+428,Latvia,E,2008,752.0
+422,Lebanon,U,2008,
+438,Liechtenstein,U,2008,37.9458
+440,Lithuania,E,2008,1369.0
+442,Luxembourg,E,2008,341.0
+450,Madagascar,U,2008,
+458,Malaysia,U,2008,9769.832
+462,Maldives,U,2008,231.9550018310547
+470,Malta,E,2008,282.0
+584,Marshall Islands,U,2008,
+474,Martinique,U,2008,196.206
+480,Mauritius,U,2008,408.49
+484,Mexico,O,2008,37595.0
+492,Monaco,U,2008,40.727
+499,Montenegro,E,2008,
+500,Montserrat,U,2008,
+504,Morocco,U,2008,
+104,Myanmar,U,2008,
+524,Nepal,U,2008,
+528,Netherlands,E,2008,9868.0
+554,New Zealand,O,2008,
+562,Niger,U,2008,
+807,North Macedonia,E,2008,714.0
+578,Norway,E,2008,2324.0
+591,Panama,U,2008,497.2740783691406
+604,Peru,U,2008,
+616,Poland,E,2008,12194.0
+620,Portugal,E,2008,5472.0
+634,Qatar,U,2008,2510.61
+498,Republic of Moldova,U,2008,2172.8
+638,Réunion,U,2008,447.554
+642,Romania,E,2008,8439.0
+643,Russia,O,2008,64605.13
+659,Saint Kitts and Nevis,U,2008,19.8851
+662,Saint Lucia,U,2008,75.0
+670,Saint Vincent and the Grenadines,U,2008,
+882,Samoa,U,2008,
+682,Saudi Arabia,O,2008,
+686,Senegal,U,2008,
+688,Serbia,E,2008,2550.0
+690,Seychelles,U,2008,
+702,Singapore,U,2008,5970.1001
+703,Slovakia,E,2008,1686.0
+705,Slovenia,E,2008,1095.0
+724,Spain,E,2008,25317.0
+144,Sri Lanka,U,2008,
+275,State of Palestine,U,2008,1346.0
+736,Sudan (Former),U,2008,967.0
+740,Suriname,U,2008,75.93
+752,Sweden,E,2008,4476.0
+756,Switzerland,E,2008,5653.0
+764,Thailand,U,2008,
+768,Togo,U,2008,
+780,Trinidad and Tobago,U,2008,
+788,Tunisia,U,2008,
+792,Türkiye,E,2008,28454.0
+800,Uganda,U,2008,2530.1685
+804,Ukraine,U,2008,11388.0
+784,United Arab Emirates,U,2008,
+826,United Kingdom of Great Britain and Northern Ireland,O,2008,33424.0
+834,United Republic of Tanzania,U,2008,207.91
+840,United States,O,2008,229200.0
+862,Venezuela (Bolivarian Republic of),U,2008,21794.0
+704,Viet Nam,U,2008,
+887,Yemen,U,2008,1369.0
+894,Zambia,U,2008,
+716,Zimbabwe,U,2008,
+8,Albania,E,2009,
+20,Andorra,U,2009,47.92
+24,Angola,U,2009,
+660,Anguilla,U,2009,
+28,Antigua and Barbuda,U,2009,136.4
+32,Argentina,O,2009,
+51,Armenia,U,2009,410.9
+36,Australia,O,2009,13115.753148996
+40,Austria,E,2009,4921.0
+31,Azerbaijan,U,2009,1603.0
+44,Bahamas,U,2009,
+48,Bahrain,U,2009,1532.5256
+50,Bangladesh,U,2009,3783.3601
+52,Barbados,U,2009,27.236
+112,Belarus,U,2009,3301.2
+56,Belgium,E,2009,5042.0
+204,Benin,U,2009,
+60,Bermuda,U,2009,
+64,Bhutan,U,2009,
+68,Bolivia (Plurinational State of),U,2009,995.9447
+70,Bosnia and Herzegovina,E,2009,1362.0
+72,Botswana,U,2009,
+76,Brazil,U,2009,25495.78515625
+92,British Virgin Islands,U,2009,
+96,Brunei Darussalam,U,2009,
+100,Bulgaria,E,2009,4449.0
+854,Burkina Faso,U,2009,758.1
+108,Burundi,U,2009,13.8
+132,Cabo Verde,U,2009,104.813
+116,Cambodia,U,2009,355.0
+120,Cameroon,U,2009,7249.1767578125
+152,Chile,O,2009,5779.5
+156,China,U,2009,157340.0
+344,"China, Hong Kong Special Administrative Region",U,2009,6453.0
+446,"China, Macao Special Administrative Region",U,2009,324.94
+170,Colombia,O,2009,11273.44
+188,Costa Rica,O,2009,
+191,Croatia,E,2009,1743.0
+192,Cuba,U,2009,4574.3999
+531,Curaçao,U,2009,
+196,Cyprus,E,2009,589.0
+203,Czechia,E,2009,3310.0
+180,Democratic Republic of the Congo,U,2009,
+208,Denmark,E,2009,4206.0
+212,Dominica,U,2009,18.7
+218,Ecuador,U,2009,
+818,Egypt,U,2009,35635.0
+222,El Salvador,U,2009,
+233,Estonia,E,2009,452.0
+242,Fiji,U,2009,158.679
+246,Finland,E,2009,2562.0
+250,France,E,2009,34426.0
+254,French Guiana,U,2009,93.444
+258,French Polynesia,U,2009,
+268,Georgia,U,2009,880.0
+276,Germany,E,2009,48466.0
+288,Ghana,U,2009,3000.490478515625
+300,Greece,E,2009,5154.0
+312,Guadeloupe,U,2009,204.948
+340,Honduras,U,2009,
+348,Hungary,E,2009,4312.0
+352,Iceland,E,2009,132.0
+356,India,U,2009,
+360,Indonesia,U,2009,6866.1973
+364,Iran (Islamic Republic of),U,2009,
+368,Iraq,U,2009,
+372,Ireland,E,2009,2953.0
+376,Israel,O,2009,4550.8
+380,Italy,E,2009,32107.0
+388,Jamaica,U,2009,
+392,Japan,O,2009,46252.0
+398,Kazakhstan,U,2009,3928.3
+404,Kenya,U,2009,
+410,Korea,O,2009,18581.0
+414,Kuwait,U,2009,8382.071
+417,Kyrgyzstan,U,2009,6641.89990234375
+428,Latvia,E,2009,753.0
+422,Lebanon,U,2009,1720.0
+438,Liechtenstein,U,2009,35.4478
+440,Lithuania,E,2009,1206.0
+442,Luxembourg,E,2009,338.0
+450,Madagascar,U,2009,
+458,Malaysia,U,2009,10304.9023
+462,Maldives,U,2009,231.8589935302734
+470,Malta,E,2009,277.0
+584,Marshall Islands,U,2009,
+474,Martinique,U,2009,180.848
+480,Mauritius,U,2009,427.939
+484,Mexico,O,2009,38325.0
+492,Monaco,U,2009,36.69
+499,Montenegro,E,2009,
+500,Montserrat,U,2009,
+504,Morocco,U,2009,
+104,Myanmar,U,2009,
+524,Nepal,U,2009,
+528,Netherlands,E,2009,9738.0
+554,New Zealand,O,2009,
+562,Niger,U,2009,
+807,North Macedonia,E,2009,726.0
+578,Norway,E,2009,2269.0
+591,Panama,U,2009,553.551513671875
+604,Peru,U,2009,
+616,Poland,E,2009,12053.0
+620,Portugal,E,2009,5496.0
+634,Qatar,U,2009,2739.759
+498,Republic of Moldova,U,2009,2267.6001
+638,Réunion,U,2009,467.329
+642,Romania,E,2009,7768.0
+643,Russia,O,2009,66871.68
+659,Saint Kitts and Nevis,U,2009,19.8189
+662,Saint Lucia,U,2009,76.0
+670,Saint Vincent and the Grenadines,U,2009,
+882,Samoa,U,2009,
+682,Saudi Arabia,O,2009,
+686,Senegal,U,2009,
+688,Serbia,E,2009,2636.0
+690,Seychelles,U,2009,
+702,Singapore,U,2009,6114.2002
+703,Slovakia,E,2009,1654.0
+705,Slovenia,E,2009,1069.0
+724,Spain,E,2009,25108.0
+144,Sri Lanka,U,2009,
+275,State of Palestine,U,2009,1385.0
+736,Sudan (Former),U,2009,1355.0
+740,Suriname,U,2009,76.64
+752,Sweden,E,2009,4390.0
+756,Switzerland,E,2009,5461.0
+764,Thailand,U,2009,
+768,Togo,U,2009,
+780,Trinidad and Tobago,U,2009,
+788,Tunisia,U,2009,
+792,Türkiye,E,2009,30196.0
+800,Uganda,U,2009,2603.3031
+804,Ukraine,U,2009,10276.0
+784,United Arab Emirates,U,2009,6654.2002
+826,United Kingdom of Great Britain and Northern Ireland,O,2009,32507.45
+834,United Republic of Tanzania,U,2009,211.38
+840,United States,O,2009,222188.0
+862,Venezuela (Bolivarian Republic of),U,2009,28771.0
+704,Viet Nam,U,2009,
+887,Yemen,U,2009,1410.0
+894,Zambia,U,2009,
+716,Zimbabwe,U,2009,
+8,Albania,E,2010,
+20,Andorra,U,2010,51.97
+24,Angola,U,2010,
+660,Anguilla,U,2010,
+28,Antigua and Barbuda,U,2010,136.6
+32,Argentina,O,2010,15967.6
+51,Armenia,U,2010,387.1
+36,Australia,O,2010,13464.367029724
+40,Austria,E,2010,4701.0
+31,Azerbaijan,U,2010,1609.0
+44,Bahamas,U,2010,
+48,Bahrain,U,2010,1546.3256
+50,Bangladesh,U,2010,
+52,Barbados,U,2010,369.4616
+112,Belarus,U,2010,3689.8999
+56,Belgium,E,2010,4972.0
+204,Benin,U,2010,
+60,Bermuda,U,2010,89.72000122070312
+64,Bhutan,U,2010,
+68,Bolivia (Plurinational State of),U,2010,1040.4843
+70,Bosnia and Herzegovina,E,2010,1276.0
+72,Botswana,U,2010,
+76,Brazil,U,2010,27905.259765625
+92,British Virgin Islands,U,2010,
+96,Brunei Darussalam,U,2010,
+100,Bulgaria,E,2010,4094.0
+854,Burkina Faso,U,2010,
+108,Burundi,U,2010,7.2
+132,Cabo Verde,U,2010,113.397
+116,Cambodia,U,2010,383.0
+120,Cameroon,U,2010,
+152,Chile,O,2010,5935.7
+156,China,U,2010,158048.0
+344,"China, Hong Kong Special Administrative Region",U,2010,6930.0
+446,"China, Macao Special Administrative Region",U,2010,322.27
+170,Colombia,O,2010,8980.19
+188,Costa Rica,O,2010,1506.0
+191,Croatia,E,2010,1630.0
+192,Cuba,U,2010,4627.5
+531,Curaçao,U,2010,192.4380035400391
+196,Cyprus,E,2010,590.0
+203,Czechia,E,2010,3334.0
+180,Democratic Republic of the Congo,U,2010,
+208,Denmark,E,2010,
+212,Dominica,U,2010,18.7
+218,Ecuador,U,2010,
+818,Egypt,U,2010,29209.0
+222,El Salvador,U,2010,
+233,Estonia,E,2010,406.0
+242,Fiji,U,2010,158.0
+246,Finland,E,2010,2519.0
+250,France,E,2010,34609.0
+254,French Guiana,U,2010,102.574
+258,French Polynesia,U,2010,
+268,Georgia,U,2010,
+276,Germany,E,2010,49237.0
+288,Ghana,U,2010,3313.0732421875
+300,Greece,E,2010,5917.0
+312,Guadeloupe,U,2010,221.199
+340,Honduras,U,2010,940.7504
+348,Hungary,E,2010,4033.0
+352,Iceland,E,2010,154.0
+356,India,U,2010,
+360,Indonesia,U,2010,7245.2461
+364,Iran (Islamic Republic of),U,2010,
+368,Iraq,U,2010,17551.0
+372,Ireland,E,2010,2846.0
+376,Israel,O,2010,4623.18
+380,Italy,E,2010,32440.0
+388,Jamaica,U,2010,
+392,Japan,O,2010,45359.0
+398,Kazakhstan,U,2010,3784.7
+404,Kenya,U,2010,
+410,Korea,O,2010,17943.0
+414,Kuwait,U,2010,9185.8545
+417,Kyrgyzstan,U,2010,1114.66259765625
+428,Latvia,E,2010,680.0
+422,Lebanon,U,2010,
+438,Liechtenstein,U,2010,32.7992
+440,Lithuania,E,2010,1253.0
+442,Luxembourg,E,2010,344.0
+450,Madagascar,U,2010,
+458,Malaysia,U,2010,2559.0151
+462,Maldives,U,2010,222.4799957275391
+470,Malta,E,2010,258.0
+584,Marshall Islands,U,2010,
+474,Martinique,U,2010,189.174
+480,Mauritius,U,2010,427.802
+484,Mexico,O,2010,40058.75
+492,Monaco,U,2010,38.869
+499,Montenegro,E,2010,
+500,Montserrat,U,2010,0.69
+504,Morocco,U,2010,
+104,Myanmar,U,2010,
+524,Nepal,U,2010,
+528,Netherlands,E,2010,9484.0
+554,New Zealand,O,2010,2532.0
+562,Niger,U,2010,
+807,North Macedonia,E,2010,721.0
+578,Norway,E,2010,2295.0
+591,Panama,U,2010,634.006103515625
+604,Peru,U,2010,
+616,Poland,E,2010,12032.0
+620,Portugal,E,2010,5457.0
+634,Qatar,U,2010,2619.168
+498,Republic of Moldova,U,2010,2359.5
+638,Réunion,U,2010,498.965
+642,Romania,E,2010,6343.0
+643,Russia,O,2010,69256.63
+659,Saint Kitts and Nevis,U,2010,19.5449
+662,Saint Lucia,U,2010,76.0
+670,Saint Vincent and the Grenadines,U,2010,
+882,Samoa,U,2010,
+682,Saudi Arabia,O,2010,
+686,Senegal,U,2010,
+688,Serbia,E,2010,2650.0
+690,Seychelles,U,2010,
+702,Singapore,U,2010,6517.0
+703,Slovakia,E,2010,1719.0
+705,Slovenia,E,2010,1004.0
+724,Spain,E,2010,23774.0
+144,Sri Lanka,U,2010,
+275,State of Palestine,U,2010,1426.0
+736,Sudan (Former),U,2010,
+740,Suriname,U,2010,82.24
+752,Sweden,E,2010,4140.0
+756,Switzerland,E,2010,5565.0
+764,Thailand,U,2010,
+768,Togo,U,2010,173.0
+780,Trinidad and Tobago,U,2010,
+788,Tunisia,U,2010,
+792,Türkiye,E,2010,29733.0
+800,Uganda,U,2010,2676.4377
+804,Ukraine,U,2010,9765.5
+784,United Arab Emirates,U,2010,
+826,United Kingdom of Great Britain and Northern Ireland,O,2010,31954.51
+834,United Republic of Tanzania,U,2010,318.7
+840,United States,O,2010,227749.0
+862,Venezuela (Bolivarian Republic of),U,2010,29029.0
+704,Viet Nam,U,2010,
+887,Yemen,U,2010,1452.0
+894,Zambia,U,2010,
+716,Zimbabwe,U,2010,
+8,Albania,E,2011,
+20,Andorra,U,2011,44.78
+24,Angola,U,2011,
+660,Anguilla,U,2011,
+28,Antigua and Barbuda,U,2011,121.2
+32,Argentina,O,2011,
+51,Armenia,U,2011,395.5
+36,Australia,O,2011,13307.152476281
+40,Austria,E,2011,4807.0
+31,Azerbaijan,U,2011,1781.0
+44,Bahamas,U,2011,
+48,Bahrain,U,2011,1423.2799
+50,Bangladesh,U,2011,
+52,Barbados,U,2011,348.5931
+112,Belarus,U,2011,3832.2
+56,Belgium,E,2011,5023.0
+204,Benin,U,2011,
+60,Bermuda,U,2011,81.01000213623047
+64,Bhutan,U,2011,
+68,Bolivia (Plurinational State of),U,2011,1058.6812
+70,Bosnia and Herzegovina,E,2011,1307.0
+72,Botswana,U,2011,
+76,Brazil,U,2011,28016.013671875
+92,British Virgin Islands,U,2011,
+96,Brunei Darussalam,U,2011,
+100,Bulgaria,E,2011,3732.0
+854,Burkina Faso,U,2011,
+108,Burundi,U,2011,66.854
+132,Cabo Verde,U,2011,
+116,Cambodia,U,2011,408.0
+120,Cameroon,U,2011,
+152,Chile,O,2011,6142.4
+156,China,U,2011,163953.0
+344,"China, Hong Kong Special Administrative Region",U,2011,6303.0
+446,"China, Macao Special Administrative Region",U,2011,328.96
+170,Colombia,O,2011,9686.04
+188,Costa Rica,O,2011,1659.0
+191,Croatia,E,2011,1645.0
+192,Cuba,U,2011,4227.7998
+531,Curaçao,U,2011,191.6690063476562
+196,Cyprus,E,2011,589.0
+203,Czechia,E,2011,3358.0
+180,Democratic Republic of the Congo,U,2011,
+208,Denmark,E,2011,4803.0
+212,Dominica,U,2011,18.7
+218,Ecuador,U,2011,4033.0459
+818,Egypt,U,2011,
+222,El Salvador,U,2011,1019.9747
+233,Estonia,E,2011,399.0
+242,Fiji,U,2011,157.908
+246,Finland,E,2011,2719.0
+250,France,E,2011,34790.0
+254,French Guiana,U,2011,111.703
+258,French Polynesia,U,2011,106.712
+268,Georgia,U,2011,
+276,Germany,E,2011,50237.0
+288,Ghana,U,2011,3395.89990234375
+300,Greece,E,2011,5586.0
+312,Guadeloupe,U,2011,237.449
+340,Honduras,U,2011,
+348,Hungary,E,2011,3809.0
+352,Iceland,E,2011,158.0
+356,India,U,2011,
+360,Indonesia,U,2011,7742.3428
+364,Iran (Islamic Republic of),U,2011,
+368,Iraq,U,2011,13236.0
+372,Ireland,E,2011,2823.0
+376,Israel,O,2011,4745.8
+380,Italy,E,2011,31386.0
+388,Jamaica,U,2011,
+392,Japan,O,2011,45430.0
+398,Kazakhstan,U,2011,3919.0
+404,Kenya,U,2011,
+410,Korea,O,2011,17861.0
+414,Kuwait,U,2011,11248.744
+417,Kyrgyzstan,U,2011,1173.770751953125
+428,Latvia,E,2011,721.0
+422,Lebanon,U,2011,
+438,Liechtenstein,U,2011,35.8959
+440,Lithuania,E,2011,1339.0
+442,Luxembourg,E,2011,345.0
+450,Madagascar,U,2011,
+458,Malaysia,U,2011,2844.6399
+462,Maldives,U,2011,210.3659973144531
+470,Malta,E,2011,259.0
+584,Marshall Islands,U,2011,
+474,Martinique,U,2011,197.499
+480,Mauritius,U,2011,419.697
+484,Mexico,O,2011,41062.5
+492,Monaco,U,2011,43.9466
+499,Montenegro,E,2011,326.0
+500,Montserrat,U,2011,
+504,Morocco,U,2011,
+104,Myanmar,U,2011,
+524,Nepal,U,2011,
+528,Netherlands,E,2011,9479.0
+554,New Zealand,O,2011,2512.0
+562,Niger,U,2011,
+807,North Macedonia,E,2011,735.0
+578,Norway,E,2011,2403.0
+591,Panama,U,2011,674.4047241210938
+604,Peru,U,2011,
+616,Poland,E,2011,12129.0
+620,Portugal,E,2011,5178.0
+634,Qatar,U,2011,2593.687
+498,Republic of Moldova,U,2011,2401.8999
+638,Réunion,U,2011,530.601
+642,Romania,E,2011,5216.0
+643,Russia,O,2011,69198.28
+659,Saint Kitts and Nevis,U,2011,18.3316
+662,Saint Lucia,U,2011,68.0
+670,Saint Vincent and the Grenadines,U,2011,
+882,Samoa,U,2011,
+682,Saudi Arabia,O,2011,
+686,Senegal,U,2011,
+688,Serbia,E,2011,2710.0
+690,Seychelles,U,2011,
+702,Singapore,U,2011,6898.0
+703,Slovakia,E,2011,1679.0
+705,Slovenia,E,2011,852.0
+724,Spain,E,2011,22672.0
+144,Sri Lanka,U,2011,
+275,State of Palestine,U,2011,1468.0
+736,Sudan (Former),U,2011,
+740,Suriname,U,2011,83.96
+752,Sweden,E,2011,4278.0
+756,Switzerland,E,2011,5478.0
+764,Thailand,U,2011,
+768,Togo,U,2011,175.0
+780,Trinidad and Tobago,U,2011,
+788,Tunisia,U,2011,
+792,Türkiye,E,2011,30862.0
+800,Uganda,U,2011,3197.177
+804,Ukraine,U,2011,10356.5
+784,United Arab Emirates,U,2011,5211.167
+826,United Kingdom of Great Britain and Northern Ireland,O,2011,31066.06
+834,United Republic of Tanzania,U,2011,342.7
+840,United States,O,2011,228583.0
+862,Venezuela (Bolivarian Republic of),U,2011,28621.0
+704,Viet Nam,U,2011,
+887,Yemen,U,2011,1473.0
+894,Zambia,U,2011,
+716,Zimbabwe,U,2011,
+8,Albania,E,2012,
+20,Andorra,U,2012,43.14
+24,Angola,U,2012,
+660,Anguilla,U,2012,
+28,Antigua and Barbuda,U,2012,122.5
+32,Argentina,O,2012,
+51,Armenia,U,2012,408.1
+36,Australia,O,2012,13572.33
+40,Austria,E,2012,4883.0
+31,Azerbaijan,U,2012,1647.0
+44,Bahamas,U,2012,
+48,Bahrain,U,2012,1432.0299
+50,Bangladesh,U,2012,
+52,Barbados,U,2012,297.2086
+112,Belarus,U,2012,3728.0
+56,Belgium,E,2012,4944.0
+204,Benin,U,2012,
+60,Bermuda,U,2012,82.05999755859375
+64,Bhutan,U,2012,50.05160903930664
+68,Bolivia (Plurinational State of),U,2012,1099.7158
+70,Bosnia and Herzegovina,E,2012,1303.0
+72,Botswana,U,2012,
+76,Brazil,U,2012,31619.31640625
+92,British Virgin Islands,U,2012,
+96,Brunei Darussalam,U,2012,
+100,Bulgaria,E,2012,3364.0
+854,Burkina Faso,U,2012,
+108,Burundi,U,2012,21.755
+132,Cabo Verde,U,2012,147.9286
+116,Cambodia,U,2012,461.0
+120,Cameroon,U,2012,
+152,Chile,O,2012,
+156,China,U,2012,170809.0
+344,"China, Hong Kong Special Administrative Region",U,2012,5559.0
+446,"China, Macao Special Administrative Region",U,2012,366.78
+170,Colombia,O,2012,8996.13
+188,Costa Rica,O,2012,1698.0
+191,Croatia,E,2012,1670.0
+192,Cuba,U,2012,5304.0
+531,Curaçao,U,2012,210.7409973144531
+196,Cyprus,E,2012,588.0
+203,Czechia,E,2012,3233.0
+180,Democratic Republic of the Congo,U,2012,314269.0
+208,Denmark,E,2012,4508.0
+212,Dominica,U,2012,19.5
+218,Ecuador,U,2012,2755.5349
+818,Egypt,U,2012,94868.0
+222,El Salvador,U,2012,1178.1434
+233,Estonia,E,2012,371.0
+242,Fiji,U,2012,161.854
+246,Finland,E,2012,2738.0
+250,France,E,2012,34484.0
+254,French Guiana,U,2012,90.914
+258,French Polynesia,U,2012,115.712
+268,Georgia,U,2012,
+276,Germany,E,2012,49759.0
+288,Ghana,U,2012,3480.79736328125
+300,Greece,E,2012,5463.0
+312,Guadeloupe,U,2012,250.293
+340,Honduras,U,2012,
+348,Hungary,E,2012,3988.0
+352,Iceland,E,2012,164.0
+356,India,U,2012,
+360,Indonesia,U,2012,7650.3892
+364,Iran (Islamic Republic of),U,2012,
+368,Iraq,U,2012,13113.0
+372,Ireland,E,2012,2693.0
+376,Israel,O,2012,4837.4
+380,Italy,E,2012,29994.0
+388,Jamaica,U,2012,
+392,Japan,O,2012,45234.0
+398,Kazakhstan,U,2012,3588.3
+404,Kenya,U,2012,
+410,Korea,O,2012,17881.0
+414,Kuwait,U,2012,11392.587
+417,Kyrgyzstan,U,2012,980.3621826171875
+428,Latvia,E,2012,658.0
+422,Lebanon,U,2012,1940.0
+438,Liechtenstein,U,2012,35.1368
+440,Lithuania,E,2012,1330.0
+442,Luxembourg,E,2012,346.0
+450,Madagascar,U,2012,
+458,Malaysia,U,2012,2781.2979
+462,Maldives,U,2012,210.7220001220703
+470,Malta,E,2012,257.0
+584,Marshall Islands,U,2012,
+474,Martinique,U,2012,196.004
+480,Mauritius,U,2012,422.711
+484,Mexico,O,2012,42102.75
+492,Monaco,U,2012,45.52
+499,Montenegro,E,2012,308.0
+500,Montserrat,U,2012,
+504,Morocco,U,2012,
+104,Myanmar,U,2012,189.435
+524,Nepal,U,2012,1.2824
+528,Netherlands,E,2012,9203.0
+554,New Zealand,O,2012,2514.97
+562,Niger,U,2012,
+807,North Macedonia,E,2012,786.0
+578,Norway,E,2012,2392.0
+591,Panama,U,2012,670.111328125
+604,Peru,U,2012,
+616,Poland,E,2012,12084.0
+620,Portugal,E,2012,4766.0
+634,Qatar,U,2012,2546.609
+498,Republic of Moldova,U,2012,2421.1001
+638,Réunion,U,2012,523.341
+642,Romania,E,2012,5044.0
+643,Russia,O,2012,80564.33
+659,Saint Kitts and Nevis,U,2012,16.4526
+662,Saint Lucia,U,2012,69.0
+670,Saint Vincent and the Grenadines,U,2012,
+882,Samoa,U,2012,
+682,Saudi Arabia,O,2012,
+686,Senegal,U,2012,
+688,Serbia,E,2012,2620.0
+690,Seychelles,U,2012,
+702,Singapore,U,2012,7269.5
+703,Slovakia,E,2012,1657.0
+705,Slovenia,E,2012,744.0
+724,Spain,E,2012,21896.0
+144,Sri Lanka,U,2012,
+275,State of Palestine,U,2012,1513.0
+736,Sudan (Former),U,2012,
+740,Suriname,U,2012,77.21
+752,Sweden,E,2012,4324.0
+756,Switzerland,E,2012,5576.0
+764,Thailand,U,2012,
+768,Togo,U,2012,197.0
+780,Trinidad and Tobago,U,2012,
+788,Tunisia,U,2012,
+792,Türkiye,E,2012,30786.0
+800,Uganda,U,2012,3282.2173
+804,Ukraine,U,2012,13878.0
+784,United Arab Emirates,U,2012,5173.2314
+826,United Kingdom of Great Britain and Northern Ireland,O,2012,30412.98
+834,United Republic of Tanzania,U,2012,323.508
+840,United States,O,2012,228873.6
+862,Venezuela (Bolivarian Republic of),U,2012,30097.0
+704,Viet Nam,U,2012,
+887,Yemen,U,2012,1535.0
+894,Zambia,U,2012,
+716,Zimbabwe,U,2012,
+8,Albania,E,2013,940.0
+20,Andorra,U,2013,41.6491
+24,Angola,U,2013,
+660,Anguilla,U,2013,
+28,Antigua and Barbuda,U,2013,132.7
+32,Argentina,O,2013,
+51,Armenia,U,2013,517.69
+36,Australia,O,2013,13694.67
+40,Austria,E,2013,4905.0
+31,Azerbaijan,U,2013,1671.0
+44,Bahamas,U,2013,
+48,Bahrain,U,2013,1943.318
+50,Bangladesh,U,2013,
+52,Barbados,U,2013,355.0356
+112,Belarus,U,2013,3681.7
+56,Belgium,E,2013,4867.0
+204,Benin,U,2013,
+60,Bermuda,U,2013,84.63999938964844
+64,Bhutan,U,2013,
+68,Bolivia (Plurinational State of),U,2013,1167.0945
+70,Bosnia and Herzegovina,E,2013,1192.0
+72,Botswana,U,2013,130.9994049072266
+76,Brazil,U,2013,34525.23046875
+92,British Virgin Islands,U,2013,
+96,Brunei Darussalam,U,2013,
+100,Bulgaria,E,2013,3135.0
+854,Burkina Faso,U,2013,
+108,Burundi,U,2013,
+132,Cabo Verde,U,2013,144.9534
+116,Cambodia,U,2013,
+120,Cameroon,U,2013,
+152,Chile,O,2013,
+156,China,U,2013,172386.0
+344,"China, Hong Kong Special Administrative Region",U,2013,5493.0
+446,"China, Macao Special Administrative Region",U,2013,399.01
+170,Colombia,O,2013,9144.51
+188,Costa Rica,O,2013,1752.0
+191,Croatia,E,2013,1721.0
+192,Cuba,U,2013,5033.7998
+531,Curaçao,U,2013,155.8059997558594
+196,Cyprus,E,2013,547.0
+203,Czechia,E,2013,3228.0
+180,Democratic Republic of the Congo,U,2013,479639.0
+208,Denmark,E,2013,4564.0
+212,Dominica,U,2013,19.5
+218,Ecuador,U,2013,2896.5864
+818,Egypt,U,2013,
+222,El Salvador,U,2013,1081.0676
+233,Estonia,E,2013,386.0
+242,Fiji,U,2013,155.423
+246,Finland,E,2013,2682.0
+250,France,E,2013,34176.0
+254,French Guiana,U,2013,70.124
+258,French Polynesia,U,2013,124.711
+268,Georgia,U,2013,
+276,Germany,E,2013,49570.0
+288,Ghana,U,2013,3567.8173828125
+300,Greece,E,2013,5284.0
+312,Guadeloupe,U,2013,263.136
+340,Honduras,U,2013,670.2222
+348,Hungary,E,2013,3738.0
+352,Iceland,E,2013,167.0
+356,India,U,2013,
+360,Indonesia,U,2013,6002.8296
+364,Iran (Islamic Republic of),U,2013,
+368,Iraq,U,2013,12778.0
+372,Ireland,E,2013,
+376,Israel,O,2013,4861.886251
+380,Italy,E,2013,29573.0
+388,Jamaica,U,2013,
+392,Japan,O,2013,44874.0
+398,Kazakhstan,U,2013,3547.7
+404,Kenya,U,2013,
+410,Korea,O,2013,17786.0
+414,Kuwait,U,2013,11896.983
+417,Kyrgyzstan,U,2013,1174.366088867188
+428,Latvia,E,2013,704.0
+422,Lebanon,U,2013,
+438,Liechtenstein,U,2013,33.2812
+440,Lithuania,E,2013,1280.0
+442,Luxembourg,E,2013,335.0
+450,Madagascar,U,2013,
+458,Malaysia,U,2013,2720.0342
+462,Maldives,U,2013,440.3150024414062
+470,Malta,E,2013,257.0
+584,Marshall Islands,U,2013,
+474,Martinique,U,2013,194.509
+480,Mauritius,U,2013,449.192
+484,Mexico,O,2013,
+492,Monaco,U,2013,30.811
+499,Montenegro,E,2013,310.0
+500,Montserrat,U,2013,
+504,Morocco,U,2013,
+104,Myanmar,U,2013,285.4246
+524,Nepal,U,2013,
+528,Netherlands,E,2013,8840.0
+554,New Zealand,O,2013,2685.41
+562,Niger,U,2013,
+807,North Macedonia,E,2013,793.0
+578,Norway,E,2013,2518.0
+591,Panama,U,2013,677.4169921875
+604,Peru,U,2013,
+616,Poland,E,2013,11295.0
+620,Portugal,E,2013,4598.0
+634,Qatar,U,2013,2762.5137
+498,Republic of Moldova,U,2013,2647.3999
+638,Réunion,U,2013,516.081
+642,Romania,E,2013,5071.0
+643,Russia,O,2013,
+659,Saint Kitts and Nevis,U,2013,
+662,Saint Lucia,U,2013,72.0
+670,Saint Vincent and the Grenadines,U,2013,
+882,Samoa,U,2013,5.15500020980835
+682,Saudi Arabia,O,2013,
+686,Senegal,U,2013,
+688,Serbia,E,2013,2410.0
+690,Seychelles,U,2013,
+702,Singapore,U,2013,7851.2002
+703,Slovakia,E,2013,1645.0
+705,Slovenia,E,2013,853.0
+724,Spain,E,2013,21184.0
+144,Sri Lanka,U,2013,
+275,State of Palestine,U,2013,1557.77
+736,Sudan (Former),U,2013,
+740,Suriname,U,2013,213.375
+752,Sweden,E,2013,4371.0
+756,Switzerland,E,2013,5708.0
+764,Thailand,U,2013,
+768,Togo,U,2013,
+780,Trinidad and Tobago,U,2013,
+788,Tunisia,U,2013,
+792,Türkiye,E,2013,30920.0
+800,Uganda,U,2013,3367.2575
+804,Ukraine,U,2013,14501.0
+784,United Arab Emirates,U,2013,5894.1753
+826,United Kingdom of Great Britain and Northern Ireland,O,2013,30890.0
+834,United Republic of Tanzania,U,2013,474.14
+840,United States,O,2013,231395.6
+862,Venezuela (Bolivarian Republic of),U,2013,23569.0
+704,Viet Nam,U,2013,
+887,Yemen,U,2013,1581.0
+894,Zambia,U,2013,
+716,Zimbabwe,U,2013,
+8,Albania,E,2014,1229.0
+20,Andorra,U,2014,41.142
+24,Angola,U,2014,
+660,Anguilla,U,2014,
+28,Antigua and Barbuda,U,2014,138.0
+32,Argentina,O,2014,
+51,Armenia,U,2014,517.1
+36,Australia,O,2014,14088.119574563
+40,Austria,E,2014,4833.0
+31,Azerbaijan,U,2014,1355.0
+44,Bahamas,U,2014,
+48,Bahrain,U,2014,1629.7925
+50,Bangladesh,U,2014,4841.7598
+52,Barbados,U,2014,360.5263
+112,Belarus,U,2014,3722.8
+56,Belgium,E,2014,4762.0
+204,Benin,U,2014,
+60,Bermuda,U,2014,85.20999908447266
+64,Bhutan,U,2014,
+68,Bolivia (Plurinational State of),U,2014,1294.1049
+70,Bosnia and Herzegovina,E,2014,1335.0
+72,Botswana,U,2014,
+76,Brazil,U,2014,36811.2265625
+92,British Virgin Islands,U,2014,
+96,Brunei Darussalam,U,2014,
+100,Bulgaria,E,2014,3192.0
+854,Burkina Faso,U,2014,
+108,Burundi,U,2014,23.54
+132,Cabo Verde,U,2014,
+116,Cambodia,U,2014,
+120,Cameroon,U,2014,
+152,Chile,O,2014,6811.71
+156,China,U,2014,178602.0
+344,"China, Hong Kong Special Administrative Region",U,2014,5624.0
+446,"China, Macao Special Administrative Region",U,2014,462.2
+170,Colombia,O,2014,9144.64
+188,Costa Rica,O,2014,1788.0
+191,Croatia,E,2014,1637.0
+192,Cuba,U,2014,4831.7998
+531,Curaçao,U,2014,221.9470062255859
+196,Cyprus,E,2014,527.0
+203,Czechia,E,2014,3261.0
+180,Democratic Republic of the Congo,U,2014,589168.0
+208,Denmark,E,2014,4558.0
+212,Dominica,U,2014,20.0
+218,Ecuador,U,2014,4089.1826
+818,Egypt,U,2014,
+222,El Salvador,U,2014,1111.188
+233,Estonia,E,2014,470.0
+242,Fiji,U,2014,155.61
+246,Finland,E,2014,2630.0
+250,France,E,2014,34260.0
+254,French Guiana,U,2014,90.555
+258,French Polynesia,U,2014,104.019
+268,Georgia,U,2014,
+276,Germany,E,2014,51102.0
+288,Ghana,U,2014,3657.012939453125
+300,Greece,E,2014,5315.0
+312,Guadeloupe,U,2014,238.436
+340,Honduras,U,2014,
+348,Hungary,E,2014,3795.0
+352,Iceland,E,2014,175.0
+356,India,U,2014,
+360,Indonesia,U,2014,5842.4282
+364,Iran (Islamic Republic of),U,2014,
+368,Iraq,U,2014,12301.0
+372,Ireland,E,2014,2619.0
+376,Israel,O,2014,4955.261822
+380,Italy,E,2014,29652.0
+388,Jamaica,U,2014,
+392,Japan,O,2014,44317.0
+398,Kazakhstan,U,2014,3446.3
+404,Kenya,U,2014,330.981
+410,Korea,O,2014,18219.0
+414,Kuwait,U,2014,14176.624
+417,Kyrgyzstan,U,2014,994.848388671875
+428,Latvia,E,2014,726.0
+422,Lebanon,U,2014,
+438,Liechtenstein,U,2014,31.3625
+440,Lithuania,E,2014,1270.0
+442,Luxembourg,E,2014,348.0
+450,Madagascar,U,2014,
+458,Malaysia,U,2014,2758.3503
+462,Maldives,U,2014,325.4100036621094
+470,Malta,E,2014,273.0
+584,Marshall Islands,U,2014,
+474,Martinique,U,2014,193.017
+480,Mauritius,U,2014,458.512
+484,Mexico,O,2014,
+492,Monaco,U,2014,30.715
+499,Montenegro,E,2014,298.0
+500,Montserrat,U,2014,
+504,Morocco,U,2014,5667.9609375
+104,Myanmar,U,2014,329.3325
+524,Nepal,U,2014,
+528,Netherlands,E,2014,8894.0
+554,New Zealand,O,2014,2933.07
+562,Niger,U,2014,
+807,North Macedonia,E,2014,765.0
+578,Norway,E,2014,2175.0
+591,Panama,U,2014,687.0070190429688
+604,Peru,U,2014,
+616,Poland,E,2014,10330.0
+620,Portugal,E,2014,4710.0
+634,Qatar,U,2014,2839.871
+498,Republic of Moldova,U,2014,2823.3999
+638,Réunion,U,2014,502.984
+642,Romania,E,2014,4956.0
+643,Russia,O,2014,
+659,Saint Kitts and Nevis,U,2014,
+662,Saint Lucia,U,2014,70.0
+670,Saint Vincent and the Grenadines,U,2014,
+882,Samoa,U,2014,8.803999900817871
+682,Saudi Arabia,O,2014,
+686,Senegal,U,2014,
+688,Serbia,E,2014,2130.0
+690,Seychelles,U,2014,
+702,Singapore,U,2014,7514.7998
+703,Slovakia,E,2014,1733.0
+705,Slovenia,E,2014,892.0
+724,Spain,E,2014,20836.0
+144,Sri Lanka,U,2014,
+275,State of Palestine,U,2014,1603.9301
+736,Sudan (Former),U,2014,
+740,Suriname,U,2014,196.948
+752,Sweden,E,2014,4295.0
+756,Switzerland,E,2014,6006.0
+764,Thailand,U,2014,19660.0
+768,Togo,U,2014,
+780,Trinidad and Tobago,U,2014,
+788,Tunisia,U,2014,
+792,Türkiye,E,2014,31230.0
+800,Uganda,U,2014,3452.2978
+804,Ukraine,U,2014,10748.0
+784,United Arab Emirates,U,2014,5228.5278
+826,United Kingdom of Great Britain and Northern Ireland,O,2014,31131.0
+834,United Republic of Tanzania,U,2014,498.226
+840,United States,O,2014,234416.5
+862,Venezuela (Bolivarian Republic of),U,2014,25799.0
+704,Viet Nam,U,2014,
+887,Yemen,U,2014,
+894,Zambia,U,2014,
+716,Zimbabwe,U,2014,
+8,Albania,E,2015,1413.0
+20,Andorra,U,2015,42.0701
+24,Angola,U,2015,
+660,Anguilla,U,2015,
+28,Antigua and Barbuda,U,2015,95.8
+32,Argentina,O,2015,
+51,Armenia,U,2015,492.8
+36,Australia,O,2015,14188.721536965
+40,Austria,E,2015,4836.0
+31,Azerbaijan,U,2015,1535.0
+44,Bahamas,U,2015,
+48,Bahrain,U,2015,1605.3658
+50,Bangladesh,U,2015,
+52,Barbados,U,2015,209.8912
+112,Belarus,U,2015,3734.6001
+56,Belgium,E,2015,4643.0
+204,Benin,U,2015,
+60,Bermuda,U,2015,83.58999633789062
+64,Bhutan,U,2015,
+68,Bolivia (Plurinational State of),U,2015,1396.4257
+70,Bosnia and Herzegovina,E,2015,1249.0
+72,Botswana,U,2015,85.94554138183594
+76,Brazil,U,2015,34018.72265625
+92,British Virgin Islands,U,2015,
+96,Brunei Darussalam,U,2015,180.2178
+100,Bulgaria,E,2015,3011.0
+854,Burkina Faso,U,2015,
+108,Burundi,U,2015,59.35
+132,Cabo Verde,U,2015,145.894
+116,Cambodia,U,2015,
+120,Cameroon,U,2015,
+152,Chile,O,2015,7197.35
+156,China,U,2015,191419.0
+344,"China, Hong Kong Special Administrative Region",U,2015,5741.0
+446,"China, Macao Special Administrative Region",U,2015,514.84
+170,Colombia,O,2015,9967.84
+188,Costa Rica,O,2015,1877.0
+191,Croatia,E,2015,1654.0
+192,Cuba,U,2015,4888.3999
+531,Curaçao,U,2015,257.2439880371094
+196,Cyprus,E,2015,540.0
+203,Czechia,E,2015,3337.0
+180,Democratic Republic of the Congo,U,2015,
+208,Denmark,E,2015,4671.0
+212,Dominica,U,2015,20.0
+218,Ecuador,U,2015,4682.7349
+818,Egypt,U,2015,
+222,El Salvador,U,2015,1137.245
+233,Estonia,E,2015,473.0
+242,Fiji,U,2015,159.383
+246,Finland,E,2015,2738.0
+250,France,E,2015,34344.0
+254,French Guiana,U,2015,110.986
+258,French Polynesia,U,2015,83.326
+268,Georgia,U,2015,774.7
+276,Germany,E,2015,51625.0
+288,Ghana,U,2015,3915.035400390625
+300,Greece,E,2015,5277.0
+312,Guadeloupe,U,2015,213.736
+340,Honduras,U,2015,
+348,Hungary,E,2015,3712.0
+352,Iceland,E,2015,195.0
+356,India,U,2015,
+360,Indonesia,U,2015,6026.7979
+364,Iran (Islamic Republic of),U,2015,
+368,Iraq,U,2015,14349.0
+372,Ireland,E,2015,
+376,Israel,O,2015,5081.651345
+380,Italy,E,2015,29524.0
+388,Jamaica,U,2015,
+392,Japan,O,2015,43981.0
+398,Kazakhstan,U,2015,3235.5
+404,Kenya,U,2015,281.9892
+410,Korea,O,2015,18705.0
+414,Kuwait,U,2015,12639.4585
+417,Kyrgyzstan,U,2015,1113.270629882812
+428,Latvia,E,2015,798.0
+422,Lebanon,U,2015,
+438,Liechtenstein,U,2015,32.382
+440,Lithuania,E,2015,1300.0
+442,Luxembourg,E,2015,346.0
+450,Madagascar,U,2015,
+458,Malaysia,U,2015,2813.6125
+462,Maldives,U,2015,
+470,Malta,E,2015,285.0
+584,Marshall Islands,U,2015,
+474,Martinique,U,2015,191.525
+480,Mauritius,U,2015,486.455
+484,Mexico,O,2015,
+492,Monaco,U,2015,30.42
+499,Montenegro,E,2015,310.0
+500,Montserrat,U,2015,
+504,Morocco,U,2015,5817.115234375
+104,Myanmar,U,2015,352.89
+524,Nepal,U,2015,
+528,Netherlands,E,2015,8866.0
+554,New Zealand,O,2015,3222.42
+562,Niger,U,2015,
+807,North Macedonia,E,2015,786.0
+578,Norway,E,2015,2187.0
+591,Panama,U,2015,701.6229858398438
+604,Peru,U,2015,
+616,Poland,E,2015,10863.0
+620,Portugal,E,2015,4769.0
+634,Qatar,U,2015,3397.9526
+498,Republic of Moldova,U,2015,2834.1001
+638,Réunion,U,2015,489.887
+642,Romania,E,2015,4904.0
+643,Russia,O,2015,
+659,Saint Kitts and Nevis,U,2015,
+662,Saint Lucia,U,2015,74.0
+670,Saint Vincent and the Grenadines,U,2015,
+882,Samoa,U,2015,5.066999912261963
+682,Saudi Arabia,O,2015,
+686,Senegal,U,2015,
+688,Serbia,E,2015,1840.0
+690,Seychelles,U,2015,
+702,Singapore,U,2015,7673.5
+703,Slovakia,E,2015,1784.0
+705,Slovenia,E,2015,926.0
+724,Spain,E,2015,21158.0
+144,Sri Lanka,U,2015,
+275,State of Palestine,U,2015,1650.9
+736,Sudan (Former),U,2015,
+740,Suriname,U,2015,204.959
+752,Sweden,E,2015,4422.0
+756,Switzerland,E,2015,6030.0
+764,Thailand,U,2015,20460.0
+768,Togo,U,2015,
+780,Trinidad and Tobago,U,2015,
+788,Tunisia,U,2015,
+792,Türkiye,E,2015,31283.0
+800,Uganda,U,2015,3563.5233
+804,Ukraine,U,2015,11491.7998
+784,United Arab Emirates,U,2015,6061.0474
+826,United Kingdom of Great Britain and Northern Ireland,O,2015,31475.157
+834,United Republic of Tanzania,U,2015,512.528
+840,United States,O,2015,237782.19
+862,Venezuela (Bolivarian Republic of),U,2015,27638.0
+704,Viet Nam,U,2015,
+887,Yemen,U,2015,
+894,Zambia,U,2015,
+716,Zimbabwe,U,2015,
+8,Albania,E,2016,1300.0
+20,Andorra,U,2016,43.0493
+24,Angola,U,2016,
+660,Anguilla,U,2016,
+28,Antigua and Barbuda,U,2016,96.48
+32,Argentina,O,2016,
+51,Armenia,U,2016,499.7
+36,Australia,O,2016,13369.816088183
+40,Austria,E,2016,4928.0
+31,Azerbaijan,U,2016,1590.0
+44,Bahamas,U,2016,
+48,Bahrain,U,2016,1805.1243
+50,Bangladesh,U,2016,
+52,Barbados,U,2016,116.4664
+112,Belarus,U,2016,3794.0
+56,Belgium,E,2016,4746.0
+204,Benin,U,2016,
+60,Bermuda,U,2016,89.80000305175781
+64,Bhutan,U,2016,
+68,Bolivia (Plurinational State of),U,2016,1491.7615
+70,Bosnia and Herzegovina,E,2016,1244.0
+72,Botswana,U,2016,
+76,Brazil,U,2016,
+92,British Virgin Islands,U,2016,
+96,Brunei Darussalam,U,2016,170.0588
+100,Bulgaria,E,2016,2881.0
+854,Burkina Faso,U,2016,
+108,Burundi,U,2016,44.73
+132,Cabo Verde,U,2016,
+116,Cambodia,U,2016,
+120,Cameroon,U,2016,
+152,Chile,O,2016,7228.65
+156,China,U,2016,203620.0
+344,"China, Hong Kong Special Administrative Region",U,2016,5699.0
+446,"China, Macao Special Administrative Region",U,2016,516.88
+170,Colombia,O,2016,11400.04
+188,Costa Rica,O,2016,1218.0
+191,Croatia,E,2016,1680.0
+192,Cuba,U,2016,5375.5
+531,Curaçao,U,2016,177.7579956054688
+196,Cyprus,E,2016,553.0
+203,Czechia,E,2016,3580.0
+180,Democratic Republic of the Congo,U,2016,
+208,Denmark,E,2016,4757.0
+212,Dominica,U,2016,20.0
+218,Ecuador,U,2016,4707.7627
+818,Egypt,U,2016,
+222,El Salvador,U,2016,1059.39
+233,Estonia,E,2016,494.0
+242,Fiji,U,2016,160.572
+246,Finland,E,2016,2768.0
+250,France,E,2016,36891.0
+254,French Guiana,U,2016,108.0
+258,French Polynesia,U,2016,
+268,Georgia,U,2016,870.3
+276,Germany,E,2016,52133.0
+288,Ghana,U,2016,4012.911376953125
+300,Greece,E,2016,5367.0
+312,Guadeloupe,U,2016,237.4475
+340,Honduras,U,2016,
+348,Hungary,E,2016,3721.0
+352,Iceland,E,2016,220.0
+356,India,U,2016,42590.3535
+360,Indonesia,U,2016,9236.8506
+364,Iran (Islamic Republic of),U,2016,
+368,Iraq,U,2016,14546.0
+372,Ireland,E,2016,2763.0
+376,Israel,O,2016,5261.410983
+380,Italy,E,2016,30112.0
+388,Jamaica,U,2016,
+392,Japan,O,2016,43170.0
+398,Kazakhstan,U,2016,2942.7
+404,Kenya,U,2016,1157.1195
+410,Korea,O,2016,19627.0
+414,Kuwait,U,2016,14135.529
+417,Kyrgyzstan,U,2016,1230.0
+428,Latvia,E,2016,802.0
+422,Lebanon,U,2016,
+438,Liechtenstein,U,2016,32.6697
+440,Lithuania,E,2016,1272.0
+442,Luxembourg,E,2016,474.0
+450,Madagascar,U,2016,
+458,Malaysia,U,2016,2729.4634
+462,Maldives,U,2016,
+470,Malta,E,2016,292.0
+584,Marshall Islands,U,2016,
+474,Martinique,U,2016,194.694
+480,Mauritius,U,2016,483.003
+484,Mexico,O,2016,
+492,Monaco,U,2016,30.7595
+499,Montenegro,E,2016,307.0
+500,Montserrat,U,2016,
+504,Morocco,U,2016,
+104,Myanmar,U,2016,338.2091
+524,Nepal,U,2016,
+528,Netherlands,E,2016,8861.0
+554,New Zealand,O,2016,3404.95
+562,Niger,U,2016,
+807,North Macedonia,E,2016,
+578,Norway,E,2016,3946.0
+591,Panama,U,2016,832.6010131835938
+604,Peru,U,2016,
+616,Poland,E,2016,11654.0
+620,Portugal,E,2016,4891.0
+634,Qatar,U,2016,3750.5067
+498,Republic of Moldova,U,2016,3143.0
+638,Réunion,U,2016,529.0
+642,Romania,E,2016,5143.0
+643,Russia,O,2016,
+659,Saint Kitts and Nevis,U,2016,
+662,Saint Lucia,U,2016,83.0
+670,Saint Vincent and the Grenadines,U,2016,
+882,Samoa,U,2016,13.94999980926514
+682,Saudi Arabia,O,2016,
+686,Senegal,U,2016,
+688,Serbia,E,2016,1890.0
+690,Seychelles,U,2016,
+702,Singapore,U,2016,7814.0
+703,Slovakia,E,2016,1890.0
+705,Slovenia,E,2016,943.0
+724,Spain,E,2016,21542.0
+144,Sri Lanka,U,2016,1378.1
+275,State of Palestine,U,2016,1698.58
+736,Sudan (Former),U,2016,
+740,Suriname,U,2016,202.824
+752,Sweden,E,2016,4439.0
+756,Switzerland,E,2016,6050.0
+764,Thailand,U,2016,20877.0
+768,Togo,U,2016,
+780,Trinidad and Tobago,U,2016,
+788,Tunisia,U,2016,
+792,Türkiye,E,2016,33763.0
+800,Uganda,U,2016,3679.0148
+804,Ukraine,U,2016,11562.5996
+784,United Arab Emirates,U,2016,5209.6279
+826,United Kingdom of Great Britain and Northern Ireland,O,2016,31709.994
+834,United Republic of Tanzania,U,2016,
+840,United States,O,2016,243225.0
+862,Venezuela (Bolivarian Republic of),U,2016,24394.0
+704,Viet Nam,U,2016,
+887,Yemen,U,2016,
+894,Zambia,U,2016,
+716,Zimbabwe,U,2016,782.9777221679688
+8,Albania,E,2017,1254.0
+20,Andorra,U,2017,43.3458
+24,Angola,U,2017,
+660,Anguilla,U,2017,
+28,Antigua and Barbuda,U,2017,159.48
+32,Argentina,O,2017,
+51,Armenia,U,2017,493.9
+36,Australia,O,2017,12852.355275162
+40,Austria,E,2017,5018.0
+31,Azerbaijan,U,2017,1576.0
+44,Bahamas,U,2017,
+48,Bahrain,U,2017,2142.0146
+50,Bangladesh,U,2017,
+52,Barbados,U,2017,131.7096
+112,Belarus,U,2017,3801.3999
+56,Belgium,E,2017,4672.0
+204,Benin,U,2017,
+60,Bermuda,U,2017,95.69999694824219
+64,Bhutan,U,2017,41.32799911499023
+68,Bolivia (Plurinational State of),U,2017,1521.8844
+70,Bosnia and Herzegovina,E,2017,1235.0
+72,Botswana,U,2017,240.5533294677734
+76,Brazil,U,2017,
+92,British Virgin Islands,U,2017,
+96,Brunei Darussalam,U,2017,165.5345
+100,Bulgaria,E,2017,3080.0
+854,Burkina Faso,U,2017,
+108,Burundi,U,2017,39.09
+132,Cabo Verde,U,2017,
+116,Cambodia,U,2017,
+120,Cameroon,U,2017,
+152,Chile,O,2017,8121.99
+156,China,U,2017,215209.0
+344,"China, Hong Kong Special Administrative Region",U,2017,5748.0
+446,"China, Macao Special Administrative Region",U,2017,525.74
+170,Colombia,O,2017,10856.98
+188,Costa Rica,O,2017,1267.0
+191,Croatia,E,2017,1716.0
+192,Cuba,U,2017,5916.5
+531,Curaçao,U,2017,173.1230010986328
+196,Cyprus,E,2017,551.0
+203,Czechia,E,2017,5177.0
+180,Democratic Republic of the Congo,U,2017,
+208,Denmark,E,2017,4728.0
+212,Dominica,U,2017,20.0
+218,Ecuador,U,2017,4503.1001
+818,Egypt,U,2017,
+222,El Salvador,U,2017,1141.13
+233,Estonia,E,2017,514.0
+242,Fiji,U,2017,165.005
+246,Finland,E,2017,2812.0
+250,France,E,2017,37357.0
+254,French Guiana,U,2017,104.926
+258,French Polynesia,U,2017,
+268,Georgia,U,2017,922.1
+276,Germany,E,2017,51790.0
+288,Ghana,U,2017,4113.23388671875
+300,Greece,E,2017,5415.0
+312,Guadeloupe,U,2017,261.159
+340,Honduras,U,2017,
+348,Hungary,E,2017,3768.0
+352,Iceland,E,2017,225.0
+356,India,U,2017,
+360,Indonesia,U,2017,9536.6104
+364,Iran (Islamic Republic of),U,2017,
+368,Iraq,U,2017,20373.0
+372,Ireland,E,2017,2768.0
+376,Israel,O,2017,5434.652957
+380,Italy,E,2017,29572.0
+388,Jamaica,U,2017,
+392,Japan,O,2017,42894.0
+398,Kazakhstan,U,2017,3415.0
+404,Kenya,U,2017,1079.035
+410,Korea,O,2017,19523.6675
+414,Kuwait,U,2017,18398.144
+417,Kyrgyzstan,U,2017,1403.800048828125
+428,Latvia,E,2017,798.0
+422,Lebanon,U,2017,
+438,Liechtenstein,U,2017,33.575
+440,Lithuania,E,2017,1286.0
+442,Luxembourg,E,2017,476.0
+450,Madagascar,U,2017,
+458,Malaysia,U,2017,2557.9509
+462,Maldives,U,2017,
+470,Malta,E,2017,312.0
+584,Marshall Islands,U,2017,
+474,Martinique,U,2017,197.864
+480,Mauritius,U,2017,496.729
+484,Mexico,O,2017,
+492,Monaco,U,2017,30.0718
+499,Montenegro,E,2017,305.0
+500,Montserrat,U,2017,
+504,Morocco,U,2017,
+104,Myanmar,U,2017,350.2986
+524,Nepal,U,2017,653.68
+528,Netherlands,E,2017,8792.0
+554,New Zealand,O,2017,3494.31
+562,Niger,U,2017,
+807,North Macedonia,E,2017,
+578,Norway,E,2017,3949.0
+591,Panama,U,2017,781.6580200195312
+604,Peru,U,2017,
+616,Poland,E,2017,11969.0
+620,Portugal,E,2017,5007.0
+634,Qatar,U,2017,4064.48
+498,Republic of Moldova,U,2017,3286.1
+638,Réunion,U,2017,568.1
+642,Romania,E,2017,5333.0
+643,Russia,O,2017,
+659,Saint Kitts and Nevis,U,2017,
+662,Saint Lucia,U,2017,75.0
+670,Saint Vincent and the Grenadines,U,2017,
+882,Samoa,U,2017,15.44999980926514
+682,Saudi Arabia,O,2017,
+686,Senegal,U,2017,
+688,Serbia,E,2017,2150.0
+690,Seychelles,U,2017,
+702,Singapore,U,2017,7704.0
+703,Slovakia,E,2017,2058.0
+705,Slovenia,E,2017,974.0
+724,Spain,E,2017,22018.0
+144,Sri Lanka,U,2017,
+275,State of Palestine,U,2017,1600.0
+736,Sudan (Former),U,2017,
+740,Suriname,U,2017,195.22
+752,Sweden,E,2017,4551.0
+756,Switzerland,E,2017,5992.0
+764,Thailand,U,2017,21663.0
+768,Togo,U,2017,
+780,Trinidad and Tobago,U,2017,797.296
+788,Tunisia,U,2017,
+792,Türkiye,E,2017,34173.0
+800,Uganda,U,2017,3798.0796
+804,Ukraine,U,2017,11271.2002
+784,United Arab Emirates,U,2017,5342.002
+826,United Kingdom of Great Britain and Northern Ireland,O,2017,30911.817
+834,United Republic of Tanzania,U,2017,1925.0
+840,United States,O,2017,243724.3
+862,Venezuela (Bolivarian Republic of),U,2017,19635.96
+704,Viet Nam,U,2017,
+887,Yemen,U,2017,
+894,Zambia,U,2017,
+716,Zimbabwe,U,2017,732.7784423828125
+8,Albania,E,2018,1325.0
+20,Andorra,U,2018,43.4736
+24,Angola,U,2018,
+660,Anguilla,U,2018,
+28,Antigua and Barbuda,U,2018,154.94
+32,Argentina,O,2018,
+51,Armenia,U,2018,469.9
+36,Australia,O,2018,12903.859797464
+40,Austria,E,2018,5119.0
+31,Azerbaijan,U,2018,1756.0
+44,Bahamas,U,2018,
+48,Bahrain,U,2018,1818.7379
+50,Bangladesh,U,2018,
+52,Barbados,U,2018,146.0299
+112,Belarus,U,2018,3795.3
+56,Belgium,E,2018,4677.0
+204,Benin,U,2018,
+60,Bermuda,U,2018,93.80000305175781
+64,Bhutan,U,2018,
+68,Bolivia (Plurinational State of),U,2018,1616.7281
+70,Bosnia and Herzegovina,E,2018,1244.0
+72,Botswana,U,2018,
+76,Brazil,U,2018,
+92,British Virgin Islands,U,2018,
+96,Brunei Darussalam,U,2018,189.4758
+100,Bulgaria,E,2018,2862.0
+854,Burkina Faso,U,2018,
+108,Burundi,U,2018,17.3
+132,Cabo Verde,U,2018,
+116,Cambodia,U,2018,
+120,Cameroon,U,2018,
+152,Chile,O,2018,8177.45
+156,China,U,2018,228018.0
+344,"China, Hong Kong Special Administrative Region",U,2018,5949.0
+446,"China, Macao Special Administrative Region",U,2018,524.63
+170,Colombia,O,2018,12082.51
+188,Costa Rica,O,2018,1462.0
+191,Croatia,E,2018,1768.0
+192,Cuba,U,2018,6033.7
+531,Curaçao,U,2018,
+196,Cyprus,E,2018,576.0
+203,Czechia,E,2018,5248.0
+180,Democratic Republic of the Congo,U,2018,
+208,Denmark,E,2018,4715.0
+212,Dominica,U,2018,20.5
+218,Ecuador,U,2018,4649.7388
+818,Egypt,U,2018,
+222,El Salvador,U,2018,1169.91
+233,Estonia,E,2018,535.0
+242,Fiji,U,2018,172.368
+246,Finland,E,2018,3041.0
+250,France,E,2018,37380.0
+254,French Guiana,U,2018,106.5
+258,French Polynesia,U,2018,
+268,Georgia,U,2018,977.4
+276,Germany,E,2018,50260.0
+288,Ghana,U,2018,
+300,Greece,E,2018,5523.0
+312,Guadeloupe,U,2018,253.3525
+340,Honduras,U,2018,
+348,Hungary,E,2018,3729.0
+352,Iceland,E,2018,247.0
+356,India,U,2018,54658.239
+360,Indonesia,U,2018,
+364,Iran (Islamic Republic of),U,2018,21000.0
+368,Iraq,U,2018,18114.0
+372,Ireland,E,2018,2912.0
+376,Israel,O,2018,5658.205813
+380,Italy,E,2018,30165.0
+388,Jamaica,U,2018,
+392,Japan,O,2018,42727.0
+398,Kazakhstan,U,2018,3692.397
+404,Kenya,U,2018,1226.68
+410,Korea,O,2018,20452.921
+414,Kuwait,U,2018,15404.555
+417,Kyrgyzstan,U,2018,
+428,Latvia,E,2018,785.0
+422,Lebanon,U,2018,
+438,Liechtenstein,U,2018,30.6006
+440,Lithuania,E,2018,1301.0
+442,Luxembourg,E,2018,488.0
+450,Madagascar,U,2018,
+458,Malaysia,U,2018,2613.2871
+462,Maldives,U,2018,
+470,Malta,E,2018,326.0
+584,Marshall Islands,U,2018,
+474,Martinique,U,2018,198.0
+480,Mauritius,U,2018,543.197
+484,Mexico,O,2018,
+492,Monaco,U,2018,30.0648
+499,Montenegro,E,2018,321.0
+500,Montserrat,U,2018,
+504,Morocco,U,2018,
+104,Myanmar,U,2018,412.2735
+524,Nepal,U,2018,634.16
+528,Netherlands,E,2018,8806.0
+554,New Zealand,O,2018,3705.28
+562,Niger,U,2018,
+807,North Macedonia,E,2018,855.0
+578,Norway,E,2018,3927.0
+591,Panama,U,2018,788.4849853515625
+604,Peru,U,2018,
+616,Poland,E,2018,12485.0
+620,Portugal,E,2018,5213.0
+634,Qatar,U,2018,3013.581
+498,Republic of Moldova,U,2018,3176.1
+638,Réunion,U,2018,538.0
+642,Romania,E,2018,5296.0
+643,Russia,O,2018,
+659,Saint Kitts and Nevis,U,2018,
+662,Saint Lucia,U,2018,72.0
+670,Saint Vincent and the Grenadines,U,2018,
+882,Samoa,U,2018,
+682,Saudi Arabia,O,2018,
+686,Senegal,U,2018,
+688,Serbia,E,2018,2230.0
+690,Seychelles,U,2018,
+702,Singapore,U,2018,7695.0
+703,Slovakia,E,2018,2254.0
+705,Slovenia,E,2018,1009.0
+724,Spain,E,2018,22229.0
+144,Sri Lanka,U,2018,
+275,State of Palestine,U,2018,1780.0
+736,Sudan (Former),U,2018,
+740,Suriname,U,2018,192.17
+752,Sweden,E,2018,4416.0
+756,Switzerland,E,2018,6012.0
+764,Thailand,U,2018,22215.0
+768,Togo,U,2018,
+780,Trinidad and Tobago,U,2018,460.696
+788,Tunisia,U,2018,
+792,Türkiye,E,2018,34533.0
+800,Uganda,U,2018,3920.5471
+804,Ukraine,U,2018,11857.2002
+784,United Arab Emirates,U,2018,6486.8003
+826,United Kingdom of Great Britain and Northern Ireland,O,2018,30786.233
+834,United Republic of Tanzania,U,2018,2000.0
+840,United States,O,2018,265224.5
+862,Venezuela (Bolivarian Republic of),U,2018,23415.65
+704,Viet Nam,U,2018,
+887,Yemen,U,2018,
+894,Zambia,U,2018,
+716,Zimbabwe,U,2018,
+8,Albania,E,2019,1087.0
+20,Andorra,U,2019,41.6889
+24,Angola,U,2019,
+660,Anguilla,U,2019,
+28,Antigua and Barbuda,U,2019,131.99
+32,Argentina,O,2019,18863.0244
+51,Armenia,U,2019,472.8
+36,Australia,O,2019,12919.143602319
+40,Austria,E,2019,5220.0
+31,Azerbaijan,U,2019,2022.0
+44,Bahamas,U,2019,
+48,Bahrain,U,2019,1372.619
+50,Bangladesh,U,2019,6267.102
+52,Barbados,U,2019,250.3049
+112,Belarus,U,2019,3784.8
+56,Belgium,E,2019,4779.0
+204,Benin,U,2019,
+60,Bermuda,U,2019,86.4000015258789
+64,Bhutan,U,2019,39.0
+68,Bolivia (Plurinational State of),U,2019,1600.9382
+70,Bosnia and Herzegovina,E,2019,1228.0
+72,Botswana,U,2019,
+76,Brazil,U,2019,
+92,British Virgin Islands,U,2019,
+96,Brunei Darussalam,U,2019,196.2442
+100,Bulgaria,E,2019,3080.0
+854,Burkina Faso,U,2019,
+108,Burundi,U,2019,24.42
+132,Cabo Verde,U,2019,
+116,Cambodia,U,2019,
+120,Cameroon,U,2019,
+152,Chile,O,2019,7860.84
+156,China,U,2019,242062.0
+344,"China, Hong Kong Special Administrative Region",U,2019,5675.0
+446,"China, Macao Special Administrative Region",U,2019,561.8
+170,Colombia,O,2019,
+188,Costa Rica,O,2019,1344.0
+191,Croatia,E,2019,1812.0
+192,Cuba,U,2019,5782.1
+531,Curaçao,U,2019,
+196,Cyprus,E,2019,586.0
+203,Czechia,E,2019,5338.0
+180,Democratic Republic of the Congo,U,2019,
+208,Denmark,E,2019,4907.0
+212,Dominica,U,2019,21.0
+218,Ecuador,U,2019,4624.9807
+818,Egypt,U,2019,
+222,El Salvador,U,2019,1238.99
+233,Estonia,E,2019,490.0
+242,Fiji,U,2019,173.087
+246,Finland,E,2019,3123.0
+250,France,E,2019,37407.0
+254,French Guiana,U,2019,108.02
+258,French Polynesia,U,2019,
+268,Georgia,U,2019,994.6
+276,Germany,E,2019,50612.0
+288,Ghana,U,2019,
+300,Greece,E,2019,5613.0
+312,Guadeloupe,U,2019,245.546
+340,Honduras,U,2019,
+348,Hungary,E,2019,3780.0
+352,Iceland,E,2019,
+356,India,U,2019,53274.305
+360,Indonesia,U,2019,
+364,Iran (Islamic Republic of),U,2019,21500.0
+368,Iraq,U,2019,17326.0
+372,Ireland,E,2019,3086.0
+376,Israel,O,2019,5759.267997
+380,Italy,E,2019,30023.0
+388,Jamaica,U,2019,
+392,Japan,O,2019,42737.0
+398,Kazakhstan,U,2019,3674.0249
+404,Kenya,U,2019,1139.9
+410,Korea,O,2019,21155.91
+414,Kuwait,U,2019,18668.888
+417,Kyrgyzstan,U,2019,
+428,Latvia,E,2019,840.0
+422,Lebanon,U,2019,
+438,Liechtenstein,U,2019,32.9906
+440,Lithuania,E,2019,1319.0
+442,Luxembourg,E,2019,491.0
+450,Madagascar,U,2019,
+458,Malaysia,U,2019,2628.0703
+462,Maldives,U,2019,
+470,Malta,E,2019,351.0
+584,Marshall Islands,U,2019,
+474,Martinique,U,2019,197.873
+480,Mauritius,U,2019,537.171
+484,Mexico,O,2019,
+492,Monaco,U,2019,29.3009
+499,Montenegro,E,2019,339.0
+500,Montserrat,U,2019,
+504,Morocco,U,2019,
+104,Myanmar,U,2019,444.6929
+524,Nepal,U,2019,654.18
+528,Netherlands,E,2019,8806.0
+554,New Zealand,O,2019,3499.67
+562,Niger,U,2019,
+807,North Macedonia,E,2019,916.0
+578,Norway,E,2019,4151.0
+591,Panama,U,2019,791.875
+604,Peru,U,2019,5707.4545
+616,Poland,E,2019,12753.0
+620,Portugal,E,2019,5281.0
+634,Qatar,U,2019,3909.39
+498,Republic of Moldova,U,2019,3445.4
+638,Réunion,U,2019,507.351
+642,Romania,E,2019,5430.0
+643,Russia,O,2019,
+659,Saint Kitts and Nevis,U,2019,
+662,Saint Lucia,U,2019,79.0
+670,Saint Vincent and the Grenadines,U,2019,
+882,Samoa,U,2019,
+682,Saudi Arabia,O,2019,
+686,Senegal,U,2019,
+688,Serbia,E,2019,2350.0
+690,Seychelles,U,2019,51.549
+702,Singapore,U,2019,7234.0
+703,Slovakia,E,2019,2299.0
+705,Slovenia,E,2019,1052.0
+724,Spain,E,2019,22262.0
+144,Sri Lanka,U,2019,
+275,State of Palestine,U,2019,1848.0
+736,Sudan (Former),U,2019,
+740,Suriname,U,2019,197.43
+752,Sweden,E,2019,4611.0
+756,Switzerland,E,2019,6079.0
+764,Thailand,U,2019,23219.0
+768,Togo,U,2019,
+780,Trinidad and Tobago,U,2019,468.932
+788,Tunisia,U,2019,
+792,Türkiye,E,2019,35017.0
+800,Uganda,U,2019,4045.9155
+804,Ukraine,U,2019,11792.7002
+784,United Arab Emirates,U,2019,6671.2147
+826,United Kingdom of Great Britain and Northern Ireland,O,2019,30677.525
+834,United Republic of Tanzania,U,2019,2072.0
+840,United States,O,2019,
+862,Venezuela (Bolivarian Republic of),U,2019,23011.18
+704,Viet Nam,U,2019,
+887,Yemen,U,2019,
+894,Zambia,U,2019,
+716,Zimbabwe,U,2019,
+8,Albania,E,2020,1048.0
+20,Andorra,U,2020,38.81
+24,Angola,U,2020,
+660,Anguilla,U,2020,
+28,Antigua and Barbuda,U,2020,135.84
+32,Argentina,O,2020,19046.8963
+51,Armenia,U,2020,573.2
+36,Australia,O,2020,13201.811701125
+40,Austria,E,2020,7438.0
+31,Azerbaijan,U,2020,2367.0
+44,Bahamas,U,2020,
+48,Bahrain,U,2020,1397.7193
+50,Bangladesh,U,2020,5367.664
+52,Barbados,U,2020,218.338
+112,Belarus,U,2020,4070.4
+56,Belgium,E,2020,8408.0
+204,Benin,U,2020,110.2673
+60,Bermuda,U,2020,
+64,Bhutan,U,2020,
+68,Bolivia (Plurinational State of),U,2020,1621.3035
+70,Bosnia and Herzegovina,E,2020,1206.0
+72,Botswana,U,2020,
+76,Brazil,U,2020,
+92,British Virgin Islands,U,2020,
+96,Brunei Darussalam,U,2020,195.0449
+100,Bulgaria,E,2020,2829.0
+854,Burkina Faso,U,2020,
+108,Burundi,U,2020,
+132,Cabo Verde,U,2020,
+116,Cambodia,U,2020,
+120,Cameroon,U,2020,
+152,Chile,O,2020,7895.8103
+156,China,U,2020,235117.0
+344,"China, Hong Kong Special Administrative Region",U,2020,5494.0
+446,"China, Macao Special Administrative Region",U,2020,453.83
+170,Colombia,O,2020,
+188,Costa Rica,O,2020,1459.29
+191,Croatia,E,2020,1693.0
+192,Cuba,U,2020,4996.4
+531,Curaçao,U,2020,
+196,Cyprus,E,2020,558.0
+203,Czechia,E,2020,5814.0
+180,Democratic Republic of the Congo,U,2020,
+208,Denmark,E,2020,4744.0
+212,Dominica,U,2020,21.0
+218,Ecuador,U,2020,4603.5552
+818,Egypt,U,2020,
+222,El Salvador,U,2020,
+233,Estonia,E,2020,509.0
+242,Fiji,U,2020,167.694
+246,Finland,E,2020,3370.0
+250,France,E,2020,36096.0
+254,French Guiana,U,2020,
+258,French Polynesia,U,2020,
+268,Georgia,U,2020,973.3
+276,Germany,E,2020,53322.0
+288,Ghana,U,2020,
+300,Greece,E,2020,5335.0
+312,Guadeloupe,U,2020,240.479
+340,Honduras,U,2020,
+348,Hungary,E,2020,3931.0
+352,Iceland,E,2020,225.0
+356,India,U,2020,55753.5675
+360,Indonesia,U,2020,
+364,Iran (Islamic Republic of),U,2020,20500.0
+368,Iraq,U,2020,19711.0
+372,Ireland,E,2020,3210.0
+376,Israel,O,2020,5976.0297285599
+380,Italy,E,2020,28945.0
+388,Jamaica,U,2020,
+392,Japan,O,2020,41669.0
+398,Kazakhstan,U,2020,3708.3
+404,Kenya,U,2020,1142.4
+410,Korea,O,2020,22544.634
+414,Kuwait,U,2020,
+417,Kyrgyzstan,U,2020,
+428,Latvia,E,2020,909.0
+422,Lebanon,U,2020,
+438,Liechtenstein,U,2020,34.2631
+440,Lithuania,E,2020,1350.0
+442,Luxembourg,E,2020,498.0
+450,Madagascar,U,2020,
+458,Malaysia,U,2020,2468.45
+462,Maldives,U,2020,
+470,Malta,E,2020,331.0
+584,Marshall Islands,U,2020,
+474,Martinique,U,2020,186.5215
+480,Mauritius,U,2020,505.093
+484,Mexico,O,2020,
+492,Monaco,U,2020,24.0332
+499,Montenegro,E,2020,302.0
+500,Montserrat,U,2020,
+504,Morocco,U,2020,
+104,Myanmar,U,2020,363.4545
+524,Nepal,U,2020,
+528,Netherlands,E,2020,9300.0
+554,New Zealand,O,2020,3382.92
+562,Niger,U,2020,
+807,North Macedonia,E,2020,913.0
+578,Norway,E,2020,3905.0
+591,Panama,U,2020,
+604,Peru,U,2020,7152.9293
+616,Poland,E,2020,13117.0
+620,Portugal,E,2020,5279.0
+634,Qatar,U,2020,3999.5274
+498,Republic of Moldova,U,2020,697.7
+638,Réunion,U,2020,524.559
+642,Romania,E,2020,5619.0
+643,Russia,O,2020,
+659,Saint Kitts and Nevis,U,2020,25.2442
+662,Saint Lucia,U,2020,
+670,Saint Vincent and the Grenadines,U,2020,
+882,Samoa,U,2020,
+682,Saudi Arabia,O,2020,2503.0
+686,Senegal,U,2020,
+688,Serbia,E,2020,2947.0
+690,Seychelles,U,2020,43.55
+702,Singapore,U,2020,5880.0
+703,Slovakia,E,2020,2612.0
+705,Slovenia,E,2020,1024.0
+724,Spain,E,2020,21928.0
+144,Sri Lanka,U,2020,
+275,State of Palestine,U,2020,1921.0
+736,Sudan (Former),U,2020,
+740,Suriname,U,2020,238.1
+752,Sweden,E,2020,4460.0
+756,Switzerland,E,2020,6096.0
+764,Thailand,U,2020,20490.0
+768,Togo,U,2020,
+780,Trinidad and Tobago,U,2020,786.088
+788,Tunisia,U,2020,
+792,Türkiye,E,2020,34581.0
+800,Uganda,U,2020,4173.9538
+804,Ukraine,U,2020,12634.9
+784,United Arab Emirates,U,2020,4564.8343
+826,United Kingdom of Great Britain and Northern Ireland,O,2020,31002.169
+834,United Republic of Tanzania,U,2020,2104.0
+840,United States,O,2020,
+862,Venezuela (Bolivarian Republic of),U,2020,22606.72
+704,Viet Nam,U,2020,
+887,Yemen,U,2020,
+894,Zambia,U,2020,
+716,Zimbabwe,U,2020,
+8,Albania,E,2021,875.0
+20,Andorra,U,2021,37.95
+24,Angola,U,2021,
+660,Anguilla,U,2021,
+28,Antigua and Barbuda,U,2021,108.4
+32,Argentina,O,2021,19228.2216
+51,Armenia,U,2021,487.4
+36,Australia,O,2021,13454.176727285
+40,Austria,E,2021,7476.0
+31,Azerbaijan,U,2021,2583.0
+44,Bahamas,U,2021,
+48,Bahrain,U,2021,1650.0415
+50,Bangladesh,U,2021,5873.002
+52,Barbados,U,2021,261.765
+112,Belarus,U,2021,3970.2
+56,Belgium,E,2021,8753.0
+204,Benin,U,2021,339.4767
+60,Bermuda,U,2021,
+64,Bhutan,U,2021,
+68,Bolivia (Plurinational State of),U,2021,1604.2398
+70,Bosnia and Herzegovina,E,2021,1229.0
+72,Botswana,U,2021,
+76,Brazil,U,2021,
+92,British Virgin Islands,U,2021,
+96,Brunei Darussalam,U,2021,195.6306
+100,Bulgaria,E,2021,3058.0
+854,Burkina Faso,U,2021,
+108,Burundi,U,2021,
+132,Cabo Verde,U,2021,
+116,Cambodia,U,2021,
+120,Cameroon,U,2021,
+152,Chile,O,2021,9062.7524
+156,China,U,2021,248692.0
+344,"China, Hong Kong Special Administrative Region",U,2021,5986.0
+446,"China, Macao Special Administrative Region",U,2021,479.56
+170,Colombia,O,2021,
+188,Costa Rica,O,2021,1618.5
+191,Croatia,E,2021,1767.0
+192,Cuba,U,2021,4571.5
+531,Curaçao,U,2021,
+196,Cyprus,E,2021,585.0
+203,Czechia,E,2021,5991.0
+180,Democratic Republic of the Congo,U,2021,
+208,Denmark,E,2021,4688.0
+212,Dominica,U,2021,21.0
+218,Ecuador,U,2021,4983.1588
+818,Egypt,U,2021,
+222,El Salvador,U,2021,
+233,Estonia,E,2021,525.0
+242,Fiji,U,2021,167.114
+246,Finland,E,2021,3491.0
+250,France,E,2021,38272.0
+254,French Guiana,U,2021,
+258,French Polynesia,U,2021,
+268,Georgia,U,2021,1005.9
+276,Germany,E,2021,53871.0
+288,Ghana,U,2021,
+300,Greece,E,2021,5381.0
+312,Guadeloupe,U,2021,235.411
+340,Honduras,U,2021,
+348,Hungary,E,2021,4042.0
+352,Iceland,E,2021,246.0
+356,India,U,2021,57103.885
+360,Indonesia,U,2021,
+364,Iran (Islamic Republic of),U,2021,22000.0
+368,Iraq,U,2021,17369.0
+372,Ireland,E,2021,
+376,Israel,O,2021,6147.7807679811
+380,Italy,E,2021,29254.0
+388,Jamaica,U,2021,
+392,Japan,O,2021,40953.0
+398,Kazakhstan,U,2021,4006.4
+404,Kenya,U,2021,2001.7
+410,Korea,O,2021,22695.0
+414,Kuwait,U,2021,
+417,Kyrgyzstan,U,2021,
+428,Latvia,E,2021,869.0
+422,Lebanon,U,2021,
+438,Liechtenstein,U,2021,33.9485
+440,Lithuania,E,2021,1345.0
+442,Luxembourg,E,2021,508.0
+450,Madagascar,U,2021,
+458,Malaysia,U,2021,2561.82
+462,Maldives,U,2021,
+470,Malta,E,2021,317.0
+584,Marshall Islands,U,2021,
+474,Martinique,U,2021,175.17
+480,Mauritius,U,2021,501.168
+484,Mexico,O,2021,
+492,Monaco,U,2021,26.5327
+499,Montenegro,E,2021,319.0
+500,Montserrat,U,2021,
+504,Morocco,U,2021,
+104,Myanmar,U,2021,378.8734
+524,Nepal,U,2021,
+528,Netherlands,E,2021,9005.0
+554,New Zealand,O,2021,3537.88
+562,Niger,U,2021,
+807,North Macedonia,E,2021,896.0
+578,Norway,E,2021,4320.0
+591,Panama,U,2021,
+604,Peru,U,2021,7735.2084
+616,Poland,E,2021,13674.0
+620,Portugal,E,2021,5311.0
+634,Qatar,U,2021,4128.6196
+498,Republic of Moldova,U,2021,768.6
+638,Réunion,U,2021,541.767
+642,Romania,E,2021,5777.0
+643,Russia,O,2021,
+659,Saint Kitts and Nevis,U,2021,19.8365
+662,Saint Lucia,U,2021,
+670,Saint Vincent and the Grenadines,U,2021,
+882,Samoa,U,2021,
+682,Saudi Arabia,O,2021,
+686,Senegal,U,2021,
+688,Serbia,E,2021,3022.0
+690,Seychelles,U,2021,42.95
+702,Singapore,U,2021,6944.0
+703,Slovakia,E,2021,2705.0
+705,Slovenia,E,2021,1077.0
+724,Spain,E,2021,22853.0
+144,Sri Lanka,U,2021,
+275,State of Palestine,U,2021,1997.0
+736,Sudan (Former),U,2021,
+740,Suriname,U,2021,228.23
+752,Sweden,E,2021,4352.0
+756,Switzerland,E,2021,6130.0
+764,Thailand,U,2021,19510.0
+768,Togo,U,2021,
+780,Trinidad and Tobago,U,2021,778.22
+788,Tunisia,U,2021,
+792,Türkiye,E,2021,35022.0
+800,Uganda,U,2021,4304.6722
+804,Ukraine,U,2021,13125.6
+784,United Arab Emirates,U,2021,4559.6408
+826,United Kingdom of Great Britain and Northern Ireland,O,2021,31242.0
+834,United Republic of Tanzania,U,2021,
+840,United States,O,2021,
+862,Venezuela (Bolivarian Republic of),U,2021,
+704,Viet Nam,U,2021,
+887,Yemen,U,2021,
+894,Zambia,U,2021,
+716,Zimbabwe,U,2021,
+8,Albania,E,2022,820.0
+20,Andorra,U,2022,41.58
+24,Angola,U,2022,
+660,Anguilla,U,2022,
+28,Antigua and Barbuda,U,2022,
+32,Argentina,O,2022,19327.0
+51,Armenia,U,2022,532.7
+36,Australia,O,2022,13630.10212037
+40,Austria,E,2022,7261.0
+31,Azerbaijan,U,2022,2657.0
+44,Bahamas,U,2022,
+48,Bahrain,U,2022,
+50,Bangladesh,U,2022,
+52,Barbados,U,2022,
+112,Belarus,U,2022,3994.3
+56,Belgium,E,2022,8055.0
+204,Benin,U,2022,396.4258
+60,Bermuda,U,2022,
+64,Bhutan,U,2022,
+68,Bolivia (Plurinational State of),U,2022,
+70,Bosnia and Herzegovina,E,2022,1184.0
+72,Botswana,U,2022,
+76,Brazil,U,2022,
+92,British Virgin Islands,U,2022,
+96,Brunei Darussalam,U,2022,188.1109
+100,Bulgaria,E,2022,3157.0
+854,Burkina Faso,U,2022,
+108,Burundi,U,2022,
+132,Cabo Verde,U,2022,
+116,Cambodia,U,2022,
+120,Cameroon,U,2022,
+152,Chile,O,2022,8669.222
+156,China,U,2022,244447.0
+344,"China, Hong Kong Special Administrative Region",U,2022,5975.0
+446,"China, Macao Special Administrative Region",U,2022,472.86
+170,Colombia,O,2022,
+188,Costa Rica,O,2022,1615.8
+191,Croatia,E,2022,1844.0
+192,Cuba,U,2022,
+531,Curaçao,U,2022,
+196,Cyprus,E,2022,615.0
+203,Czechia,E,2022,5854.0
+180,Democratic Republic of the Congo,U,2022,
+208,Denmark,E,2022,4478.0
+212,Dominica,U,2022,
+218,Ecuador,U,2022,5253.799
+818,Egypt,U,2022,
+222,El Salvador,U,2022,
+233,Estonia,E,2022,503.0
+242,Fiji,U,2022,168.439
+246,Finland,E,2022,2898.0
+250,France,E,2022,36421.0
+254,French Guiana,U,2022,
+258,French Polynesia,U,2022,
+268,Georgia,U,2022,1045.1
+276,Germany,E,2022,50606.0
+288,Ghana,U,2022,
+300,Greece,E,2022,5420.0
+312,Guadeloupe,U,2022,
+340,Honduras,U,2022,
+348,Hungary,E,2022,3911.0
+352,Iceland,E,2022,227.0
+356,India,U,2022,
+360,Indonesia,U,2022,
+364,Iran (Islamic Republic of),U,2022,21250.0
+368,Iraq,U,2022,18698.0
+372,Ireland,E,2022,
+376,Israel,O,2022,6193.2257979777
+380,Italy,E,2022,28692.0
+388,Jamaica,U,2022,
+392,Japan,O,2022,
+398,Kazakhstan,U,2022,3822.8
+404,Kenya,U,2022,1760.7
+410,Korea,O,2022,23038.0
+414,Kuwait,U,2022,
+417,Kyrgyzstan,U,2022,
+428,Latvia,E,2022,872.0
+422,Lebanon,U,2022,
+438,Liechtenstein,U,2022,32.4243
+440,Lithuania,E,2022,1317.0
+442,Luxembourg,E,2022,471.0
+450,Madagascar,U,2022,
+458,Malaysia,U,2022,2237.7
+462,Maldives,U,2022,
+470,Malta,E,2022,328.0
+584,Marshall Islands,U,2022,
+474,Martinique,U,2022,
+480,Mauritius,U,2022,494.07
+484,Mexico,O,2022,
+492,Monaco,U,2022,28.222
+499,Montenegro,E,2022,332.0
+500,Montserrat,U,2022,
+504,Morocco,U,2022,
+104,Myanmar,U,2022,
+524,Nepal,U,2022,
+528,Netherlands,E,2022,8365.0
+554,New Zealand,O,2022,3601.3
+562,Niger,U,2022,
+807,North Macedonia,E,2022,857.0
+578,Norway,E,2022,4189.0
+591,Panama,U,2022,
+604,Peru,U,2022,
+616,Poland,E,2022,13420.0
+620,Portugal,E,2022,5323.0
+634,Qatar,U,2022,4188.0042
+498,Republic of Moldova,U,2022,
+638,Réunion,U,2022,
+642,Romania,E,2022,5767.0
+643,Russia,O,2022,
+659,Saint Kitts and Nevis,U,2022,21.6288
+662,Saint Lucia,U,2022,
+670,Saint Vincent and the Grenadines,U,2022,
+882,Samoa,U,2022,
+682,Saudi Arabia,O,2022,
+686,Senegal,U,2022,
+688,Serbia,E,2022,3179.0
+690,Seychelles,U,2022,
+702,Singapore,U,2022,
+703,Slovakia,E,2022,2597.0
+705,Slovenia,E,2022,1029.0
+724,Spain,E,2022,23030.0
+144,Sri Lanka,U,2022,
+275,State of Palestine,U,2022,1701.0
+736,Sudan (Former),U,2022,
+740,Suriname,U,2022,266.51
+752,Sweden,E,2022,4139.0
+756,Switzerland,E,2022,5943.0
+764,Thailand,U,2022,
+768,Togo,U,2022,
+780,Trinidad and Tobago,U,2022,746.103
+788,Tunisia,U,2022,
+792,Türkiye,E,2022,32422.0
+800,Uganda,U,2022,4437.8598
+804,Ukraine,U,2022,9557.0
+784,United Arab Emirates,U,2022,4617.9797
+826,United Kingdom of Great Britain and Northern Ireland,O,2022,29359.0
+834,United Republic of Tanzania,U,2022,
+840,United States,O,2022,
+862,Venezuela (Bolivarian Republic of),U,2022,
+704,Viet Nam,U,2022,
+887,Yemen,U,2022,
+894,Zambia,U,2022,
+716,Zimbabwe,U,2022,
+8,Albania,E,2023,844.0
+20,Andorra,U,2023,40.88
+24,Angola,U,2023,
+660,Anguilla,U,2023,
+28,Antigua and Barbuda,U,2023,
+32,Argentina,O,2023,
+51,Armenia,U,2023,433.3
+36,Australia,O,2023,13480.508928173
+40,Austria,E,2023,7142.0
+31,Azerbaijan,U,2023,2720.0
+44,Bahamas,U,2023,
+48,Bahrain,U,2023,
+50,Bangladesh,U,2023,
+52,Barbados,U,2023,
+112,Belarus,U,2023,3982.6
+56,Belgium,E,2023,8104.0
+204,Benin,U,2023,
+60,Bermuda,U,2023,
+64,Bhutan,U,2023,
+68,Bolivia (Plurinational State of),U,2023,
+70,Bosnia and Herzegovina,E,2023,1186.0
+72,Botswana,U,2023,
+76,Brazil,U,2023,
+92,British Virgin Islands,U,2023,
+96,Brunei Darussalam,U,2023,196.1704
+100,Bulgaria,E,2023,3156.0
+854,Burkina Faso,U,2023,
+108,Burundi,U,2023,
+132,Cabo Verde,U,2023,
+116,Cambodia,U,2023,
+120,Cameroon,U,2023,
+152,Chile,O,2023,8651.81308
+156,China,U,2023,254078.0
+344,"China, Hong Kong Special Administrative Region",U,2023,5941.0
+446,"China, Macao Special Administrative Region",U,2023,532.34
+170,Colombia,O,2023,
+188,Costa Rica,O,2023,1710.35
+191,Croatia,E,2023,1833.0
+192,Cuba,U,2023,
+531,Curaçao,U,2023,
+196,Cyprus,E,2023,625.0
+203,Czechia,E,2023,5840.0
+180,Democratic Republic of the Congo,U,2023,
+208,Denmark,E,2023,4513.0
+212,Dominica,U,2023,
+218,Ecuador,U,2023,
+818,Egypt,U,2023,
+222,El Salvador,U,2023,
+233,Estonia,E,2023,512.0
+242,Fiji,U,2023,171.229
+246,Finland,E,2023,2612.0
+250,France,E,2023,36035.0
+254,French Guiana,U,2023,
+258,French Polynesia,U,2023,
+268,Georgia,U,2023,
+276,Germany,E,2023,51017.0
+288,Ghana,U,2023,
+300,Greece,E,2023,5440.0
+312,Guadeloupe,U,2023,
+340,Honduras,U,2023,
+348,Hungary,E,2023,4115.0
+352,Iceland,E,2023,224.0
+356,India,U,2023,
+360,Indonesia,U,2023,
+364,Iran (Islamic Republic of),U,2023,21650.0
+368,Iraq,U,2023,18807.0
+372,Ireland,E,2023,
+376,Israel,O,2023,6256.0443969303
+380,Italy,E,2023,28840.0
+388,Jamaica,U,2023,
+392,Japan,O,2023,
+398,Kazakhstan,U,2023,4142.9
+404,Kenya,U,2023,2033.6
+410,Korea,O,2023,
+414,Kuwait,U,2023,
+417,Kyrgyzstan,U,2023,
+428,Latvia,E,2023,
+422,Lebanon,U,2023,
+438,Liechtenstein,U,2023,32.638
+440,Lithuania,E,2023,1282.0
+442,Luxembourg,E,2023,478.0
+450,Madagascar,U,2023,
+458,Malaysia,U,2023,2289.7
+462,Maldives,U,2023,
+470,Malta,E,2023,333.0
+584,Marshall Islands,U,2023,
+474,Martinique,U,2023,
+480,Mauritius,U,2023,541.14
+484,Mexico,O,2023,
+492,Monaco,U,2023,28.418
+499,Montenegro,E,2023,353.0
+500,Montserrat,U,2023,
+504,Morocco,U,2023,
+104,Myanmar,U,2023,
+524,Nepal,U,2023,
+528,Netherlands,E,2023,8364.0
+554,New Zealand,O,2023,3510.0
+562,Niger,U,2023,
+807,North Macedonia,E,2023,878.0
+578,Norway,E,2023,3997.0
+591,Panama,U,2023,
+604,Peru,U,2023,
+616,Poland,E,2023,13448.0
+620,Portugal,E,2023,5338.0
+634,Qatar,U,2023,3765.6055
+498,Republic of Moldova,U,2023,
+638,Réunion,U,2023,
+642,Romania,E,2023,5822.0
+643,Russia,O,2023,
+659,Saint Kitts and Nevis,U,2023,26.4674
+662,Saint Lucia,U,2023,
+670,Saint Vincent and the Grenadines,U,2023,
+882,Samoa,U,2023,
+682,Saudi Arabia,O,2023,
+686,Senegal,U,2023,
+688,Serbia,E,2023,3095.0
+690,Seychelles,U,2023,
+702,Singapore,U,2023,
+703,Slovakia,E,2023,2561.0
+705,Slovenia,E,2023,1097.0
+724,Spain,E,2023,22500.0
+144,Sri Lanka,U,2023,
+275,State of Palestine,U,2023,
+736,Sudan (Former),U,2023,
+740,Suriname,U,2023,316.76
+752,Sweden,E,2023,4134.0
+756,Switzerland,E,2023,6027.0
+764,Thailand,U,2023,
+768,Togo,U,2023,
+780,Trinidad and Tobago,U,2023,736.455
+788,Tunisia,U,2023,
+792,Türkiye,E,2023,32457.0
+800,Uganda,U,2023,4573.2858
+804,Ukraine,U,2023,9606.2
+784,United Arab Emirates,U,2023,4727.0542
+826,United Kingdom of Great Britain and Northern Ireland,O,2023,29887.0
+834,United Republic of Tanzania,U,2023,
+840,United States,O,2023,
+862,Venezuela (Bolivarian Republic of),U,2023,
+704,Viet Nam,U,2023,37.1608
+887,Yemen,U,2023,
+894,Zambia,U,2023,
+716,Zimbabwe,U,2023,
