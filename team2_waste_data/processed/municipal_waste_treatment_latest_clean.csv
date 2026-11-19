@@ -1,0 +1,637 @@
+CountryID,Country,Source,Year,Treatment_Type,Value,Unit
+8,Albania,E,2023,Municipal waste managed,844.0,1000 tonnes
+12,Algeria,U,2021,Municipal waste managed,6762.7388,1000 tonnes
+20,Andorra,U,2023,Municipal waste managed,36.81,1000 tonnes
+660,Anguilla,U,2008,Municipal waste managed,14.65470027923584,1000 tonnes
+28,Antigua and Barbuda,U,2021,Municipal waste managed,104.53,1000 tonnes
+32,Argentina,U,2022,Municipal waste managed,17360.0,1000 tonnes
+51,Armenia,U,2023,Municipal waste managed,433.3,1000 tonnes
+36,Australia,O,2023,Municipal waste managed,13480.508928173,1000 tonnes
+40,Austria,E,2023,Municipal waste managed,7142.0,1000 tonnes
+48,Bahrain,U,2021,Municipal waste managed,1650.0415,1000 tonnes
+50,Bangladesh,U,2021,Municipal waste managed,5873.002,1000 tonnes
+112,Belarus,U,2023,Municipal waste managed,3982.6,1000 tonnes
+56,Belgium,E,2024,Municipal waste managed,8295.0,1000 tonnes
+204,Benin,U,2022,Municipal waste managed,396.4258,1000 tonnes
+60,Bermuda,U,2019,Municipal waste managed,86.4000015258789,1000 tonnes
+70,Bosnia and Herzegovina,E,2024,Municipal waste managed,1123.0,1000 tonnes
+92,British Virgin Islands,U,2005,Municipal waste managed,36.70000076293945,1000 tonnes
+100,Bulgaria,E,2023,Municipal waste managed,3156.0,1000 tonnes
+108,Burundi,U,2019,Municipal waste managed,24.42,1000 tonnes
+132,Cabo Verde,U,2015,Municipal waste managed,145.894,1000 tonnes
+120,Cameroon,U,2009,Municipal waste managed,7249.1767578125,1000 tonnes
+152,Chile,O,2023,Municipal waste managed,8651.81308,1000 tonnes
+156,China,U,2023,Municipal waste managed,254017.0,1000 tonnes
+344,"China, Hong Kong Special Administrative Region",U,2023,Municipal waste managed,5941.0,1000 tonnes
+446,"China, Macao Special Administrative Region",U,2023,Municipal waste managed,532.34,1000 tonnes
+188,Costa Rica,O,2024,Municipal waste managed,3412.0,1000 tonnes
+191,Croatia,E,2024,Municipal waste managed,1879.0,1000 tonnes
+192,Cuba,U,2021,Municipal waste managed,4571.5,1000 tonnes
+531,Curaçao,U,2017,Municipal waste managed,173.1230010986328,1000 tonnes
+196,Cyprus,E,2024,Municipal waste managed,669.0,1000 tonnes
+203,Czechia,E,2023,Municipal waste managed,5840.0,1000 tonnes
+208,Denmark,E,2024,Municipal waste managed,4511.0,1000 tonnes
+212,Dominica,U,2021,Municipal waste managed,21.0,1000 tonnes
+233,Estonia,E,2024,Municipal waste managed,514.0,1000 tonnes
+242,Fiji,U,2023,Municipal waste managed,171.229,1000 tonnes
+246,Finland,E,2024,Municipal waste managed,2570.0,1000 tonnes
+250,France,E,2024,Municipal waste managed,36313.0,1000 tonnes
+254,French Guiana,U,2019,Municipal waste managed,108.02,1000 tonnes
+258,French Polynesia,U,2015,Municipal waste managed,83.326,1000 tonnes
+268,Georgia,U,2022,Municipal waste managed,1045.1,1000 tonnes
+276,Germany,E,2024,Municipal waste managed,52471.0,1000 tonnes
+288,Ghana,U,2017,Municipal waste managed,4113.23388671875,1000 tonnes
+300,Greece,E,2023,Municipal waste managed,5440.0,1000 tonnes
+312,Guadeloupe,U,2021,Municipal waste managed,235.411,1000 tonnes
+340,Honduras,U,2021,Municipal waste managed,2300.0,1000 tonnes
+348,Hungary,E,2024,Municipal waste managed,3957.0,1000 tonnes
+352,Iceland,E,2023,Municipal waste managed,224.0,1000 tonnes
+364,Iran (Islamic Republic of),U,2023,Municipal waste managed,21650.0,1000 tonnes
+372,Ireland,E,2023,Municipal waste managed,3135.0,1000 tonnes
+380,Italy,E,2023,Municipal waste managed,28840.0,1000 tonnes
+392,Japan,O,2023,Municipal waste managed,38974.0,1000 tonnes
+400,Jordan,U,2020,Municipal waste managed,3561.6,1000 tonnes
+398,Kazakhstan,U,2023,Municipal waste managed,4142.9,1000 tonnes
+383,Kosovo*,E,2024,Municipal waste managed,469.0,1000 tonnes
+417,Kyrgyzstan,U,2017,Municipal waste managed,1403.800048828125,1000 tonnes
+428,Latvia,E,2024,Municipal waste managed,863.0,1000 tonnes
+422,Lebanon,U,2012,Municipal waste managed,1940.0,1000 tonnes
+438,Liechtenstein,U,2023,Municipal waste managed,5.2979,1000 tonnes
+440,Lithuania,E,2024,Municipal waste managed,1333.0,1000 tonnes
+442,Luxembourg,E,2024,Municipal waste managed,461.0,1000 tonnes
+450,Madagascar,U,2007,Municipal waste managed,420.114990234375,1000 tonnes
+458,Malaysia,U,2023,Municipal waste managed,2289.7,1000 tonnes
+470,Malta,E,2024,Municipal waste managed,354.0,1000 tonnes
+584,Marshall Islands,U,2007,Municipal waste managed,26.0,1000 tonnes
+474,Martinique,U,2021,Municipal waste managed,175.17,1000 tonnes
+480,Mauritius,U,2023,Municipal waste managed,541.14,1000 tonnes
+484,Mexico,O,2022,Municipal waste managed,39473.38928,1000 tonnes
+492,Monaco,U,2023,Municipal waste managed,36.465,1000 tonnes
+499,Montenegro,E,2024,Municipal waste managed,365.0,1000 tonnes
+528,Netherlands,E,2024,Municipal waste managed,8504.0,1000 tonnes
+554,New Zealand,O,2024,Municipal waste managed,3348.0,1000 tonnes
+562,Niger,U,2005,Municipal waste managed,7800.0,1000 tonnes
+807,North Macedonia,E,2023,Municipal waste managed,878.0,1000 tonnes
+578,Norway,E,2024,Municipal waste managed,3992.0,1000 tonnes
+512,Oman,U,2024,Municipal waste managed,2002.9435,1000 tonnes
+591,Panama,U,2019,Municipal waste managed,791.875,1000 tonnes
+616,Poland,E,2024,Municipal waste managed,14158.0,1000 tonnes
+620,Portugal,E,2024,Municipal waste managed,5550.0,1000 tonnes
+634,Qatar,U,2023,Municipal waste managed,3765.6055,1000 tonnes
+410,Republic of Korea,O,2023,Municipal waste managed,22416.0,1000 tonnes
+498,Republic of Moldova,U,2021,Municipal waste managed,748.6,1000 tonnes
+638,Réunion,U,2021,Municipal waste managed,541.767,1000 tonnes
+642,Romania,E,2023,Municipal waste managed,5822.0,1000 tonnes
+662,Saint Lucia,U,2019,Municipal waste managed,79.0,1000 tonnes
+670,Saint Vincent and the Grenadines,U,2002,Municipal waste managed,37.79999923706055,1000 tonnes
+882,Samoa,U,2017,Municipal waste managed,15.44999980926514,1000 tonnes
+688,Serbia,E,2023,Municipal waste managed,3095.0,1000 tonnes
+690,Seychelles,U,2021,Municipal waste managed,42.95,1000 tonnes
+702,Singapore,U,2021,Municipal waste managed,6944.0,1000 tonnes
+703,Slovakia,E,2024,Municipal waste managed,2649.0,1000 tonnes
+705,Slovenia,E,2024,Municipal waste managed,1118.0,1000 tonnes
+724,Spain,E,2024,Municipal waste managed,22292.0,1000 tonnes
+144,Sri Lanka,U,2016,Municipal waste managed,1378.1,1000 tonnes
+275,State of Palestine,U,2022,Municipal waste managed,1701.0,1000 tonnes
+752,Sweden,E,2024,Municipal waste managed,4513.0,1000 tonnes
+756,Switzerland,E,2023,Municipal waste managed,6027.0,1000 tonnes
+780,Trinidad and Tobago,U,2023,Municipal waste managed,736.455,1000 tonnes
+788,Tunisia,U,2004,Municipal waste managed,1316.25,1000 tonnes
+792,Türkiye,O,2024,Municipal waste managed,34370.91,1000 tonnes
+800,Uganda,U,2023,Municipal waste managed,4573.2858,1000 tonnes
+804,Ukraine,U,2023,Municipal waste managed,9606.0,1000 tonnes
+784,United Arab Emirates,U,2023,Municipal waste managed,4727.0542,1000 tonnes
+826,United Kingdom of Great Britain and Northern Ireland,O,2023,Municipal waste managed,29887.0,1000 tonnes
+840,United States of America,O,2018,Municipal waste managed,265224.5,1000 tonnes
+894,Zambia,U,2005,Municipal waste managed,388.7999877929688,1000 tonnes
+716,Zimbabwe,U,2017,Municipal waste managed,732.7784423828125,1000 tonnes
+8,Albania,E,2023,Municipal waste landfilled,76.65876777251185,%
+12,Algeria,U,2021,Municipal waste landfilled,,%
+20,Andorra,U,2023,Municipal waste landfilled,,%
+660,Anguilla,U,2008,Municipal waste landfilled,100.0,%
+28,Antigua and Barbuda,U,2021,Municipal waste landfilled,100.0,%
+32,Argentina,U,2022,Municipal waste landfilled,94.0,%
+51,Armenia,U,2023,Municipal waste landfilled,100.0,%
+36,Australia,O,2023,Municipal waste landfilled,0.35684563700292254,%
+40,Austria,E,2023,Municipal waste landfilled,1.7362083450014003,%
+48,Bahrain,U,2021,Municipal waste landfilled,,%
+50,Bangladesh,U,2021,Municipal waste landfilled,70.22621480462631,%
+112,Belarus,U,2023,Municipal waste landfilled,64.48802289961333,%
+56,Belgium,E,2024,Municipal waste landfilled,0.108499095840868,%
+204,Benin,U,2022,Municipal waste landfilled,99.84420791986798,%
+60,Bermuda,U,2019,Municipal waste landfilled,11.574073869668574,%
+70,Bosnia and Herzegovina,E,2024,Municipal waste landfilled,81.5672306322351,%
+92,British Virgin Islands,U,2005,Municipal waste landfilled,0.0,%
+100,Bulgaria,E,2023,Municipal waste landfilled,44.26489226869455,%
+108,Burundi,U,2019,Municipal waste landfilled,,%
+132,Cabo Verde,U,2015,Municipal waste landfilled,100.0,%
+120,Cameroon,U,2009,Municipal waste landfilled,99.63425265018644,%
+152,Chile,O,2023,Municipal waste landfilled,0.9893368308701899,%
+156,China,U,2023,Municipal waste landfilled,7.450682434640202,%
+344,"China, Hong Kong Special Administrative Region",U,2023,Municipal waste landfilled,66.87426359198788,%
+446,"China, Macao Special Administrative Region",U,2023,Municipal waste landfilled,20.381710936619452,%
+188,Costa Rica,O,2024,Municipal waste landfilled,1.1724531994519036,%
+191,Croatia,E,2024,Municipal waste landfilled,50.931346460883454,%
+192,Cuba,U,2021,Municipal waste landfilled,,%
+531,Curaçao,U,2017,Municipal waste landfilled,91.75673018421196,%
+196,Cyprus,E,2024,Municipal waste landfilled,66.3677130044843,%
+203,Czechia,E,2023,Municipal waste landfilled,42.3458904109589,%
+208,Denmark,E,2024,Municipal waste landfilled,1.950786965196187,%
+212,Dominica,U,2021,Municipal waste landfilled,,%
+233,Estonia,E,2024,Municipal waste landfilled,12.840466926070038,%
+242,Fiji,U,2023,Municipal waste landfilled,64.35270894533052,%
+246,Finland,E,2024,Municipal waste landfilled,0.38910505836575876,%
+250,France,E,2024,Municipal waste landfilled,20.8162366094787,%
+254,French Guiana,U,2019,Municipal waste landfilled,83.99555637844843,%
+258,French Polynesia,U,2015,Municipal waste landfilled,6.9570122170751025,%
+268,Georgia,U,2022,Municipal waste landfilled,100.0,%
+276,Germany,E,2024,Municipal waste landfilled,1.6180366297573898,%
+288,Ghana,U,2017,Municipal waste landfilled,95.00000771613824,%
+300,Greece,E,2023,Municipal waste landfilled,80.68014705882352,%
+312,Guadeloupe,U,2021,Municipal waste landfilled,72.32414797949119,%
+340,Honduras,U,2021,Municipal waste landfilled,,%
+348,Hungary,E,2024,Municipal waste landfilled,53.19686631286328,%
+352,Iceland,E,2023,Municipal waste landfilled,27.67857142857143,%
+364,Iran (Islamic Republic of),U,2023,Municipal waste landfilled,,%
+372,Ireland,E,2023,Municipal waste landfilled,14.417862838915472,%
+380,Italy,E,2023,Municipal waste landfilled,15.946601941747574,%
+392,Japan,O,2023,Municipal waste landfilled,0.002054019831493006,%
+400,Jordan,U,2020,Municipal waste landfilled,100.0,%
+398,Kazakhstan,U,2023,Municipal waste landfilled,69.99686210142654,%
+383,Kosovo*,E,2024,Municipal waste landfilled,100.0,%
+417,Kyrgyzstan,U,2017,Municipal waste landfilled,100.0,%
+428,Latvia,E,2024,Municipal waste landfilled,30.82271147161066,%
+422,Lebanon,U,2012,Municipal waste landfilled,81.03092783505154,%
+438,Liechtenstein,U,2023,Municipal waste landfilled,0.0,%
+440,Lithuania,E,2024,Municipal waste landfilled,5.626406601650412,%
+442,Luxembourg,E,2024,Municipal waste landfilled,2.8199566160520604,%
+450,Madagascar,U,2007,Municipal waste landfilled,96.52476680782269,%
+458,Malaysia,U,2023,Municipal waste landfilled,97.82067519762417,%
+470,Malta,E,2024,Municipal waste landfilled,72.03389830508475,%
+584,Marshall Islands,U,2007,Municipal waste landfilled,,%
+474,Martinique,U,2021,Municipal waste landfilled,21.63041616715191,%
+480,Mauritius,U,2023,Municipal waste landfilled,95.01053331854973,%
+484,Mexico,O,2022,Municipal waste landfilled,0.14431118445513885,%
+492,Monaco,U,2023,Municipal waste landfilled,0.0,%
+499,Montenegro,E,2024,Municipal waste landfilled,95.06849315068493,%
+528,Netherlands,E,2024,Municipal waste landfilled,1.458137347130762,%
+554,New Zealand,O,2024,Municipal waste landfilled,2.6701509772770424,%
+562,Niger,U,2005,Municipal waste landfilled,80.0,%
+807,North Macedonia,E,2023,Municipal waste landfilled,70.84282460136674,%
+578,Norway,E,2024,Municipal waste landfilled,2.780561122244489,%
+512,Oman,U,2024,Municipal waste landfilled,,%
+591,Panama,U,2019,Municipal waste landfilled,100.0,%
+616,Poland,E,2024,Municipal waste landfilled,30.067806187314595,%
+620,Portugal,E,2024,Municipal waste landfilled,51.94594594594595,%
+634,Qatar,U,2023,Municipal waste landfilled,80.3854785106937,%
+410,Republic of Korea,O,2023,Municipal waste landfilled,0.04756436082924352,%
+498,Republic of Moldova,U,2021,Municipal waste landfilled,93.78840502270906,%
+638,Réunion,U,2021,Municipal waste landfilled,48.32963248038363,%
+642,Romania,E,2023,Municipal waste landfilled,75.69563723806252,%
+662,Saint Lucia,U,2019,Municipal waste landfilled,100.0,%
+670,Saint Vincent and the Grenadines,U,2002,Municipal waste landfilled,84.92063259792089,%
+882,Samoa,U,2017,Municipal waste landfilled,93.41747436298104,%
+688,Serbia,E,2023,Municipal waste landfilled,79.51534733441034,%
+690,Seychelles,U,2021,Municipal waste landfilled,100.0,%
+702,Singapore,U,2021,Municipal waste landfilled,3.3410138248847927,%
+703,Slovakia,E,2024,Municipal waste landfilled,38.052095130237824,%
+705,Slovenia,E,2024,Municipal waste landfilled,10.37567084078712,%
+724,Spain,E,2024,Municipal waste landfilled,47.33088103355464,%
+144,Sri Lanka,U,2016,Municipal waste landfilled,,%
+275,State of Palestine,U,2022,Municipal waste landfilled,,%
+752,Sweden,E,2024,Municipal waste landfilled,0.5982716596499003,%
+756,Switzerland,E,2023,Municipal waste landfilled,0.0,%
+780,Trinidad and Tobago,U,2023,Municipal waste landfilled,99.9401185408477,%
+788,Tunisia,U,2004,Municipal waste landfilled,99.94529914529913,%
+792,Türkiye,O,2024,Municipal waste landfilled,,%
+800,Uganda,U,2023,Municipal waste landfilled,,%
+804,Ukraine,U,2023,Municipal waste landfilled,61.88319800124922,%
+784,United Arab Emirates,U,2023,Municipal waste landfilled,75.38520290289881,%
+826,United Kingdom of Great Britain and Northern Ireland,O,2023,Municipal waste landfilled,0.023207836433506393,%
+840,United States of America,O,2018,Municipal waste landfilled,0.01884424162557056,%
+894,Zambia,U,2005,Municipal waste landfilled,,%
+716,Zimbabwe,U,2017,Municipal waste landfilled,0.0,%
+8,Albania,E,2023,Municipal waste incinerated,0.0,%
+12,Algeria,U,2021,Municipal waste incinerated,0.0,%
+20,Andorra,U,2023,Municipal waste incinerated,100.0,%
+660,Anguilla,U,2008,Municipal waste incinerated,0.0,%
+28,Antigua and Barbuda,U,2021,Municipal waste incinerated,,%
+32,Argentina,U,2022,Municipal waste incinerated,,%
+51,Armenia,U,2023,Municipal waste incinerated,,%
+36,Australia,O,2023,Municipal waste incinerated,0.0032785411030975624,%
+40,Austria,E,2023,Municipal waste incinerated,0.014001680201624195,%
+48,Bahrain,U,2021,Municipal waste incinerated,,%
+50,Bangladesh,U,2021,Municipal waste incinerated,0.39324011808611675,%
+112,Belarus,U,2023,Municipal waste incinerated,0.0,%
+56,Belgium,E,2024,Municipal waste incinerated,0.012055455093429777,%
+204,Benin,U,2022,Municipal waste incinerated,,%
+60,Bermuda,U,2019,Municipal waste incinerated,75.23148015284573,%
+70,Bosnia and Herzegovina,E,2024,Municipal waste incinerated,0.0,%
+92,British Virgin Islands,U,2005,Municipal waste incinerated,80.25067861591975,%
+100,Bulgaria,E,2023,Municipal waste incinerated,0.0,%
+108,Burundi,U,2019,Municipal waste incinerated,,%
+132,Cabo Verde,U,2015,Municipal waste incinerated,0.0,%
+120,Cameroon,U,2009,Municipal waste incinerated,,%
+152,Chile,O,2023,Municipal waste incinerated,,%
+156,China,U,2023,Municipal waste incinerated,82.49211666935678,%
+344,"China, Hong Kong Special Administrative Region",U,2023,Municipal waste incinerated,,%
+446,"China, Macao Special Administrative Region",U,2023,Municipal waste incinerated,95.86542435285719,%
+188,Costa Rica,O,2024,Municipal waste incinerated,0.05579919984497166,%
+191,Croatia,E,2024,Municipal waste incinerated,0.0,%
+192,Cuba,U,2021,Municipal waste incinerated,,%
+531,Curaçao,U,2017,Municipal waste incinerated,0.04505467275540511,%
+196,Cyprus,E,2024,Municipal waste incinerated,0.0,%
+203,Czechia,E,2023,Municipal waste incinerated,0.05136986301369863,%
+208,Denmark,E,2024,Municipal waste incinerated,0.0,%
+212,Dominica,U,2021,Municipal waste incinerated,,%
+233,Estonia,E,2024,Municipal waste incinerated,0.0,%
+242,Fiji,U,2023,Municipal waste incinerated,35.401363086860286,%
+246,Finland,E,2024,Municipal waste incinerated,0.8171206225680935,%
+250,France,E,2024,Municipal waste incinerated,0.12392256216781869,%
+254,French Guiana,U,2019,Municipal waste incinerated,0.0,%
+258,French Polynesia,U,2015,Municipal waste incinerated,0.0,%
+268,Georgia,U,2022,Municipal waste incinerated,,%
+276,Germany,E,2024,Municipal waste incinerated,1.7800308741971755,%
+288,Ghana,U,2017,Municipal waste incinerated,,%
+300,Greece,E,2023,Municipal waste incinerated,0.0,%
+312,Guadeloupe,U,2021,Municipal waste incinerated,0.258696492517342,%
+340,Honduras,U,2021,Municipal waste incinerated,,%
+348,Hungary,E,2024,Municipal waste incinerated,0.10108668182966893,%
+352,Iceland,E,2023,Municipal waste incinerated,2.6785714285714284,%
+364,Iran (Islamic Republic of),U,2023,Municipal waste incinerated,,%
+372,Ireland,E,2023,Municipal waste incinerated,0.0,%
+380,Italy,E,2023,Municipal waste incinerated,0.7871012482662969,%
+392,Japan,O,2023,Municipal waste incinerated,0.19727148798297406,%
+400,Jordan,U,2020,Municipal waste incinerated,,%
+398,Kazakhstan,U,2023,Municipal waste incinerated,,%
+383,Kosovo*,E,2024,Municipal waste incinerated,0.0,%
+417,Kyrgyzstan,U,2017,Municipal waste incinerated,,%
+428,Latvia,E,2024,Municipal waste incinerated,0.0,%
+422,Lebanon,U,2012,Municipal waste incinerated,0.0,%
+438,Liechtenstein,U,2023,Municipal waste incinerated,0.0,%
+440,Lithuania,E,2024,Municipal waste incinerated,0.0,%
+442,Luxembourg,E,2024,Municipal waste incinerated,0.0,%
+450,Madagascar,U,2007,Municipal waste incinerated,0.0,%
+458,Malaysia,U,2023,Municipal waste incinerated,0.5232126479451457,%
+470,Malta,E,2024,Municipal waste incinerated,0.0,%
+584,Marshall Islands,U,2007,Municipal waste incinerated,0.0,%
+474,Martinique,U,2021,Municipal waste incinerated,56.3926471427756,%
+480,Mauritius,U,2023,Municipal waste incinerated,,%
+484,Mexico,O,2022,Municipal waste incinerated,,%
+492,Monaco,U,2023,Municipal waste incinerated,100.0,%
+499,Montenegro,E,2024,Municipal waste incinerated,0.0,%
+528,Netherlands,E,2024,Municipal waste incinerated,0.9642521166509879,%
+554,New Zealand,O,2024,Municipal waste incinerated,,%
+562,Niger,U,2005,Municipal waste incinerated,14.992564102564105,%
+807,North Macedonia,E,2023,Municipal waste incinerated,0.0,%
+578,Norway,E,2024,Municipal waste incinerated,0.0,%
+512,Oman,U,2024,Municipal waste incinerated,1.0958871281191904,%
+591,Panama,U,2019,Municipal waste incinerated,,%
+616,Poland,E,2024,Municipal waste incinerated,0.021189433535810143,%
+620,Portugal,E,2024,Municipal waste incinerated,0.0,%
+634,Qatar,U,2023,Municipal waste incinerated,12.614173205345065,%
+410,Republic of Korea,O,2023,Municipal waste incinerated,0.14937995497251122,%
+498,Republic of Moldova,U,2021,Municipal waste incinerated,,%
+638,Réunion,U,2021,Municipal waste incinerated,0.003322461500977357,%
+642,Romania,E,2023,Municipal waste incinerated,0.8416351769151496,%
+662,Saint Lucia,U,2019,Municipal waste incinerated,0.0,%
+670,Saint Vincent and the Grenadines,U,2002,Municipal waste incinerated,0.0,%
+882,Samoa,U,2017,Municipal waste incinerated,,%
+688,Serbia,E,2023,Municipal waste incinerated,0.0,%
+690,Seychelles,U,2021,Municipal waste incinerated,,%
+702,Singapore,U,2021,Municipal waste incinerated,41.5610599078341,%
+703,Slovakia,E,2024,Municipal waste incinerated,0.0,%
+705,Slovenia,E,2024,Municipal waste incinerated,2.415026833631485,%
+724,Spain,E,2024,Municipal waste incinerated,0.0,%
+144,Sri Lanka,U,2016,Municipal waste incinerated,,%
+275,State of Palestine,U,2022,Municipal waste incinerated,,%
+752,Sweden,E,2024,Municipal waste incinerated,0.0,%
+756,Switzerland,E,2023,Municipal waste incinerated,0.0,%
+780,Trinidad and Tobago,U,2023,Municipal waste incinerated,,%
+788,Tunisia,U,2004,Municipal waste incinerated,,%
+792,Türkiye,O,2024,Municipal waste incinerated,,%
+800,Uganda,U,2023,Municipal waste incinerated,,%
+804,Ukraine,U,2023,Municipal waste incinerated,1.6396002498438473,%
+784,United Arab Emirates,U,2023,Municipal waste incinerated,10.112228034110545,%
+826,United Kingdom of Great Britain and Northern Ireland,O,2023,Municipal waste incinerated,0.15368894286501483,%
+840,United States of America,O,2018,Municipal waste incinerated,0.004455672726431132,%
+894,Zambia,U,2005,Municipal waste incinerated,,%
+716,Zimbabwe,U,2017,Municipal waste incinerated,0.6041116274893507,%
+8,Albania,E,2023,Municipal waste recycled,18.838862559241708,%
+12,Algeria,U,2021,Municipal waste recycled,,%
+20,Andorra,U,2023,Municipal waste recycled,0.0,%
+660,Anguilla,U,2008,Municipal waste recycled,0.0,%
+28,Antigua and Barbuda,U,2021,Municipal waste recycled,,%
+32,Argentina,U,2022,Municipal waste recycled,6.0,%
+51,Armenia,U,2023,Municipal waste recycled,,%
+36,Australia,O,2023,Municipal waste recycled,0.12957072130916056,%
+40,Austria,E,2023,Municipal waste recycled,40.77289274712966,%
+48,Bahrain,U,2021,Municipal waste recycled,33.94681285288885,%
+50,Bangladesh,U,2021,Municipal waste recycled,0.5712581061610399,%
+112,Belarus,U,2023,Municipal waste recycled,35.51197710038668,%
+56,Belgium,E,2024,Municipal waste recycled,33.12839059674503,%
+204,Benin,U,2022,Municipal waste recycled,0.15579208013201967,%
+60,Bermuda,U,2019,Municipal waste recycled,0.4629629616854286,%
+70,Bosnia and Herzegovina,E,2024,Municipal waste recycled,1.068566340160285,%
+92,British Virgin Islands,U,2005,Municipal waste recycled,0.0,%
+100,Bulgaria,E,2023,Municipal waste recycled,14.100126742712293,%
+108,Burundi,U,2019,Municipal waste recycled,,%
+132,Cabo Verde,U,2015,Municipal waste recycled,0.0,%
+120,Cameroon,U,2009,Municipal waste recycled,0.36575187534764514,%
+152,Chile,O,2023,Municipal waste recycled,0.008018823922370319,%
+156,China,U,2023,Municipal waste recycled,,%
+344,"China, Hong Kong Special Administrative Region",U,2023,Municipal waste recycled,33.125736408012116,%
+446,"China, Macao Special Administrative Region",U,2023,Municipal waste recycled,3.890370815644137,%
+188,Costa Rica,O,2024,Municipal waste recycled,0.17332454656278304,%
+191,Croatia,E,2024,Municipal waste recycled,29.69664715274082,%
+192,Cuba,U,2021,Municipal waste recycled,,%
+531,Curaçao,U,2017,Municipal waste recycled,8.198217307760611,%
+196,Cyprus,E,2024,Municipal waste recycled,11.659192825112108,%
+203,Czechia,E,2023,Municipal waste recycled,28.51027397260274,%
+208,Denmark,E,2024,Municipal waste recycled,21.924185324761694,%
+212,Dominica,U,2021,Municipal waste recycled,,%
+233,Estonia,E,2024,Municipal waste recycled,24.5136186770428,%
+242,Fiji,U,2023,Municipal waste recycled,,%
+246,Finland,E,2024,Municipal waste recycled,29.766536964980546,%
+250,France,E,2024,Municipal waste recycled,20.918128493927796,%
+254,French Guiana,U,2019,Municipal waste recycled,4.085354563969636,%
+258,French Polynesia,U,2015,Municipal waste recycled,0.3000264023234045,%
+268,Georgia,U,2022,Municipal waste recycled,,%
+276,Germany,E,2024,Municipal waste recycled,44.752339387471174,%
+288,Ghana,U,2017,Municipal waste recycled,5.000000074193637,%
+300,Greece,E,2023,Municipal waste recycled,15.974264705882351,%
+312,Guadeloupe,U,2021,Municipal waste recycled,14.805595320524528,%
+340,Honduras,U,2021,Municipal waste recycled,2.3,%
+348,Hungary,E,2024,Municipal waste recycled,19.535001263583524,%
+352,Iceland,E,2023,Municipal waste recycled,29.017857142857146,%
+364,Iran (Islamic Republic of),U,2023,Municipal waste recycled,,%
+372,Ireland,E,2023,Municipal waste recycled,25.964912280701753,%
+380,Italy,E,2023,Municipal waste recycled,29.895977808599167,%
+392,Japan,O,2023,Municipal waste recycled,0.04953347824408134,%
+400,Jordan,U,2020,Municipal waste recycled,,%
+398,Kazakhstan,U,2023,Municipal waste recycled,13.683651548432257,%
+383,Kosovo*,E,2024,Municipal waste recycled,0.0,%
+417,Kyrgyzstan,U,2017,Municipal waste recycled,,%
+428,Latvia,E,2024,Municipal waste recycled,26.998841251448436,%
+422,Lebanon,U,2012,Municipal waste recycled,7.989690721649484,%
+438,Liechtenstein,U,2023,Municipal waste recycled,0.0,%
+440,Lithuania,E,2024,Municipal waste recycled,28.132033008252062,%
+442,Luxembourg,E,2024,Municipal waste recycled,32.32104121475054,%
+450,Madagascar,U,2007,Municipal waste recycled,0.0,%
+458,Malaysia,U,2023,Municipal waste recycled,236.03528846573786,%
+470,Malta,E,2024,Municipal waste recycled,16.38418079096045,%
+584,Marshall Islands,U,2007,Municipal waste recycled,30.76923076923077,%
+474,Martinique,U,2021,Municipal waste recycled,12.252668835987897,%
+480,Mauritius,U,2023,Municipal waste recycled,,%
+484,Mexico,O,2022,Municipal waste recycled,,%
+492,Monaco,U,2023,Municipal waste recycled,0.0,%
+499,Montenegro,E,2024,Municipal waste recycled,3.287671232876712,%
+528,Netherlands,E,2024,Municipal waste recycled,27.469426152398874,%
+554,New Zealand,O,2024,Municipal waste recycled,,%
+562,Niger,U,2005,Municipal waste recycled,5.0,%
+807,North Macedonia,E,2023,Municipal waste recycled,0.0,%
+578,Norway,E,2024,Municipal waste recycled,35.721442885771545,%
+512,Oman,U,2024,Municipal waste recycled,67.98044977304652,%
+591,Panama,U,2019,Municipal waste recycled,,%
+616,Poland,E,2024,Municipal waste recycled,18.33592315298771,%
+620,Portugal,E,2024,Municipal waste recycled,12.27027027027027,%
+634,Qatar,U,2023,Municipal waste recycled,5.948578522099567,%
+410,Republic of Korea,O,2023,Municipal waste recycled,0.19915337189047694,%
+498,Republic of Moldova,U,2021,Municipal waste recycled,4.608602725086828,%
+638,Réunion,U,2021,Municipal waste recycled,30.06661535309459,%
+642,Romania,E,2023,Municipal waste recycled,7.901064926142219,%
+662,Saint Lucia,U,2019,Municipal waste recycled,,%
+670,Saint Vincent and the Grenadines,U,2002,Municipal waste recycled,15.079364879131113,%
+882,Samoa,U,2017,Municipal waste recycled,5.585760429354675,%
+688,Serbia,E,2023,Municipal waste recycled,14.798061389337642,%
+690,Seychelles,U,2021,Municipal waste recycled,,%
+702,Singapore,U,2021,Municipal waste recycled,55.0979262672811,%
+703,Slovakia,E,2024,Municipal waste recycled,32.012080030200075,%
+705,Slovenia,E,2024,Municipal waste recycled,46.332737030411444,%
+724,Spain,E,2024,Municipal waste recycled,21.50098690113045,%
+144,Sri Lanka,U,2016,Municipal waste recycled,,%
+275,State of Palestine,U,2022,Municipal waste recycled,3.221634332745444,%
+752,Sweden,E,2024,Municipal waste recycled,26.390427653445602,%
+756,Switzerland,E,2023,Municipal waste recycled,28.720756595321056,%
+780,Trinidad and Tobago,U,2023,Municipal waste recycled,0.05988145915229036,%
+788,Tunisia,U,2004,Municipal waste recycled,,%
+792,Türkiye,O,2024,Municipal waste recycled,,%
+800,Uganda,U,2023,Municipal waste recycled,,%
+804,Ukraine,U,2023,Municipal waste recycled,0.1551113887153862,%
+784,United Arab Emirates,U,2023,Municipal waste recycled,13.769694030586747,%
+826,United Kingdom of Great Britain and Northern Ireland,O,2023,Municipal waste recycled,0.08574472708356269,%
+840,United States of America,O,2018,Municipal waste recycled,0.008910066026689343,%
+894,Zambia,U,2005,Municipal waste recycled,,%
+716,Zimbabwe,U,2017,Municipal waste recycled,5.723361593464248,%
+8,Albania,E,2023,Municipal waste composted,0.0,%
+12,Algeria,U,2021,Municipal waste composted,,%
+20,Andorra,U,2023,Municipal waste composted,0.0,%
+660,Anguilla,U,2008,Municipal waste composted,0.0,%
+28,Antigua and Barbuda,U,2021,Municipal waste composted,,%
+32,Argentina,U,2022,Municipal waste composted,,%
+51,Armenia,U,2023,Municipal waste composted,,%
+36,Australia,O,2023,Municipal waste composted,0.1921351991483458,%
+40,Austria,E,2023,Municipal waste composted,21.49257910949314,%
+48,Bahrain,U,2021,Municipal waste composted,0.06119846076598679,%
+50,Bangladesh,U,2021,Municipal waste composted,3.40214425263264,%
+112,Belarus,U,2023,Municipal waste composted,0.0,%
+56,Belgium,E,2024,Municipal waste composted,21.639541892706447,%
+204,Benin,U,2022,Municipal waste composted,,%
+60,Bermuda,U,2019,Municipal waste composted,12.731481256635432,%
+70,Bosnia and Herzegovina,E,2024,Municipal waste composted,0.0,%
+92,British Virgin Islands,U,2005,Municipal waste composted,0.0,%
+100,Bulgaria,E,2023,Municipal waste composted,2.5348542458808616,%
+108,Burundi,U,2019,Municipal waste composted,,%
+132,Cabo Verde,U,2015,Municipal waste composted,0.0,%
+120,Cameroon,U,2009,Municipal waste composted,,%
+152,Chile,O,2023,Municipal waste composted,0.0003391942212931201,%
+156,China,U,2023,Municipal waste composted,,%
+344,"China, Hong Kong Special Administrative Region",U,2023,Municipal waste composted,,%
+446,"China, Macao Special Administrative Region",U,2023,Municipal waste composted,0.13149490926851257,%
+188,Costa Rica,O,2024,Municipal waste composted,0.010067220169074326,%
+191,Croatia,E,2024,Municipal waste composted,6.971793507184673,%
+192,Cuba,U,2021,Municipal waste composted,,%
+531,Curaçao,U,2017,Municipal waste composted,,%
+196,Cyprus,E,2024,Municipal waste composted,3.7369207772795217,%
+203,Czechia,E,2023,Municipal waste composted,15.034246575342467,%
+208,Denmark,E,2024,Municipal waste composted,23.764132121480824,%
+212,Dominica,U,2021,Municipal waste composted,,%
+233,Estonia,E,2024,Municipal waste composted,11.86770428015564,%
+242,Fiji,U,2023,Municipal waste composted,,%
+246,Finland,E,2024,Municipal waste composted,17.898832684824903,%
+250,France,E,2024,Municipal waste composted,19.395257896621047,%
+254,French Guiana,U,2019,Municipal waste composted,10.667468987224588,%
+258,French Polynesia,U,2015,Municipal waste composted,0.0,%
+268,Georgia,U,2022,Municipal waste composted,,%
+276,Germany,E,2024,Municipal waste composted,22.14747193687942,%
+288,Ghana,U,2017,Municipal waste composted,,%
+300,Greece,E,2023,Municipal waste composted,1.25,%
+312,Guadeloupe,U,2021,Municipal waste composted,12.445467713913112,%
+340,Honduras,U,2021,Municipal waste composted,,%
+348,Hungary,E,2024,Municipal waste composted,14.051048774323982,%
+352,Iceland,E,2023,Municipal waste composted,2.6785714285714284,%
+364,Iran (Islamic Republic of),U,2023,Municipal waste composted,,%
+372,Ireland,E,2023,Municipal waste composted,15.311004784688995,%
+380,Italy,E,2023,Municipal waste composted,20.946601941747574,%
+392,Japan,O,2023,Municipal waste composted,0.0008690083902470408,%
+400,Jordan,U,2020,Municipal waste composted,,%
+398,Kazakhstan,U,2023,Municipal waste composted,,%
+383,Kosovo*,E,2024,Municipal waste composted,0.0,%
+417,Kyrgyzstan,U,2017,Municipal waste composted,,%
+428,Latvia,E,2024,Municipal waste composted,23.174971031286212,%
+422,Lebanon,U,2012,Municipal waste composted,10.97938144329897,%
+438,Liechtenstein,U,2023,Municipal waste composted,100.0,%
+440,Lithuania,E,2024,Municipal waste composted,23.63090772693173,%
+442,Luxembourg,E,2024,Municipal waste composted,24.945770065075923,%
+450,Madagascar,U,2007,Municipal waste composted,3.4752390942595595,%
+458,Malaysia,U,2023,Municipal waste composted,,%
+470,Malta,E,2024,Municipal waste composted,0.0,%
+584,Marshall Islands,U,2007,Municipal waste composted,5.999999779921312,%
+474,Martinique,U,2021,Municipal waste composted,9.708854255865731,%
+480,Mauritius,U,2023,Municipal waste composted,0.0,%
+484,Mexico,O,2022,Municipal waste composted,,%
+492,Monaco,U,2023,Municipal waste composted,0.0,%
+499,Montenegro,E,2024,Municipal waste composted,0.273972602739726,%
+528,Netherlands,E,2024,Municipal waste composted,30.5032925682032,%
+554,New Zealand,O,2024,Municipal waste composted,,%
+562,Niger,U,2005,Municipal waste composted,,%
+807,North Macedonia,E,2023,Municipal waste composted,0.0,%
+578,Norway,E,2024,Municipal waste composted,10.746492985971944,%
+512,Oman,U,2024,Municipal waste composted,0.09585891963502714,%
+591,Panama,U,2019,Municipal waste composted,,%
+616,Poland,E,2024,Municipal waste composted,12.812544144653199,%
+620,Portugal,E,2024,Municipal waste composted,20.576576576576578,%
+634,Qatar,U,2023,Municipal waste composted,,%
+410,Republic of Korea,O,2023,Municipal waste composted,0.010706956538130965,%
+498,Republic of Moldova,U,2021,Municipal waste composted,1.6029922522041142,%
+638,Réunion,U,2021,Municipal waste composted,17.466180110637968,%
+642,Romania,E,2023,Municipal waste composted,4.500171762281003,%
+662,Saint Lucia,U,2019,Municipal waste composted,,%
+670,Saint Vincent and the Grenadines,U,2002,Municipal waste composted,,%
+882,Samoa,U,2017,Municipal waste composted,0.9967637609495854,%
+688,Serbia,E,2023,Municipal waste composted,0.3554119547657512,%
+690,Seychelles,U,2021,Municipal waste composted,,%
+702,Singapore,U,2021,Municipal waste composted,0.0,%
+703,Slovakia,E,2024,Municipal waste composted,18.648546621366556,%
+705,Slovenia,E,2024,Municipal waste composted,15.92128801431127,%
+724,Spain,E,2024,Municipal waste composted,20.95819127938274,%
+144,Sri Lanka,U,2016,Municipal waste composted,,%
+275,State of Palestine,U,2022,Municipal waste composted,,%
+752,Sweden,E,2024,Municipal waste composted,19.255484156880122,%
+756,Switzerland,E,2023,Municipal waste composted,23.311763729882195,%
+780,Trinidad and Tobago,U,2023,Municipal waste composted,,%
+788,Tunisia,U,2004,Municipal waste composted,0.054700854700854694,%
+792,Türkiye,O,2024,Municipal waste composted,,%
+800,Uganda,U,2023,Municipal waste composted,39.99999956267767,%
+804,Ukraine,U,2023,Municipal waste composted,0.0,%
+784,United Arab Emirates,U,2023,Municipal waste composted,0.7328750324039018,%
+826,United Kingdom of Great Britain and Northern Ireland,O,2023,Municipal waste composted,0.05922308477243069,%
+840,United States of America,O,2018,Municipal waste composted,0.0032099381093965147,%
+894,Zambia,U,2005,Municipal waste composted,,%
+716,Zimbabwe,U,2017,Municipal waste composted,0.46644385057499504,%
+8,Albania,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+12,Algeria,U,2021,Municipal waste managed with other treatment or disposal,,%
+20,Andorra,U,2023,Municipal waste managed with other treatment or disposal,0.0,%
+660,Anguilla,U,2008,Municipal waste managed with other treatment or disposal,,%
+28,Antigua and Barbuda,U,2021,Municipal waste managed with other treatment or disposal,,%
+32,Argentina,U,2022,Municipal waste managed with other treatment or disposal,,%
+51,Armenia,U,2023,Municipal waste managed with other treatment or disposal,,%
+36,Australia,O,2023,Municipal waste managed with other treatment or disposal,0.0,%
+40,Austria,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+48,Bahrain,U,2021,Municipal waste managed with other treatment or disposal,1.5051742637988195,%
+50,Bangladesh,U,2021,Municipal waste managed with other treatment or disposal,25.40719379969562,%
+112,Belarus,U,2023,Municipal waste managed with other treatment or disposal,,%
+56,Belgium,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+204,Benin,U,2022,Municipal waste managed with other treatment or disposal,,%
+60,Bermuda,U,2019,Municipal waste managed with other treatment or disposal,,%
+70,Bosnia and Herzegovina,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+92,British Virgin Islands,U,2005,Municipal waste managed with other treatment or disposal,19.741143691951248,%
+100,Bulgaria,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+108,Burundi,U,2019,Municipal waste managed with other treatment or disposal,,%
+132,Cabo Verde,U,2015,Municipal waste managed with other treatment or disposal,0.0,%
+120,Cameroon,U,2009,Municipal waste managed with other treatment or disposal,,%
+152,Chile,O,2023,Municipal waste managed with other treatment or disposal,0.0,%
+156,China,U,2023,Municipal waste managed with other treatment or disposal,10.057200896003025,%
+344,"China, Hong Kong Special Administrative Region",U,2023,Municipal waste managed with other treatment or disposal,,%
+446,"China, Macao Special Administrative Region",U,2023,Municipal waste managed with other treatment or disposal,,%
+188,Costa Rica,O,2024,Municipal waste managed with other treatment or disposal,0.08589778301257955,%
+191,Croatia,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+192,Cuba,U,2021,Municipal waste managed with other treatment or disposal,,%
+531,Curaçao,U,2017,Municipal waste managed with other treatment or disposal,,%
+196,Cyprus,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+203,Czechia,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+208,Denmark,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+212,Dominica,U,2021,Municipal waste managed with other treatment or disposal,,%
+233,Estonia,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+242,Fiji,U,2023,Municipal waste managed with other treatment or disposal,,%
+246,Finland,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+250,France,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+254,French Guiana,U,2019,Municipal waste managed with other treatment or disposal,1.2571745972967971,%
+258,French Polynesia,U,2015,Municipal waste managed with other treatment or disposal,92.7429613806015,%
+268,Georgia,U,2022,Municipal waste managed with other treatment or disposal,,%
+276,Germany,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+288,Ghana,U,2017,Municipal waste managed with other treatment or disposal,,%
+300,Greece,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+312,Guadeloupe,U,2021,Municipal waste managed with other treatment or disposal,0.16609249355382716,%
+340,Honduras,U,2021,Municipal waste managed with other treatment or disposal,,%
+348,Hungary,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+352,Iceland,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+364,Iran (Islamic Republic of),U,2023,Municipal waste managed with other treatment or disposal,,%
+372,Ireland,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+380,Italy,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+392,Japan,O,2023,Municipal waste managed with other treatment or disposal,0.0,%
+400,Jordan,U,2020,Municipal waste managed with other treatment or disposal,,%
+398,Kazakhstan,U,2023,Municipal waste managed with other treatment or disposal,16.319486350141208,%
+383,Kosovo*,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+417,Kyrgyzstan,U,2017,Municipal waste managed with other treatment or disposal,,%
+428,Latvia,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+422,Lebanon,U,2012,Municipal waste managed with other treatment or disposal,0.0,%
+438,Liechtenstein,U,2023,Municipal waste managed with other treatment or disposal,0.0,%
+440,Lithuania,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+442,Luxembourg,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+450,Madagascar,U,2007,Municipal waste managed with other treatment or disposal,0.0,%
+458,Malaysia,U,2023,Municipal waste managed with other treatment or disposal,,%
+470,Malta,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+584,Marshall Islands,U,2007,Municipal waste managed with other treatment or disposal,,%
+474,Martinique,U,2021,Municipal waste managed with other treatment or disposal,0.015242336016441172,%
+480,Mauritius,U,2023,Municipal waste managed with other treatment or disposal,,%
+484,Mexico,O,2022,Municipal waste managed with other treatment or disposal,0.0,%
+492,Monaco,U,2023,Municipal waste managed with other treatment or disposal,0.0,%
+499,Montenegro,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+528,Netherlands,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+554,New Zealand,O,2024,Municipal waste managed with other treatment or disposal,0.0,%
+562,Niger,U,2005,Municipal waste managed with other treatment or disposal,,%
+807,North Macedonia,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+578,Norway,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+512,Oman,U,2024,Municipal waste managed with other treatment or disposal,,%
+591,Panama,U,2019,Municipal waste managed with other treatment or disposal,,%
+616,Poland,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+620,Portugal,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+634,Qatar,U,2023,Municipal waste managed with other treatment or disposal,,%
+410,Republic of Korea,O,2023,Municipal waste managed with other treatment or disposal,0.025851926659911015,%
+498,Republic of Moldova,U,2021,Municipal waste managed with other treatment or disposal,,%
+638,Réunion,U,2021,Municipal waste managed with other treatment or disposal,4.134065013188326,%
+642,Romania,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+662,Saint Lucia,U,2019,Municipal waste managed with other treatment or disposal,0.0,%
+670,Saint Vincent and the Grenadines,U,2002,Municipal waste managed with other treatment or disposal,0.0,%
+882,Samoa,U,2017,Municipal waste managed with other treatment or disposal,,%
+688,Serbia,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+690,Seychelles,U,2021,Municipal waste managed with other treatment or disposal,,%
+702,Singapore,U,2021,Municipal waste managed with other treatment or disposal,0.0,%
+703,Slovakia,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+705,Slovenia,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+724,Spain,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+144,Sri Lanka,U,2016,Municipal waste managed with other treatment or disposal,,%
+275,State of Palestine,U,2022,Municipal waste managed with other treatment or disposal,,%
+752,Sweden,E,2024,Municipal waste managed with other treatment or disposal,0.0,%
+756,Switzerland,E,2023,Municipal waste managed with other treatment or disposal,0.0,%
+780,Trinidad and Tobago,U,2023,Municipal waste managed with other treatment or disposal,,%
+788,Tunisia,U,2004,Municipal waste managed with other treatment or disposal,,%
+792,Türkiye,O,2024,Municipal waste managed with other treatment or disposal,0.0,%
+800,Uganda,U,2023,Municipal waste managed with other treatment or disposal,,%
+804,Ukraine,U,2023,Municipal waste managed with other treatment or disposal,0.00416406412658755,%
+784,United Arab Emirates,U,2023,Municipal waste managed with other treatment or disposal,,%
+826,United Kingdom of Great Britain and Northern Ireland,O,2023,Municipal waste managed with other treatment or disposal,0.0,%
+840,United States of America,O,2018,Municipal waste managed with other treatment or disposal,0.0009436384638286583,%
+894,Zambia,U,2005,Municipal waste managed with other treatment or disposal,,%
+716,Zimbabwe,U,2017,Municipal waste managed with other treatment or disposal,93.20608250550025,%
