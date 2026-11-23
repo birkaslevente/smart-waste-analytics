@@ -14,6 +14,7 @@ Usage (from the repository root):
     python run_pipeline.py --download   # download the raw files again first
 """
 import argparse
+import asyncio
 import subprocess
 import sys
 import time
@@ -22,6 +23,11 @@ from pathlib import Path
 import nbformat
 from nbclient import NotebookClient
 from nbclient.exceptions import CellExecutionError
+
+# On Windows, Jupyter kernels print "Assertion failed: Connection reset by peer" when they shut down
+# under the default event loop. The selector loop avoids that harmless but confusing message.
+if sys.platform == "win32":
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 ROOT = Path(__file__).resolve().parent
 SCRIPTS = ROOT / "team2_waste_data" / "scripts"
