@@ -1,0 +1,4 @@
+CountryID,Country,Waste_File
+736,Sudan (Former),municipal_waste_collected_clean.csv
+383,Kosovo*,municipal_waste_recycled_pct_clean.csv
+383,Kosovo*,municipal_waste_treatment_latest_clean.csv

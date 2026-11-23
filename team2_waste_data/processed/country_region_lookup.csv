@@ -1,0 +1,238 @@
+CountryID,ISO3,Country,SubRegion,Region
+4,AFG,Afghanistan,Southern Asia,Asia
+8,ALB,Albania,Southern Europe,Europe
+12,DZA,Algeria,Northern Africa,Africa
+16,ASM,American Samoa,Polynesia,Oceania
+20,AND,Andorra,Southern Europe,Europe
+24,AGO,Angola,Middle Africa,Africa
+28,ATG,Antigua and Barbuda,Caribbean,Americas
+31,AZE,Azerbaijan,Western Asia,Asia
+32,ARG,Argentina,South America,Americas
+36,AUS,Australia,Australia/New Zealand,Oceania
+40,AUT,Austria,Western Europe,Europe
+44,BHS,Bahamas,Caribbean,Americas
+48,BHR,Bahrain,Western Asia,Asia
+50,BGD,Bangladesh,Southern Asia,Asia
+51,ARM,Armenia,Western Asia,Asia
+52,BRB,Barbados,Caribbean,Americas
+56,BEL,Belgium,Western Europe,Europe
+60,BMU,Bermuda,Northern America,Americas
+64,BTN,Bhutan,Southern Asia,Asia
+68,BOL,Bolivia (Plurinational State of),South America,Americas
+70,BIH,Bosnia and Herzegovina,Southern Europe,Europe
+72,BWA,Botswana,Southern Africa,Africa
+76,BRA,Brazil,South America,Americas
+84,BLZ,Belize,Central America,Americas
+90,SLB,Solomon Islands,Melanesia,Oceania
+92,VGB,British Virgin Islands,Caribbean,Americas
+96,BRN,Brunei Darussalam,South-Eastern Asia,Asia
+100,BGR,Bulgaria,Eastern Europe,Europe
+104,MMR,Myanmar,South-Eastern Asia,Asia
+108,BDI,Burundi,Eastern Africa,Africa
+112,BLR,Belarus,Eastern Europe,Europe
+116,KHM,Cambodia,South-Eastern Asia,Asia
+120,CMR,Cameroon,Middle Africa,Africa
+124,CAN,Canada,Northern America,Americas
+132,CPV,Cabo Verde,Western Africa,Africa
+136,CYM,Cayman Islands,Caribbean,Americas
+140,CAF,Central African Republic,Middle Africa,Africa
+144,LKA,Sri Lanka,Southern Asia,Asia
+148,TCD,Chad,Middle Africa,Africa
+152,CHL,Chile,South America,Americas
+156,CHN,China,Eastern Asia,Asia
+158,TWN,"China, Taiwan Province of China",Eastern Asia,Asia
+170,COL,Colombia,South America,Americas
+174,COM,Comoros,Eastern Africa,Africa
+175,MYT,Mayotte,Eastern Africa,Africa
+178,COG,Congo,Middle Africa,Africa
+180,COD,Democratic Republic of the Congo,Middle Africa,Africa
+184,COK,Cook Islands,Polynesia,Oceania
+188,CRI,Costa Rica,Central America,Americas
+191,HRV,Croatia,Southern Europe,Europe
+192,CUB,Cuba,Caribbean,Americas
+196,CYP,Cyprus,Western Asia,Asia
+203,CZE,Czechia,Eastern Europe,Europe
+204,BEN,Benin,Western Africa,Africa
+208,DNK,Denmark,Northern Europe,Europe
+212,DMA,Dominica,Caribbean,Americas
+214,DOM,Dominican Republic,Caribbean,Americas
+218,ECU,Ecuador,South America,Americas
+222,SLV,El Salvador,Central America,Americas
+226,GNQ,Equatorial Guinea,Middle Africa,Africa
+231,ETH,Ethiopia,Eastern Africa,Africa
+232,ERI,Eritrea,Eastern Africa,Africa
+233,EST,Estonia,Northern Europe,Europe
+234,FRO,Faroe Islands,Northern Europe,Europe
+238,FLK,Falkland Islands (Malvinas),South America,Americas
+242,FJI,Fiji,Melanesia,Oceania
+246,FIN,Finland,Northern Europe,Europe
+250,FRA,France,Western Europe,Europe
+254,GUF,French Guiana,South America,Americas
+258,PYF,French Polynesia,Polynesia,Oceania
+262,DJI,Djibouti,Eastern Africa,Africa
+266,GAB,Gabon,Middle Africa,Africa
+268,GEO,Georgia,Western Asia,Asia
+270,GMB,Gambia,Western Africa,Africa
+275,PSE,State of Palestine,Western Asia,Asia
+276,DEU,Germany,Western Europe,Europe
+288,GHA,Ghana,Western Africa,Africa
+292,GIB,Gibraltar,Southern Europe,Europe
+296,KIR,Kiribati,Micronesia,Oceania
+300,GRC,Greece,Southern Europe,Europe
+304,GRL,Greenland,Northern America,Americas
+308,GRD,Grenada,Caribbean,Americas
+312,GLP,Guadeloupe,Caribbean,Americas
+316,GUM,Guam,Micronesia,Oceania
+320,GTM,Guatemala,Central America,Americas
+324,GIN,Guinea,Western Africa,Africa
+328,GUY,Guyana,South America,Americas
+332,HTI,Haiti,Caribbean,Americas
+336,VAT,Holy See,Southern Europe,Europe
+340,HND,Honduras,Central America,Americas
+344,HKG,"China, Hong Kong SAR",Eastern Asia,Asia
+348,HUN,Hungary,Eastern Europe,Europe
+352,ISL,Iceland,Northern Europe,Europe
+356,IND,India,Southern Asia,Asia
+360,IDN,Indonesia,South-Eastern Asia,Asia
+364,IRN,Iran (Islamic Republic of),Southern Asia,Asia
+368,IRQ,Iraq,Western Asia,Asia
+372,IRL,Ireland,Northern Europe,Europe
+376,ISR,Israel,Western Asia,Asia
+380,ITA,Italy,Southern Europe,Europe
+384,CIV,Côte d'Ivoire,Western Africa,Africa
+388,JAM,Jamaica,Caribbean,Americas
+392,JPN,Japan,Eastern Asia,Asia
+398,KAZ,Kazakhstan,Central Asia,Asia
+400,JOR,Jordan,Western Asia,Asia
+404,KEN,Kenya,Eastern Africa,Africa
+408,PRK,Dem. People's Republic of Korea,Eastern Asia,Asia
+410,KOR,Republic of Korea,Eastern Asia,Asia
+412,XKX,Kosovo (under UNSC res. 1244),Southern Europe,Europe
+414,KWT,Kuwait,Western Asia,Asia
+417,KGZ,Kyrgyzstan,Central Asia,Asia
+418,LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia
+422,LBN,Lebanon,Western Asia,Asia
+426,LSO,Lesotho,Southern Africa,Africa
+428,LVA,Latvia,Northern Europe,Europe
+430,LBR,Liberia,Western Africa,Africa
+434,LBY,Libya,Northern Africa,Africa
+438,LIE,Liechtenstein,Western Europe,Europe
+440,LTU,Lithuania,Northern Europe,Europe
+442,LUX,Luxembourg,Western Europe,Europe
+446,MAC,"China, Macao SAR",Eastern Asia,Asia
+450,MDG,Madagascar,Eastern Africa,Africa
+454,MWI,Malawi,Eastern Africa,Africa
+458,MYS,Malaysia,South-Eastern Asia,Asia
+462,MDV,Maldives,Southern Asia,Asia
+466,MLI,Mali,Western Africa,Africa
+470,MLT,Malta,Southern Europe,Europe
+474,MTQ,Martinique,Caribbean,Americas
+478,MRT,Mauritania,Western Africa,Africa
+480,MUS,Mauritius,Eastern Africa,Africa
+484,MEX,Mexico,Central America,Americas
+492,MCO,Monaco,Western Europe,Europe
+496,MNG,Mongolia,Eastern Asia,Asia
+498,MDA,Republic of Moldova,Eastern Europe,Europe
+499,MNE,Montenegro,Southern Europe,Europe
+500,MSR,Montserrat,Caribbean,Americas
+504,MAR,Morocco,Northern Africa,Africa
+508,MOZ,Mozambique,Eastern Africa,Africa
+512,OMN,Oman,Western Asia,Asia
+516,NAM,Namibia,Southern Africa,Africa
+520,NRU,Nauru,Micronesia,Oceania
+524,NPL,Nepal,Southern Asia,Asia
+528,NLD,Netherlands,Western Europe,Europe
+531,CUW,Curaçao,Caribbean,Americas
+533,ABW,Aruba,Caribbean,Americas
+534,SXM,Sint Maarten (Dutch part),Caribbean,Americas
+535,BES,"Bonaire, Sint Eustatius and Saba",Caribbean,Americas
+540,NCL,New Caledonia,Melanesia,Oceania
+548,VUT,Vanuatu,Melanesia,Oceania
+554,NZL,New Zealand,Australia/New Zealand,Oceania
+558,NIC,Nicaragua,Central America,Americas
+562,NER,Niger,Western Africa,Africa
+566,NGA,Nigeria,Western Africa,Africa
+570,NIU,Niue,Polynesia,Oceania
+578,NOR,Norway,Northern Europe,Europe
+580,MNP,Northern Mariana Islands,Micronesia,Oceania
+583,FSM,Micronesia (Fed. States of),Micronesia,Oceania
+584,MHL,Marshall Islands,Micronesia,Oceania
+585,PLW,Palau,Micronesia,Oceania
+586,PAK,Pakistan,Southern Asia,Asia
+591,PAN,Panama,Central America,Americas
+598,PNG,Papua New Guinea,Melanesia,Oceania
+600,PRY,Paraguay,South America,Americas
+604,PER,Peru,South America,Americas
+608,PHL,Philippines,South-Eastern Asia,Asia
+616,POL,Poland,Eastern Europe,Europe
+620,PRT,Portugal,Southern Europe,Europe
+624,GNB,Guinea-Bissau,Western Africa,Africa
+626,TLS,Timor-Leste,South-Eastern Asia,Asia
+630,PRI,Puerto Rico,Caribbean,Americas
+634,QAT,Qatar,Western Asia,Asia
+638,REU,Réunion,Eastern Africa,Africa
+642,ROU,Romania,Eastern Europe,Europe
+643,RUS,Russian Federation,Eastern Europe,Europe
+646,RWA,Rwanda,Eastern Africa,Africa
+652,BLM,Saint Barthélemy,Caribbean,Americas
+654,SHN,Saint Helena,Western Africa,Africa
+659,KNA,Saint Kitts and Nevis,Caribbean,Americas
+660,AIA,Anguilla,Caribbean,Americas
+662,LCA,Saint Lucia,Caribbean,Americas
+663,MAF,Saint Martin (French part),Caribbean,Americas
+666,SPM,Saint Pierre and Miquelon,Northern America,Americas
+670,VCT,Saint Vincent and the Grenadines,Caribbean,Americas
+674,SMR,San Marino,Southern Europe,Europe
+678,STP,Sao Tome and Principe,Middle Africa,Africa
+682,SAU,Saudi Arabia,Western Asia,Asia
+686,SEN,Senegal,Western Africa,Africa
+688,SRB,Serbia,Southern Europe,Europe
+690,SYC,Seychelles,Eastern Africa,Africa
+694,SLE,Sierra Leone,Western Africa,Africa
+702,SGP,Singapore,South-Eastern Asia,Asia
+703,SVK,Slovakia,Eastern Europe,Europe
+704,VNM,Viet Nam,South-Eastern Asia,Asia
+705,SVN,Slovenia,Southern Europe,Europe
+706,SOM,Somalia,Eastern Africa,Africa
+710,ZAF,South Africa,Southern Africa,Africa
+716,ZWE,Zimbabwe,Eastern Africa,Africa
+724,ESP,Spain,Southern Europe,Europe
+728,SSD,South Sudan,Eastern Africa,Africa
+729,SDN,Sudan,Northern Africa,Africa
+732,ESH,Western Sahara,Northern Africa,Africa
+740,SUR,Suriname,South America,Americas
+748,SWZ,Eswatini,Southern Africa,Africa
+752,SWE,Sweden,Northern Europe,Europe
+756,CHE,Switzerland,Western Europe,Europe
+760,SYR,Syrian Arab Republic,Western Asia,Asia
+762,TJK,Tajikistan,Central Asia,Asia
+764,THA,Thailand,South-Eastern Asia,Asia
+768,TGO,Togo,Western Africa,Africa
+772,TKL,Tokelau,Polynesia,Oceania
+776,TON,Tonga,Polynesia,Oceania
+780,TTO,Trinidad and Tobago,Caribbean,Americas
+784,ARE,United Arab Emirates,Western Asia,Asia
+788,TUN,Tunisia,Northern Africa,Africa
+792,TUR,Türkiye,Western Asia,Asia
+795,TKM,Turkmenistan,Central Asia,Asia
+796,TCA,Turks and Caicos Islands,Caribbean,Americas
+798,TUV,Tuvalu,Polynesia,Oceania
+800,UGA,Uganda,Eastern Africa,Africa
+804,UKR,Ukraine,Eastern Europe,Europe
+807,MKD,North Macedonia,Southern Europe,Europe
+818,EGY,Egypt,Northern Africa,Africa
+826,GBR,United Kingdom,Northern Europe,Europe
+831,GGY,Guernsey,Northern Europe,Europe
+832,JEY,Jersey,Northern Europe,Europe
+833,IMN,Isle of Man,Northern Europe,Europe
+834,TZA,United Republic of Tanzania,Eastern Africa,Africa
+840,USA,United States of America,Northern America,Americas
+850,VIR,United States Virgin Islands,Caribbean,Americas
+854,BFA,Burkina Faso,Western Africa,Africa
+858,URY,Uruguay,South America,Americas
+860,UZB,Uzbekistan,Central Asia,Asia
+862,VEN,Venezuela (Bolivarian Republic of),South America,Americas
+876,WLF,Wallis and Futuna Islands,Polynesia,Oceania
+882,WSM,Samoa,Polynesia,Oceania
+887,YEM,Yemen,Western Asia,Asia
+894,ZMB,Zambia,Eastern Africa,Africa
