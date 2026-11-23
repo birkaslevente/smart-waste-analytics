@@ -1,0 +1,19 @@
+# Everything the whole project needs: pip install -r requirements.txt
+# Data handling
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+requests>=2.31
+
+# Running notebooks (Jupyter and run_pipeline.py)
+jupyter
+ipykernel
+nbformat>=5.9
+nbclient>=0.9
+
+# Analysis and charts (packages D, E, F)
+matplotlib>=3.7
+seaborn>=0.13
+plotly>=5.18
+statsmodels>=0.14
+scipy>=1.11
