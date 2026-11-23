@@ -1,0 +1,27 @@
+digraph pipeline {
+  rankdir=LR;
+  graph [fontname="Arial", nodesep=0.35, ranksep=0.55, pad=0.2, dpi=220];
+  node  [shape=box, style="rounded,filled", fontname="Arial", fontsize=11, color="#5b6b7a", penwidth=1.2, margin="0.15,0.08"];
+  edge  [color="#5b6b7a", arrowsize=0.7, penwidth=1.1];
+
+  subgraph cluster_raw {
+    label="Raw data (never edited)"; fontname="Arial"; fontsize=10; fontcolor="#5b6b7a"; style="dashed,rounded"; color="#9aa7b3";
+    W [label="UNSD waste data\n3 Excel workbooks", fillcolor="#e8eef4"];
+    P [label="UN WPP 2024\npopulation CSVs", fillcolor="#e8eef4"];
+  }
+
+  B [label="Waste cleaning\ncleaning_waste_datasets.ipynb", fillcolor="#dcefe3"];
+  C [label="Population cleaning\n+ region lookup\ncleaning_population.ipynb", fillcolor="#dcefe3"];
+  A [label="Integration\nmerging_datasets.ipynb\njoin on M49 code + year", fillcolor="#fbe9c8"];
+
+  O1 [label="panel_country_year.csv\n2,532 rows, 142 countries", fillcolor="#ffffff"];
+  O2 [label="treatment_latest_joined.csv\n105 countries", fillcolor="#ffffff"];
+
+  R [label="Analysis notebooks\nand dashboard", fillcolor="#e8eef4"];
+
+  W -> B; P -> C; B -> A; C -> A; A -> O1; A -> O2; O1 -> R; O2 -> R;
+  C -> R [style=dashed, label=" population\n projections", fontname="Arial", fontsize=9, fontcolor="#5b6b7a"];
+
+  RP [shape=note, label="python run_pipeline.py\nruns all three steps", fillcolor="#f4f4f4", fontsize=10];
+  RP -> A [style=dotted, arrowhead=none];
+}
