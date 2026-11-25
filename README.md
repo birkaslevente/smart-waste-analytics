@@ -117,6 +117,55 @@ This runs the three data notebooks in order (B → C → A) and rebuilds every C
 
 You can also open the notebooks in Jupyter and run them one by one (Kernel → Restart & Run All), in the same order.
 
+## How to open the dashboard
+
+The dashboard is a [Streamlit](https://streamlit.io) app (`dashboard/app.py`) built with Plotly. It runs in your web browser and needs no coding: you only use the slider and the drop-down menus.
+
+**You need:** Python 3.10 or newer (3.12 or 3.13 is the safest choice) and an internet connection for the first install.
+
+**Steps** (run every command from the repository root, the folder that contains `run_pipeline.py`):
+
+1. Install the packages for the whole project and for the dashboard:
+   ```
+   pip install -r requirements.txt
+   pip install -r dashboard/requirements.txt
+   ```
+2. (Optional) Rebuild the data tables. They are already in `team2_waste_data/processed/`, so you can skip this step:
+   python run_pipeline.py
+   ```
+   python run_pipeline.py
+   ```
+3. Start the dashboard:
+   ```
+   streamlit run dashboard/app.py
+   ```
+4. Your browser opens at `http://localhost:8501`. If it does not, open that address yourself. To stop the dashboard, press `Ctrl+C` in the terminal.
+
+On Windows, if `pip`, `python` or `streamlit` is "not recognized", put `py -m` in front: `py -m pip install -r requirements.txt` and `py -m streamlit run dashboard/app.py`.
+
+**What you can do in the dashboard**
+
+| Section | What it shows | What you can do |
+| --- | --- | --- |
+| 1. World map | Municipal waste collected per person (kg per person per year) | Move the year slider; hover over a country |
+| 2. One country over time | Waste per person and population for one country | Pick a country from the list |
+| 3. Treatment by region | Share of waste that is recycled, composted, incinerated, landfilled or treated otherwise (%) | Hover over the bars |
+| 4. Population until 2100 | Population by region, million people (dashed = UN projection) | Choose which regions to show |
+
+Grey countries on the map did not report waste data for that year. Only countries whose treatment shares add up to about 100% are used in section 3.
+
+**Problems and fixes**
+
+| Message or problem | What to do |
+| --- | --- |
+| `FileNotFoundError ... panel_country_year.csv` | Step 2 was skipped: run `python run_pipeline.py` from the repository root. |
+| `Error: Invalid value: File does not exist: dashboard/app.py` | You are in the wrong folder. Go to the repository root with `cd` and try again. |
+| `An Application Control policy has blocked this file` (Windows, pandas) | A very new pandas version is blocked. Install an older one: `pip install "pandas==2.3.3"`, then start the dashboard again. |
+| Port 8501 is already in use | Close the other dashboard window, or run `streamlit run dashboard/app.py --server.port 8502`. |
+
+
+
+
 ## Grading
 
 | Area | Weight |
