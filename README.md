@@ -131,7 +131,6 @@ The dashboard is a [Streamlit](https://streamlit.io) app (`dashboard/app.py`) bu
    pip install -r dashboard/requirements.txt
    ```
 2. (Optional) Rebuild the data tables. They are already in `team2_waste_data/processed/`, so you can skip this step:
-   python run_pipeline.py
    ```
    python run_pipeline.py
    ```
@@ -163,9 +162,6 @@ Grey countries on the map did not report waste data for that year. Only countrie
 | `An Application Control policy has blocked this file` (Windows, pandas) | A very new pandas version is blocked. Install an older one: `pip install "pandas==2.3.3"`, then start the dashboard again. |
 | Port 8501 is already in use | Close the other dashboard window, or run `streamlit run dashboard/app.py --server.port 8502`. |
 
-
-
-
 ## Grading
 
 | Area | Weight |
@@ -189,8 +185,9 @@ smart-waste-analytics/
     scripts/               download script + data notebooks (cleaning, joining)
     processed/             cleaned and joined CSVs (committed, so you can use them without running anything)
     sources/               snapshot of the UNSD web page
-  outputs/                 figures and exported dashboard (created by the code, not committed)
-  report/                  project report
+  dashboard/               interactive Streamlit dashboard (app.py), see "How to open the dashboard"
+  outputs/                 figures (created by the code, not committed)
+  report/                  report sections
   presentation/            slides
 ```
 
