@@ -110,8 +110,12 @@ st.plotly_chart(
            labels={"Share": "Share of managed waste (%)"},
            title="Waste treatment by region, latest year reported (% of managed waste)"),
     width="stretch")
+n_europe = int((ok.Region == "Europe").sum())
 st.caption("Only countries whose treatment shares add up to about 100% are included; "
-           "bigger countries count for more, and the latest reporting year differs by country.")
+           "bigger countries count for more, and the latest reporting year differs by country. "
+           f"Europe is based on only {n_europe} countries, because most European countries do not report "
+           "incineration with energy recovery in this source, and some large countries (for example the USA "
+           "and Japan) are left out because their shares in the source file are not usable.")
 
 # 4 ---- Population projection to 2100
 st.header("4. Population until 2100")
